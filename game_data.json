@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Aleksandar Raki\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
-        "Record": "14-6-0 (W-L-D)",
-        "SLpM": "4.13",
-        "SApM": "2.86",
-        "TD_Avg": "0.64",
-        "Sub_Avg": "0.13",
-        "Fight_Time": "10:41",
-        "Fight_Time_Seconds": 641,
+        "Name": "Khalil Rountree Jr.",
+        "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=QE75Lf4F",
+        "Record": "15-7-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "50\n                  %",
+        "Sub_Avg": "59\n                      %",
+        "Fight_Time_Seconds": 0,
         "Division": "Light Heavyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-02-22T05:57:47.969000Z"
+        "Rank": "4",
+        "Selected_Date": "2026-02-23T06:08:56.986811Z"
     },
     "past_fighters": [
-        "Aljamain Sterling",
         "Michael Chandler",
         "Marvin Vettori",
         "Vinicius Oliveira",
         "Jailton Almeida",
         "Shavkat Rakhmonov",
-        "Brandon Royval"
+        "Brandon Royval",
+        "Aleksandar Raki\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1489,7 +1487,8 @@
             "Sub_Avg": "59\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-02-23T06:08:56.986811Z"
         },
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
