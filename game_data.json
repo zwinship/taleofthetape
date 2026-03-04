@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gregory Rodrigues",
-        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
-        "Record": "18-6-0 (W-L-D)",
-        "SLpM": "5.60",
-        "SApM": "4.84",
-        "TD_Avg": "1.93",
-        "Sub_Avg": "0.39",
-        "Fight_Time": "08:59",
-        "Fight_Time_Seconds": 539,
-        "Division": "Middleweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-03T05:56:37.572890Z"
+        "Name": "Charles Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/charles-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/OLIVEIRA_CHARLES_10-11.png?itok=vZYVQ-Bm",
+        "Record": "36-11-0 (W-L-D)",
+        "SLpM": "3.35",
+        "SApM": "3.24",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "2.61",
+        "Fight_Time": "07:30",
+        "Fight_Time_Seconds": 450,
+        "Division": "Lightweight",
+        "Rank": "3",
+        "Selected_Date": "2026-03-04T05:52:51.608469Z"
     },
     "past_fighters": [
-        "Dustin Jacoby",
         "Diego Lopes",
         "Valter Walker",
         "Montel Jackson",
         "Leon Edwards",
         "Marcus McGhee",
-        "Alexander Volkov"
+        "Alexander Volkov",
+        "Gregory Rodrigues"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -221,7 +221,8 @@
             "Fight_Time": "07:30",
             "Fight_Time_Seconds": 450,
             "Division": "Lightweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-03-04T05:52:51.608469Z"
         },
         "Belal Muhammad": {
             "Name": "Belal Muhammad",
@@ -264,7 +265,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-01-28T05:36:27.036410Z"
         },
         "Brandon Royval": {
@@ -336,7 +337,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -365,7 +366,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "9"
+            "Rank": "11"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -379,7 +380,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
@@ -408,7 +409,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Charles Johnson": {
             "Name": "Charles Johnson",
@@ -422,7 +423,7 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2025-12-19T05:45:45.840264Z"
         },
         "Bruno Silva": {
@@ -437,7 +438,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-02-01T06:02:34.709761Z"
         },
         "Lone\u2019er Kavanagh": {
@@ -452,7 +453,7 @@
             "Fight_Time": "10:30",
             "Fight_Time_Seconds": 630,
             "Division": "Flyweight",
-            "Rank": "15"
+            "Rank": "6"
         },
         "Umar Nurmagomedov": {
             "Name": "Umar Nurmagomedov",
@@ -565,7 +566,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Mario Bautista": {
             "Name": "Mario Bautista",
@@ -608,7 +609,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Rob Font": {
             "Name": "Rob Font",
@@ -840,7 +841,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Dan Ige": {
             "Name": "Dan Ige",
@@ -1759,7 +1760,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -2016,7 +2017,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Uro\u0161 Medi\u0107": {
             "Name": "Uro\u0161 Medi\u0107",
