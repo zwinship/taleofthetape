@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tagir Ulanbekov",
-        "Profile_URL": "https://www.ufc.com/athlete/tagir-ulanbekov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ULANBEKOV_TAGIR_11-22.png?itok=SXN7VlL2",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "3.01",
-        "SApM": "3.44",
-        "TD_Avg": "2.73",
-        "Sub_Avg": "1.52",
-        "Fight_Time": "12:22",
-        "Fight_Time_Seconds": 742,
-        "Division": "Flyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-06T05:53:03.394771Z"
+        "Name": "Vitor Petrino",
+        "Profile_URL": "https://www.ufc.com/athlete/vitor-petrino",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PETRINO_VITOR_10-11.png?itok=uSTVKsKO",
+        "Record": "13-2-0 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "2.48",
+        "TD_Avg": "3.04",
+        "Sub_Avg": "0.84",
+        "Fight_Time": "09:52",
+        "Fight_Time_Seconds": 592,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-03-07T05:43:35.194519Z"
     },
     "past_fighters": [
-        "Montel Jackson",
         "Leon Edwards",
         "Marcus McGhee",
         "Alexander Volkov",
         "Gregory Rodrigues",
         "Charles Oliveira",
-        "Marlon Vera"
+        "Marlon Vera",
+        "Tagir Ulanbekov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2047,7 +2047,8 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-03-07T05:43:35.194519Z"
         }
     }
 }
