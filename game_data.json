@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Islam Makhachev",
-        "Profile_URL": "https://www.ufc.com/athlete/islam-makhachev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/MAKHACHEV_ISLAM_BELT_01-18.png?itok=lj6jqPw9",
-        "Record": "28-1-0 (W-L-D)",
-        "SLpM": "2.45",
-        "SApM": "1.45",
-        "TD_Avg": "3.10",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "11:01",
-        "Fight_Time_Seconds": 661,
-        "Division": "Welterweight",
-        "Rank": "C",
-        "Selected_Date": "2026-03-08T05:51:18.155303Z"
+        "Name": "Far\u00e8s Ziam",
+        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=JJeAJNJl",
+        "Record": "18-4-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "1.53",
+        "TD_Avg": "1.73",
+        "Sub_Avg": "0.46",
+        "Fight_Time": "13:01",
+        "Fight_Time_Seconds": 781,
+        "Division": "Lightweight",
+        "Rank": "15",
+        "Selected_Date": "2026-03-09T05:59:45.608982Z"
     },
     "past_fighters": [
-        "Marcus McGhee",
         "Alexander Volkov",
         "Gregory Rodrigues",
         "Charles Oliveira",
         "Marlon Vera",
         "Tagir Ulanbekov",
-        "Vitor Petrino"
+        "Vitor Petrino",
+        "Islam Makhachev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -949,7 +949,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=M8Grs8-5",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=5WHkfQZi",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1935,7 +1935,8 @@
             "Fight_Time": "13:01",
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-03-09T05:59:45.608982Z"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
