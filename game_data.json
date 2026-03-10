@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Far\u00e8s Ziam",
-        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=JJeAJNJl",
-        "Record": "18-4-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "1.53",
-        "TD_Avg": "1.73",
-        "Sub_Avg": "0.46",
-        "Fight_Time": "13:01",
-        "Fight_Time_Seconds": 781,
-        "Division": "Lightweight",
+        "Name": "Bruno Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/bruno-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SILVA_BRUNO_10-18.png?itok=OyFIgRsq",
+        "Record": "15-7-2 (W-L-D)",
+        "SLpM": "3.82",
+        "SApM": "4.55",
+        "TD_Avg": "2.30",
+        "Sub_Avg": "0.29",
+        "Fight_Time": "10:27",
+        "Fight_Time_Seconds": 627,
+        "Division": "Flyweight",
         "Rank": "15",
-        "Selected_Date": "2026-03-09T05:59:45.608982Z"
+        "Selected_Date": "2026-03-10T05:48:46.649140Z"
     },
     "past_fighters": [
-        "Alexander Volkov",
         "Gregory Rodrigues",
         "Charles Oliveira",
         "Marlon Vera",
         "Tagir Ulanbekov",
         "Vitor Petrino",
-        "Islam Makhachev"
+        "Islam Makhachev",
+        "Far\u00e8s Ziam"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -441,7 +441,7 @@
             "Fight_Time_Seconds": 627,
             "Division": "Flyweight",
             "Rank": "15",
-            "Selected_Date": "2026-02-01T06:02:34.709761Z"
+            "Selected_Date": "2026-03-10T05:48:46.649140Z"
         },
         "Lone\u2019er Kavanagh": {
             "Name": "Lone\u2019er Kavanagh",
@@ -1935,8 +1935,7 @@
             "Fight_Time": "13:01",
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
-            "Rank": "15",
-            "Selected_Date": "2026-03-09T05:59:45.608982Z"
+            "Rank": "15"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
