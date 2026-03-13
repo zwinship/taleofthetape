@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Israel Adesanya",
-        "Profile_URL": "https://www.ufc.com/athlete/israel-adesanya",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/ADESANYA_ISRAEL_02-01.png?itok=kqsY39NL",
-        "Record": "24-5-0 (W-L-D)",
-        "SLpM": "4.02",
-        "SApM": "3.20",
-        "TD_Avg": "0.05",
-        "Sub_Avg": "0.14",
-        "Fight_Time": "17:35",
-        "Fight_Time_Seconds": 1055,
-        "Division": "Middleweight",
-        "Rank": "4",
-        "Selected_Date": "2026-03-12T05:53:41.660847Z"
+        "Name": "Alex Perez",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
+        "Record": "25-10-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "3.22",
+        "TD_Avg": "2.28",
+        "Sub_Avg": "0.76",
+        "Fight_Time": "07:03",
+        "Fight_Time_Seconds": 423,
+        "Division": "Flyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-03-13T05:51:39.103858Z"
     },
     "past_fighters": [
-        "Marlon Vera",
         "Tagir Ulanbekov",
         "Vitor Petrino",
         "Islam Makhachev",
         "Far\u00e8s Ziam",
         "Bruno Silva",
-        "Steve Garcia"
+        "Steve Garcia",
+        "Israel Adesanya"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -396,7 +396,7 @@
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
             "Rank": "10",
-            "Selected_Date": "2026-02-13T06:04:16.452067Z"
+            "Selected_Date": "2026-03-13T05:51:39.103858Z"
         },
         "Tagir Ulanbekov": {
             "Name": "Tagir Ulanbekov",
