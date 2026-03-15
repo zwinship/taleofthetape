@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mateusz Gamrot",
-        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
-        "Record": "25-4-0 (W-L-D)",
-        "SLpM": "3.29",
-        "SApM": "2.96",
-        "TD_Avg": "5.15",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:09",
-        "Fight_Time_Seconds": 729,
-        "Division": "Lightweight",
-        "Rank": "8",
-        "Selected_Date": "2026-03-14T05:48:20.259433Z"
+        "Name": "Lone\u2019er Kavanagh",
+        "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
+        "Record": "9-1-0 (W-L-D)",
+        "SLpM": "4.29",
+        "SApM": "3.69",
+        "TD_Avg": "1.79",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "10:30",
+        "Fight_Time_Seconds": 630,
+        "Division": "Flyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-03-15T06:05:50.380399Z"
     },
     "past_fighters": [
-        "Vitor Petrino",
         "Islam Makhachev",
         "Far\u00e8s Ziam",
         "Bruno Silva",
         "Steve Garcia",
         "Israel Adesanya",
-        "Alex Perez"
+        "Alex Perez",
+        "Mateusz Gamrot"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -455,7 +455,8 @@
             "Fight_Time": "10:30",
             "Fight_Time_Seconds": 630,
             "Division": "Flyweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-03-15T06:05:50.380399Z"
         },
         "Umar Nurmagomedov": {
             "Name": "Umar Nurmagomedov",
