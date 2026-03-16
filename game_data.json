@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Lone\u2019er Kavanagh",
-        "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
-        "Record": "9-1-0 (W-L-D)",
-        "SLpM": "4.29",
-        "SApM": "3.69",
-        "TD_Avg": "1.79",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "10:30",
-        "Fight_Time_Seconds": 630,
-        "Division": "Flyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-03-15T06:05:50.380399Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-03-16T06:20:36.604548Z"
     },
     "past_fighters": [
-        "Islam Makhachev",
         "Far\u00e8s Ziam",
         "Bruno Silva",
         "Steve Garcia",
         "Israel Adesanya",
         "Alex Perez",
-        "Mateusz Gamrot"
+        "Mateusz Gamrot",
+        "Lone\u2019er Kavanagh"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1485,7 +1485,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "3",
-            "Selected_Date": "2025-12-27T05:29:18.784032Z"
+            "Selected_Date": "2026-03-16T06:20:36.604548Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
