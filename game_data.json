@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
-        "Division": "Light Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-03-16T06:20:36.604548Z"
+        "Name": "Sean O'Malley",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "6.30",
+        "SApM": "3.48",
+        "TD_Avg": "0.27",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "11:19",
+        "Fight_Time_Seconds": 679,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-03-17T06:01:12.444998Z"
     },
     "past_fighters": [
-        "Far\u00e8s Ziam",
         "Bruno Silva",
         "Steve Garcia",
         "Israel Adesanya",
         "Alex Perez",
         "Mateusz Gamrot",
-        "Lone\u2019er Kavanagh"
+        "Lone\u2019er Kavanagh",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -484,7 +484,8 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-03-17T06:01:12.444998Z"
         },
         "Petr Yan": {
             "Name": "Petr Yan",
