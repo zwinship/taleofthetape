@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sean O'Malley",
-        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "6.30",
-        "SApM": "3.48",
-        "TD_Avg": "0.27",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "11:19",
-        "Fight_Time_Seconds": 679,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-03-17T06:01:12.444998Z"
+        "Name": "Alex Pereira",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.16",
+        "SApM": "3.50",
+        "TD_Avg": "0.11",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-03-18T06:03:55.925612Z"
     },
     "past_fighters": [
-        "Bruno Silva",
         "Steve Garcia",
         "Israel Adesanya",
         "Alex Perez",
         "Mateusz Gamrot",
         "Lone\u2019er Kavanagh",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Sean O'Malley"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -111,7 +111,8 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Light Heavyweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-03-18T06:03:55.925612Z"
         },
         "Alexander Volkanovski": {
             "Name": "Alexander Volkanovski",
@@ -338,7 +339,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "7"
+            "Rank": "8"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -410,7 +411,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-03-06T05:53:03.394771Z"
         },
         "Charles Johnson": {
@@ -425,7 +426,7 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2025-12-19T05:45:45.840264Z"
         },
         "Bruno Silva": {
@@ -805,7 +806,7 @@
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Josh Emmett": {
             "Name": "Josh Emmett",
@@ -819,7 +820,7 @@
             "Fight_Time": "12:59",
             "Fight_Time_Seconds": 779,
             "Division": "Featherweight",
-            "Rank": "11"
+            "Rank": "15"
         },
         "Jean Silva": {
             "Name": "Jean Silva",
@@ -875,7 +876,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -991,7 +992,7 @@
             "Fight_Time": "09:28",
             "Fight_Time_Seconds": 568,
             "Division": "Lightweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Michael Chandler": {
             "Name": "Michael Chandler",
@@ -1910,7 +1911,7 @@
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "10"
         },
         "Manuel Torres": {
             "Name": "Manuel Torres",
