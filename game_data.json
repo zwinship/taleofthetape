@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Pereira",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.16",
-        "SApM": "3.50",
-        "TD_Avg": "0.11",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "11:04",
-        "Fight_Time_Seconds": 664,
-        "Division": "Light Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-03-18T06:03:55.925612Z"
+        "Name": "Robert Whittaker",
+        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
+        "Record": "27-9-0 (W-L-D)",
+        "SLpM": "4.39",
+        "SApM": "3.36",
+        "TD_Avg": "0.73",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:37",
+        "Fight_Time_Seconds": 817,
+        "Division": "Middleweight",
+        "Rank": "9",
+        "Selected_Date": "2026-03-19T05:59:50.016757Z"
     },
     "past_fighters": [
-        "Steve Garcia",
         "Israel Adesanya",
         "Alex Perez",
         "Mateusz Gamrot",
         "Lone\u2019er Kavanagh",
         "Carlos Ulberg",
-        "Sean O'Malley"
+        "Sean O'Malley",
+        "Alex Pereira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1370,7 +1370,8 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Middleweight",
-            "Rank": "9"
+            "Rank": "9",
+            "Selected_Date": "2026-03-19T05:59:50.016757Z"
         },
         "Jared Cannonier": {
             "Name": "Jared Cannonier",
