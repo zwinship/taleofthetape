@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 806,
         "Division": "Middleweight",
         "Rank": "8",
-        "Selected_Date": "2026-03-20T05:54:26.746750Z"
+        "Selected_Date": "2026-03-21T05:42:40.999205Z"
     },
     "past_fighters": [
-        "Alex Perez",
         "Mateusz Gamrot",
         "Lone\u2019er Kavanagh",
         "Carlos Ulberg",
         "Sean O'Malley",
         "Alex Pereira",
-        "Robert Whittaker"
+        "Robert Whittaker",
+        "Reinier de Ridder"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1356,7 +1356,7 @@
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
             "Rank": "8",
-            "Selected_Date": "2026-03-20T05:54:26.746750Z"
+            "Selected_Date": "2026-03-21T05:42:40.999205Z"
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
