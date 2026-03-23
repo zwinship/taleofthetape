@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Chandler",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
-        "Record": "23-10-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "4.52",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "09:37",
-        "Fight_Time_Seconds": 577,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-22T05:55:56.651463Z"
+        "Name": "Youssef Zalal",
+        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
+        "Record": "18-5-1 (W-L-D)",
+        "SLpM": "3.03",
+        "SApM": "1.78",
+        "TD_Avg": "2.17",
+        "Sub_Avg": "1.41",
+        "Fight_Time": "11:32",
+        "Fight_Time_Seconds": 692,
+        "Division": "Featherweight",
+        "Rank": "7",
+        "Selected_Date": "2026-03-23T06:11:32.597381Z"
     },
     "past_fighters": [
-        "Mateusz Gamrot",
         "Lone\u2019er Kavanagh",
         "Carlos Ulberg",
         "Sean O'Malley",
         "Alex Pereira",
         "Robert Whittaker",
-        "Reinier de Ridder"
+        "Reinier de Ridder",
+        "Michael Chandler"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -777,7 +777,7 @@
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
             "Rank": "7",
-            "Selected_Date": "2026-02-10T06:14:12.018791Z"
+            "Selected_Date": "2026-03-23T06:11:32.597381Z"
         },
         "Steve Garcia": {
             "Name": "Steve Garcia",
