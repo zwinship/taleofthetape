@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Youssef Zalal",
-        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
-        "Record": "18-5-1 (W-L-D)",
-        "SLpM": "3.03",
-        "SApM": "1.78",
-        "TD_Avg": "2.17",
-        "Sub_Avg": "1.41",
-        "Fight_Time": "11:32",
-        "Fight_Time_Seconds": 692,
-        "Division": "Featherweight",
-        "Rank": "7",
-        "Selected_Date": "2026-03-23T06:11:32.597381Z"
+        "Name": "Jan B\u0142achowicz",
+        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
+        "Record": "29-11-2 (W-L-D)",
+        "SLpM": "3.55",
+        "SApM": "3.14",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "13:16",
+        "Fight_Time_Seconds": 796,
+        "Division": "Light Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-03-24T06:01:40.748539Z"
     },
     "past_fighters": [
-        "Lone\u2019er Kavanagh",
         "Carlos Ulberg",
         "Sean O'Malley",
         "Alex Pereira",
         "Robert Whittaker",
         "Reinier de Ridder",
-        "Michael Chandler"
+        "Michael Chandler",
+        "Youssef Zalal"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1514,7 +1514,8 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-03-24T06:01:40.748539Z"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
