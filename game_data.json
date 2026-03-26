@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Amir Albazi",
-        "Profile_URL": "https://www.ufc.com/athlete/amir-albazi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=4tv_VKcD",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "2.72",
-        "SApM": "3.71",
-        "TD_Avg": "1.39",
-        "Sub_Avg": "0.52",
-        "Fight_Time": "14:25",
-        "Fight_Time_Seconds": 865,
-        "Division": "Flyweight",
+        "Name": "Dan Hooker",
+        "Profile_URL": "https://www.ufc.com/athlete/dan-hooker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HOOKER_DAN_11-22.png?itok=oukyDOeT",
+        "Record": "24-13-0 (W-L-D)",
+        "SLpM": "4.89",
+        "SApM": "4.73",
+        "TD_Avg": "0.71",
+        "Sub_Avg": "0.45",
+        "Fight_Time": "10:09",
+        "Fight_Time_Seconds": 609,
+        "Division": "Lightweight",
         "Rank": "7",
-        "Selected_Date": "2026-03-25T06:02:43.881070Z"
+        "Selected_Date": "2026-03-26T06:13:22.141150Z"
     },
     "past_fighters": [
-        "Sean O'Malley",
         "Alex Pereira",
         "Robert Whittaker",
         "Reinier de Ridder",
         "Michael Chandler",
         "Youssef Zalal",
-        "Jan B\u0142achowicz"
+        "Jan B\u0142achowicz",
+        "Amir Albazi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -935,7 +935,8 @@
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
             "Division": "Lightweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-03-26T06:13:22.141150Z"
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
@@ -2098,6 +2099,20 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
+            "Rank": "12"
+        },
+        "Michael Venom Page": {
+            "Name": "Michael Venom Page",
+            "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=tEu8BuVg",
+            "Record": "25-3-0 (W-L-D)",
+            "SLpM": "2.28",
+            "SApM": "1.51",
+            "TD_Avg": "0.19",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "11:21",
+            "Fight_Time_Seconds": 681,
+            "Division": "Welterweight",
             "Rank": "12"
         }
     }
