@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dan Hooker",
-        "Profile_URL": "https://www.ufc.com/athlete/dan-hooker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HOOKER_DAN_11-22.png?itok=oukyDOeT",
-        "Record": "24-13-0 (W-L-D)",
-        "SLpM": "4.89",
-        "SApM": "4.73",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.45",
-        "Fight_Time": "10:09",
-        "Fight_Time_Seconds": 609,
-        "Division": "Lightweight",
-        "Rank": "7",
-        "Selected_Date": "2026-03-26T06:13:22.141150Z"
+        "Name": "Jailton Almeida",
+        "Profile_URL": "https://www.ufc.com/athlete/jailton-almeida",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALMEIDA_JAILTON_10-25.png?itok=BPFgM4Bw",
+        "Record": "22-4-0 (W-L-D)",
+        "SLpM": "2.25",
+        "SApM": "1.02",
+        "TD_Avg": "6.66",
+        "Sub_Avg": "1.98",
+        "Fight_Time": "07:35",
+        "Fight_Time_Seconds": 455,
+        "Division": "Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-03-27T06:13:49.767451Z"
     },
     "past_fighters": [
-        "Alex Pereira",
         "Robert Whittaker",
         "Reinier de Ridder",
         "Michael Chandler",
         "Youssef Zalal",
         "Jan B\u0142achowicz",
-        "Amir Albazi"
+        "Amir Albazi",
+        "Dan Hooker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1743,7 +1743,7 @@
             "Fight_Time_Seconds": 455,
             "Division": "Heavyweight",
             "Rank": "8",
-            "Selected_Date": "2026-02-19T06:04:16.387077Z"
+            "Selected_Date": "2026-03-27T06:13:49.767451Z"
         },
         "Serghei Spivac": {
             "Name": "Serghei Spivac",
