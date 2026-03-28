@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jailton Almeida",
-        "Profile_URL": "https://www.ufc.com/athlete/jailton-almeida",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALMEIDA_JAILTON_10-25.png?itok=BPFgM4Bw",
-        "Record": "22-4-0 (W-L-D)",
-        "SLpM": "2.25",
-        "SApM": "1.02",
-        "TD_Avg": "6.66",
-        "Sub_Avg": "1.98",
-        "Fight_Time": "07:35",
-        "Fight_Time_Seconds": 455,
-        "Division": "Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-03-27T06:13:49.767451Z"
+        "Name": "Kyoji Horiguchi",
+        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
+        "Record": "35-5-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "2.26",
+        "TD_Avg": "1.80",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "13:53",
+        "Fight_Time_Seconds": 833,
+        "Division": "Flyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-03-28T05:59:16.988529Z"
     },
     "past_fighters": [
-        "Robert Whittaker",
         "Reinier de Ridder",
         "Michael Chandler",
         "Youssef Zalal",
         "Jan B\u0142achowicz",
         "Amir Albazi",
-        "Dan Hooker"
+        "Dan Hooker",
+        "Jailton Almeida"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -355,7 +355,7 @@
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
             "Rank": "5",
-            "Selected_Date": "2026-01-29T05:52:09.372652Z"
+            "Selected_Date": "2026-03-28T05:59:16.988529Z"
         },
         "Tim Elliott": {
             "Name": "Tim Elliott",
