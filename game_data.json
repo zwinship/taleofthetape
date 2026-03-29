@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
+        "Name": "Charles Johnson",
+        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
+        "Record": "18-7-0 (W-L-D)",
+        "SLpM": "4.73",
+        "SApM": "3.78",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.38",
+        "Fight_Time": "13:17",
+        "Fight_Time_Seconds": 797,
         "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-03-28T05:59:16.988529Z"
+        "Rank": "13",
+        "Selected_Date": "2026-03-29T06:12:16.498076Z"
     },
     "past_fighters": [
-        "Reinier de Ridder",
         "Michael Chandler",
         "Youssef Zalal",
         "Jan B\u0142achowicz",
         "Amir Albazi",
         "Dan Hooker",
-        "Jailton Almeida"
+        "Jailton Almeida",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -428,7 +428,7 @@
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
             "Rank": "13",
-            "Selected_Date": "2025-12-19T05:45:45.840264Z"
+            "Selected_Date": "2026-03-29T06:12:16.498076Z"
         },
         "Bruno Silva": {
             "Name": "Bruno Silva",
