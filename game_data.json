@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jamahal Hill",
-        "Profile_URL": "https://www.ufc.com/athlete/jamahal-hill",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HILL_JAMAHAL_06-21.png?itok=MY2Tam6X",
-        "Record": "12-4-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "45\n                  %",
-        "Sub_Avg": "73\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Light Heavyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-03-30T06:53:25.632454Z"
+        "Name": "Shamil Gaziev",
+        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
+        "Record": "14-2-0 (W-L-D)",
+        "SLpM": "2.62",
+        "SApM": "3.97",
+        "TD_Avg": "0.93",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "08:01",
+        "Fight_Time_Seconds": 481,
+        "Division": "Heavyweight",
+        "Rank": "13",
+        "Selected_Date": "2026-03-31T06:16:54.131096Z"
     },
     "past_fighters": [
-        "Youssef Zalal",
         "Jan B\u0142achowicz",
         "Amir Albazi",
         "Dan Hooker",
         "Jailton Almeida",
         "Kyoji Horiguchi",
-        "Charles Johnson"
+        "Charles Johnson",
+        "Jamahal Hill"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1505,7 +1507,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=5VboAz4F",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
@@ -1813,7 +1815,8 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-03-31T06:16:54.131096Z"
         },
         "Tai Tuivasa": {
             "Name": "Tai Tuivasa",
