@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shamil Gaziev",
-        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "2.62",
-        "SApM": "3.97",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "08:01",
-        "Fight_Time_Seconds": 481,
-        "Division": "Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-31T06:16:54.131096Z"
+        "Name": "Robert Whittaker",
+        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
+        "Record": "27-9-0 (W-L-D)",
+        "SLpM": "4.39",
+        "SApM": "3.36",
+        "TD_Avg": "0.73",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:37",
+        "Fight_Time_Seconds": 817,
+        "Division": "Middleweight",
+        "Rank": "10",
+        "Selected_Date": "2026-04-01T06:26:55.546485Z"
     },
     "past_fighters": [
-        "Jan B\u0142achowicz",
         "Amir Albazi",
         "Dan Hooker",
         "Jailton Almeida",
         "Kyoji Horiguchi",
         "Charles Johnson",
-        "Jamahal Hill"
+        "Jamahal Hill",
+        "Shamil Gaziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1227,7 +1227,7 @@
             "Fight_Time": "16:57",
             "Fight_Time_Seconds": 1017,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Geoff Neal": {
             "Name": "Geoff Neal",
@@ -1255,7 +1255,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
@@ -1299,7 +1299,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "7"
+            "Rank": "6"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
@@ -1313,7 +1313,7 @@
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
             "Division": "Middleweight",
-            "Rank": "6"
+            "Rank": "4"
         },
         "Israel Adesanya": {
             "Name": "Israel Adesanya",
@@ -1327,7 +1327,7 @@
             "Fight_Time": "17:35",
             "Fight_Time_Seconds": 1055,
             "Division": "Middleweight",
-            "Rank": "4",
+            "Rank": "9",
             "Selected_Date": "2026-03-12T05:53:41.660847Z"
         },
         "Caio Borralho": {
@@ -1372,8 +1372,8 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Middleweight",
-            "Rank": "9",
-            "Selected_Date": "2026-03-19T05:59:50.016757Z"
+            "Rank": "10",
+            "Selected_Date": "2026-04-01T06:26:55.546485Z"
         },
         "Jared Cannonier": {
             "Name": "Jared Cannonier",
@@ -1387,7 +1387,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
@@ -1431,7 +1431,7 @@
             "Fight_Time": "12:46",
             "Fight_Time_Seconds": 766,
             "Division": "Middleweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
@@ -1460,7 +1460,7 @@
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-03-03T05:56:37.572890Z"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
@@ -1713,7 +1713,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-01-13T05:33:28.206686Z"
         },
         "Waldo Cortes Acosta": {
@@ -1787,7 +1787,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
@@ -1801,7 +1801,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "8"
+            "Rank": "11"
         },
         "Shamil Gaziev": {
             "Name": "Shamil Gaziev",
@@ -1844,7 +1844,7 @@
             "Fight_Time": "10:53",
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "14"
         },
         "Valter Walker": {
             "Name": "Valter Walker",
@@ -1858,7 +1858,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-02-26T06:03:32.308431Z"
         },
         "Tallison Teixeira": {
@@ -1873,7 +1873,7 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
@@ -1959,7 +1959,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "14"
+            "Rank": "6"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
@@ -2101,7 +2101,7 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
@@ -2116,6 +2116,20 @@
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
             "Rank": "12"
+        },
+        "Tyrell Fortune": {
+            "Name": "Tyrell Fortune",
+            "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
+            "Record": "18-3-0 (W-L-D)",
+            "SLpM": "2.00",
+            "SApM": "3.13",
+            "TD_Avg": "3.00",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Heavyweight",
+            "Rank": "10"
         }
     }
 }
