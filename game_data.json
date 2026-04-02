@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Robert Whittaker",
-        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
-        "Record": "27-9-0 (W-L-D)",
-        "SLpM": "4.39",
-        "SApM": "3.36",
-        "TD_Avg": "0.73",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
-        "Division": "Middleweight",
-        "Rank": "10",
-        "Selected_Date": "2026-04-01T06:26:55.546485Z"
+        "Name": "Kyler Phillips",
+        "Profile_URL": "https://www.ufc.com/athlete/kyler-phillips",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/PHILLIPS_KYLER_07-19.png?itok=ksDPo7Da",
+        "Record": "12-4-0 (W-L-D)",
+        "SLpM": "5.04",
+        "SApM": "3.83",
+        "TD_Avg": "2.31",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "12:20",
+        "Fight_Time_Seconds": 740,
+        "Division": "Bantamweight",
+        "Rank": "14",
+        "Selected_Date": "2026-04-02T06:12:58.259780Z"
     },
     "past_fighters": [
-        "Amir Albazi",
         "Dan Hooker",
         "Jailton Almeida",
         "Kyoji Horiguchi",
         "Charles Johnson",
         "Jamahal Hill",
-        "Shamil Gaziev"
+        "Shamil Gaziev",
+        "Robert Whittaker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -660,7 +660,7 @@
             "Fight_Time_Seconds": 740,
             "Division": "Bantamweight",
             "Rank": "14",
-            "Selected_Date": "2026-02-03T05:57:08.959288Z"
+            "Selected_Date": "2026-04-02T06:12:58.259780Z"
         },
         "Marcus McGhee": {
             "Name": "Marcus McGhee",
