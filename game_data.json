@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Justin Gaethje",
-        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
-        "Record": "27-5-0 (W-L-D)",
-        "SLpM": "6.59",
-        "SApM": "7.18",
-        "TD_Avg": "0.10",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:14",
-        "Fight_Time_Seconds": 674,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-04-03T06:13:19.073920Z"
+        "Name": "Ian Machado Garry",
+        "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.92",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "14:45",
+        "Fight_Time_Seconds": 885,
+        "Division": "Welterweight",
+        "Rank": "2",
+        "Selected_Date": "2026-04-04T05:58:47.276953Z"
     },
     "past_fighters": [
-        "Jailton Almeida",
         "Kyoji Horiguchi",
         "Charles Johnson",
         "Jamahal Hill",
         "Shamil Gaziev",
         "Robert Whittaker",
-        "Kyler Phillips"
+        "Kyler Phillips",
+        "Justin Gaethje"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1083,7 +1083,7 @@
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
             "Rank": "2",
-            "Selected_Date": "2026-01-23T05:36:07.608383Z"
+            "Selected_Date": "2026-04-04T05:58:47.276953Z"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
