@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ian Machado Garry",
-        "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.92",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "14:45",
-        "Fight_Time_Seconds": 885,
+        "Name": "Carlos Prates",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-prates",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PRATES_CARLOS_11-15.png?itok=9j6oGBNV",
+        "Record": "23-7-0 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "4.53",
+        "TD_Avg": "0.21",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:48",
+        "Fight_Time_Seconds": 528,
         "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-04-04T05:58:47.276953Z"
+        "Rank": "5",
+        "Selected_Date": "2026-04-05T06:14:55.847350Z"
     },
     "past_fighters": [
-        "Kyoji Horiguchi",
         "Charles Johnson",
         "Jamahal Hill",
         "Shamil Gaziev",
         "Robert Whittaker",
         "Kyler Phillips",
-        "Justin Gaethje"
+        "Justin Gaethje",
+        "Ian Machado Garry"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1127,7 +1127,8 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Welterweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-04-05T06:14:55.847350Z"
         },
         "Sean Brady": {
             "Name": "Sean Brady",
