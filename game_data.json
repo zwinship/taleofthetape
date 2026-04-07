@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkanovski",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
-        "Record": "27-4-0 (W-L-D)",
-        "SLpM": "6.18",
-        "SApM": "3.36",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:21",
-        "Fight_Time_Seconds": 981,
-        "Division": "Featherweight",
-        "Rank": "C",
-        "Selected_Date": "2026-04-06T06:55:17.064491Z"
+        "Name": "Mauricio Ruffy",
+        "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
+        "Record": "12-2-0 (W-L-D)",
+        "SLpM": "3.84",
+        "SApM": "4.16",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:54",
+        "Fight_Time_Seconds": 534,
+        "Division": "Lightweight",
+        "Rank": "9",
+        "Selected_Date": "2026-04-07T06:19:50.157332Z"
     },
     "past_fighters": [
-        "Jamahal Hill",
         "Shamil Gaziev",
         "Robert Whittaker",
         "Kyler Phillips",
         "Justin Gaethje",
         "Ian Machado Garry",
-        "Carlos Prates"
+        "Carlos Prates",
+        "Alexander Volkanovski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1055,7 +1055,7 @@
             "Fight_Time_Seconds": 534,
             "Division": "Lightweight",
             "Rank": "9",
-            "Selected_Date": "2025-12-20T05:41:25.894860Z"
+            "Selected_Date": "2026-04-07T06:19:50.157332Z"
         },
         "Ignacio Bahamondes": {
             "Name": "Ignacio Bahamondes",
