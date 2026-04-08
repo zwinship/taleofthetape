@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mauricio Ruffy",
-        "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
-        "Record": "12-2-0 (W-L-D)",
-        "SLpM": "3.84",
-        "SApM": "4.16",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:54",
-        "Fight_Time_Seconds": 534,
-        "Division": "Lightweight",
-        "Rank": "9",
-        "Selected_Date": "2026-04-07T06:19:50.157332Z"
+        "Name": "Tom Aspinall",
+        "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "7.63",
+        "SApM": "3.62",
+        "TD_Avg": "2.62",
+        "Sub_Avg": "1.31",
+        "Fight_Time": "02:18",
+        "Fight_Time_Seconds": 138,
+        "Division": "Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-04-08T06:21:25.547376Z"
     },
     "past_fighters": [
-        "Shamil Gaziev",
         "Robert Whittaker",
         "Kyler Phillips",
         "Justin Gaethje",
         "Ian Machado Garry",
         "Carlos Prates",
-        "Alexander Volkanovski"
+        "Alexander Volkanovski",
+        "Mauricio Ruffy"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -141,7 +141,8 @@
             "Fight_Time": "02:18",
             "Fight_Time_Seconds": 138,
             "Division": "Heavyweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-04-08T06:21:25.547376Z"
         },
         "Dricus Du Plessis": {
             "Name": "Dricus Du Plessis",
@@ -980,7 +981,7 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2025-12-31T05:33:00.280979Z"
         },
         "Renato Moicano": {
@@ -995,7 +996,7 @@
             "Fight_Time": "09:28",
             "Fight_Time_Seconds": 568,
             "Division": "Lightweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Michael Chandler": {
             "Name": "Michael Chandler",
@@ -1054,7 +1055,7 @@
             "Fight_Time": "08:54",
             "Fight_Time_Seconds": 534,
             "Division": "Lightweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-04-07T06:19:50.157332Z"
         },
         "Ignacio Bahamondes": {
@@ -1301,7 +1302,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "6"
+            "Rank": "7"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
