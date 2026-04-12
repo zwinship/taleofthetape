@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tyrell Fortune",
-        "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "3.13",
-        "TD_Avg": "3.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "15:00",
-        "Fight_Time_Seconds": 900,
-        "Division": "Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-04-11T06:02:04.465422Z"
+        "Name": "Rob Font",
+        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
+        "Record": "22-9-0 (W-L-D)",
+        "SLpM": "5.36",
+        "SApM": "3.70",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.34",
+        "Fight_Time": "13:09",
+        "Fight_Time_Seconds": 789,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-04-12T06:23:46.942356Z"
     },
     "past_fighters": [
-        "Ian Machado Garry",
         "Carlos Prates",
         "Alexander Volkanovski",
         "Mauricio Ruffy",
         "Tom Aspinall",
         "Marlon Vera",
-        "Derrick Lewis"
+        "Derrick Lewis",
+        "Tyrell Fortune"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -632,7 +632,8 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-04-12T06:23:46.942356Z"
         },
         "Vinicius Oliveira": {
             "Name": "Vinicius Oliveira",
