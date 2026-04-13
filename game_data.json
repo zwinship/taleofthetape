@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rob Font",
-        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "5.36",
-        "SApM": "3.70",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.34",
-        "Fight_Time": "13:09",
-        "Fight_Time_Seconds": 789,
-        "Division": "Bantamweight",
-        "Rank": "13",
-        "Selected_Date": "2026-04-12T06:23:46.942356Z"
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
+        "Division": "Middleweight",
+        "Rank": "1",
+        "Selected_Date": "2026-04-13T07:14:10.979106Z"
     },
     "past_fighters": [
-        "Carlos Prates",
         "Alexander Volkanovski",
         "Mauricio Ruffy",
         "Tom Aspinall",
         "Marlon Vera",
         "Derrick Lewis",
-        "Tyrell Fortune"
+        "Tyrell Fortune",
+        "Rob Font"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -156,7 +156,8 @@
             "Fight_Time": "14:53",
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-04-13T07:14:10.979106Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
@@ -1471,7 +1472,7 @@
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
-            "Record": "32-5-1 (W-L-D)",
+            "Record": "32-6-1 (W-L-D)",
             "SLpM": "5.69",
             "SApM": "5.60",
             "TD_Avg": "0.51",
