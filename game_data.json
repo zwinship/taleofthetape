@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dricus Du Plessis",
-        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.18",
-        "SApM": "4.33",
-        "TD_Avg": "2.22",
-        "Sub_Avg": "0.71",
-        "Fight_Time": "14:53",
-        "Fight_Time_Seconds": 893,
-        "Division": "Middleweight",
-        "Rank": "1",
-        "Selected_Date": "2026-04-13T07:14:10.979106Z"
+        "Name": "Amir Albazi",
+        "Profile_URL": "https://www.ufc.com/athlete/amir-albazi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=4tv_VKcD",
+        "Record": "17-2-0 (W-L-D)",
+        "SLpM": "2.72",
+        "SApM": "3.71",
+        "TD_Avg": "1.39",
+        "Sub_Avg": "0.52",
+        "Fight_Time": "14:25",
+        "Fight_Time_Seconds": 865,
+        "Division": "Flyweight",
+        "Rank": "7",
+        "Selected_Date": "2026-04-14T06:53:18.117413Z"
     },
     "past_fighters": [
-        "Alexander Volkanovski",
         "Mauricio Ruffy",
         "Tom Aspinall",
         "Marlon Vera",
         "Derrick Lewis",
         "Tyrell Fortune",
-        "Rob Font"
+        "Rob Font",
+        "Dricus Du Plessis"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -301,7 +301,7 @@
             "Fight_Time_Seconds": 865,
             "Division": "Flyweight",
             "Rank": "7",
-            "Selected_Date": "2026-03-25T06:02:43.881070Z"
+            "Selected_Date": "2026-04-14T06:53:18.117413Z"
         },
         "Tatsuro Taira": {
             "Name": "Tatsuro Taira",
@@ -1473,12 +1473,12 @@
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
             "Record": "32-6-1 (W-L-D)",
-            "SLpM": "5.69",
-            "SApM": "5.60",
-            "TD_Avg": "0.51",
-            "Sub_Avg": "0.17",
-            "Fight_Time": "11:04",
-            "Fight_Time_Seconds": 664,
+            "SLpM": "5.61",
+            "SApM": "5.67",
+            "TD_Avg": "0.49",
+            "Sub_Avg": "0.16",
+            "Fight_Time": "10:15",
+            "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
             "Rank": "2"
         },
