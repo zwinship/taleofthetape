@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Melquizael Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
-        "Record": "25-7-0 (W-L-D)",
-        "SLpM": "4.38",
-        "SApM": "2.97",
-        "TD_Avg": "2.00",
-        "Sub_Avg": "1.09",
-        "Fight_Time": "09:11",
-        "Fight_Time_Seconds": 551,
-        "Division": "Featherweight",
+        "Name": "Vinicius Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.28",
+        "SApM": "2.89",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "12:33",
+        "Fight_Time_Seconds": 753,
+        "Division": "Bantamweight",
         "Rank": "12",
-        "Selected_Date": "2026-04-15T06:55:04.586520Z"
+        "Selected_Date": "2026-04-16T06:57:38.357639Z"
     },
     "past_fighters": [
-        "Tom Aspinall",
         "Marlon Vera",
         "Derrick Lewis",
         "Tyrell Fortune",
         "Rob Font",
         "Dricus Du Plessis",
-        "Amir Albazi"
+        "Amir Albazi",
+        "Melquizael Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -649,7 +649,7 @@
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
             "Rank": "12",
-            "Selected_Date": "2026-02-18T06:05:43.847676Z"
+            "Selected_Date": "2026-04-16T06:57:38.357639Z"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
