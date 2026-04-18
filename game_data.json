@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aiemann Zahabi",
-        "Profile_URL": "https://www.ufc.com/athlete/aiemann-zahabi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZAHABI_AIEMANN_10-18.png?itok=PVjgrz-q",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "4.54",
-        "SApM": "4.08",
-        "TD_Avg": "0.12",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:07",
-        "Fight_Time_Seconds": 727,
-        "Division": "Bantamweight",
-        "Rank": "6",
-        "Selected_Date": "2026-04-17T06:58:09.693774Z"
+        "Name": "Patricio Pitbull",
+        "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
+        "Record": "37-8-0 (W-L-D)",
+        "SLpM": "2.68",
+        "SApM": "4.23",
+        "TD_Avg": "1.49",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "16:04",
+        "Fight_Time_Seconds": 964,
+        "Division": "Featherweight",
+        "Rank": "15",
+        "Selected_Date": "2026-04-18T06:14:02.767683Z"
     },
     "past_fighters": [
-        "Derrick Lewis",
         "Tyrell Fortune",
         "Rob Font",
         "Dricus Du Plessis",
         "Amir Albazi",
         "Melquizael Costa",
-        "Vinicius Oliveira"
+        "Vinicius Oliveira",
+        "Aiemann Zahabi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -854,7 +854,8 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-04-18T06:14:02.767683Z"
         },
         "Dan Ige": {
             "Name": "Dan Ige",
