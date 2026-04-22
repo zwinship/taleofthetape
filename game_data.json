@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Henry Cejudo",
-        "Profile_URL": "https://www.ufc.com/athlete/henry-cejudo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CEJUDO_HENRY_02-22.png?itok=GOyCcJLq",
-        "Record": "16-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.46",
-        "TD_Avg": "1.84",
-        "Sub_Avg": "0.15",
-        "Fight_Time": "13:34",
-        "Fight_Time_Seconds": 814,
+        "Name": "Deiveson Figueiredo",
+        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+        "Record": "25-5-1 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "3.54",
+        "TD_Avg": "1.71",
+        "Sub_Avg": "1.29",
+        "Fight_Time": "12:45",
+        "Fight_Time_Seconds": 765,
         "Division": "Bantamweight",
-        "Rank": "10",
-        "Selected_Date": "2026-04-21T06:58:31.465062Z"
+        "Rank": "7",
+        "Selected_Date": "2026-04-22T06:57:33.818473Z"
     },
     "past_fighters": [
-        "Amir Albazi",
         "Melquizael Costa",
         "Vinicius Oliveira",
         "Aiemann Zahabi",
         "Patricio Pitbull",
         "Tom Aspinall",
-        "Shavkat Rakhmonov"
+        "Shavkat Rakhmonov",
+        "Henry Cejudo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -547,7 +547,8 @@
             "Fight_Time": "12:45",
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-04-22T06:57:33.818473Z"
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
@@ -2167,6 +2168,34 @@
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
             "Rank": "5"
+        },
+        "Mike Malott": {
+            "Name": "Mike Malott",
+            "Profile_URL": "https://www.ufc.com/athlete/mike-malott",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/MALOTT_MIKE_04-18.png?itok=Rlel8E-c",
+            "Record": "14-2-1 (W-L-D)",
+            "SLpM": "4.02",
+            "SApM": "3.09",
+            "TD_Avg": "1.63",
+            "Sub_Avg": "0.65",
+            "Fight_Time": "09:12",
+            "Fight_Time_Seconds": 552,
+            "Division": "Welterweight",
+            "Rank": "11"
+        },
+        "Yaroslav Amosov": {
+            "Name": "Yaroslav Amosov",
+            "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
+            "Record": "29-1-0 (W-L-D)",
+            "SLpM": "2.78",
+            "SApM": "1.55",
+            "TD_Avg": "4.64",
+            "Sub_Avg": "4.64",
+            "Fight_Time": "03:14",
+            "Fight_Time_Seconds": 194,
+            "Division": "Welterweight",
+            "Rank": "15"
         }
     }
 }
