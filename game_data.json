@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
+        "Name": "Marcus McGhee",
+        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
+        "Record": "10-2-0 (W-L-D)",
+        "SLpM": "5.50",
+        "SApM": "3.64",
+        "TD_Avg": "0.31",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "09:34",
+        "Fight_Time_Seconds": 574,
         "Division": "Bantamweight",
-        "Rank": "7",
-        "Selected_Date": "2026-04-22T06:57:33.818473Z"
+        "Rank": "15",
+        "Selected_Date": "2026-04-23T07:01:29.919244Z"
     },
     "past_fighters": [
-        "Melquizael Costa",
         "Vinicius Oliveira",
         "Aiemann Zahabi",
         "Patricio Pitbull",
         "Tom Aspinall",
         "Shavkat Rakhmonov",
-        "Henry Cejudo"
+        "Henry Cejudo",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -333,7 +333,7 @@
         },
         "Asu Almabayev": {
             "Name": "Asu Almabayev",
-            "Profile_URL": "https://www.ufc.com/athlete/assu-almabayev",
+            "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "2.31",
@@ -522,7 +522,7 @@
         },
         "Song Yadong": {
             "Name": "Song Yadong",
-            "Profile_URL": "https://www.ufc.com/athlete/yadong-song",
+            "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
             "Record": "22-8-1 (W-L-D)",
             "SLpM": "4.58",
@@ -681,7 +681,7 @@
             "Fight_Time_Seconds": 574,
             "Division": "Bantamweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-01T05:56:20.369080Z"
+            "Selected_Date": "2026-04-23T07:01:29.919244Z"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
@@ -845,7 +845,7 @@
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
-            "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
+            "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
             "Record": "37-8-0 (W-L-D)",
             "SLpM": "2.68",
@@ -1079,7 +1079,7 @@
         },
         "Ian Machado Garry": {
             "Name": "Ian Machado Garry",
-            "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
+            "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
             "Record": "17-1-0 (W-L-D)",
             "SLpM": "4.78",
