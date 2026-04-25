@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Morales",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
-        "Record": "19-0-0 (W-L-D)",
-        "SLpM": "5.68",
-        "SApM": "3.26",
-        "TD_Avg": "1.04",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:00",
-        "Fight_Time_Seconds": 540,
-        "Division": "Welterweight",
+        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
+        "Record": "32-6-1 (W-L-D)",
+        "SLpM": "5.61",
+        "SApM": "5.67",
+        "TD_Avg": "0.49",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "10:15",
+        "Fight_Time_Seconds": 615,
+        "Division": "Light Heavyweight",
         "Rank": "3",
-        "Selected_Date": "2026-04-24T07:04:35.832746Z"
+        "Selected_Date": "2026-04-25T06:20:38.003097Z"
     },
     "past_fighters": [
-        "Aiemann Zahabi",
         "Patricio Pitbull",
         "Tom Aspinall",
         "Shavkat Rakhmonov",
         "Henry Cejudo",
         "Deiveson Figueiredo",
-        "Marcus McGhee"
+        "Marcus McGhee",
+        "Michael Morales"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1483,7 +1483,8 @@
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-04-25T06:20:38.003097Z"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
