@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Grant Dawson",
-        "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
-        "Record": "23-2-1 (W-L-D)",
-        "SLpM": "3.20",
-        "SApM": "2.11",
-        "TD_Avg": "3.87",
-        "Sub_Avg": "1.13",
-        "Fight_Time": "11:21",
-        "Fight_Time_Seconds": 681,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-04-26T06:59:19.907853Z"
+        "Name": "Jan B\u0142achowicz",
+        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=5VboAz4F",
+        "Record": "29-11-2 (W-L-D)",
+        "SLpM": "3.55",
+        "SApM": "3.14",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "13:16",
+        "Fight_Time_Seconds": 796,
+        "Division": "Light Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-04-27T07:35:07.548503Z"
     },
     "past_fighters": [
-        "Tom Aspinall",
         "Shavkat Rakhmonov",
         "Henry Cejudo",
         "Deiveson Figueiredo",
         "Marcus McGhee",
         "Michael Morales",
-        "Ji\u0159\u00ed Proch\u00e1zka"
+        "Ji\u0159\u00ed Proch\u00e1zka",
+        "Grant Dawson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1524,7 +1524,8 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-04-27T07:35:07.548503Z"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
