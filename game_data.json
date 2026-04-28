@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jan B\u0142achowicz",
-        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=5VboAz4F",
-        "Record": "29-11-2 (W-L-D)",
-        "SLpM": "3.55",
-        "SApM": "3.14",
-        "TD_Avg": "0.98",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "13:16",
-        "Fight_Time_Seconds": 796,
-        "Division": "Light Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-04-27T07:35:07.548503Z"
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-04-28T07:31:36.698982Z"
     },
     "past_fighters": [
-        "Shavkat Rakhmonov",
         "Henry Cejudo",
         "Deiveson Figueiredo",
         "Marcus McGhee",
         "Michael Morales",
         "Ji\u0159\u00ed Proch\u00e1zka",
-        "Grant Dawson"
+        "Grant Dawson",
+        "Jan B\u0142achowicz"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1524,8 +1524,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "4",
-            "Selected_Date": "2026-04-27T07:35:07.548503Z"
+            "Rank": "4"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1708,7 +1707,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "3",
-            "Selected_Date": "2026-01-11T05:33:09.775365Z"
+            "Selected_Date": "2026-04-28T07:31:36.698982Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
