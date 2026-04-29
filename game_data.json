@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sergei Pavlovich",
-        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.62",
-        "TD_Avg": "0.48",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "05:42",
-        "Fight_Time_Seconds": 342,
-        "Division": "Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-04-28T07:31:36.698982Z"
+        "Name": "Roman Dolidze",
+        "Profile_URL": "https://www.ufc.com/athlete/roman-dolidze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/DOLIDZE_ROMAN_08-09.png?itok=JWpCALEs",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "3.41",
+        "SApM": "3.72",
+        "TD_Avg": "0.99",
+        "Sub_Avg": "0.81",
+        "Fight_Time": "12:48",
+        "Fight_Time_Seconds": 768,
+        "Division": "Middleweight",
+        "Rank": "15",
+        "Selected_Date": "2026-04-29T07:24:54.905639Z"
     },
     "past_fighters": [
-        "Henry Cejudo",
         "Deiveson Figueiredo",
         "Marcus McGhee",
         "Michael Morales",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Grant Dawson",
-        "Jan B\u0142achowicz"
+        "Jan B\u0142achowicz",
+        "Sergei Pavlovich"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -725,7 +725,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -754,7 +754,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Featherweight",
-            "Rank": "5",
+            "Rank": "4",
             "Selected_Date": "2026-02-15T06:00:29.754339Z"
         },
         "Arnold Allen": {
@@ -769,7 +769,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Featherweight",
-            "Rank": "8"
+            "Rank": "7"
         },
         "Youssef Zalal": {
             "Name": "Youssef Zalal",
@@ -783,7 +783,7 @@
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
-            "Rank": "7",
+            "Rank": "8",
             "Selected_Date": "2026-03-23T06:11:32.597381Z"
         },
         "Steve Garcia": {
@@ -1424,8 +1424,8 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "14",
-            "Selected_Date": "2026-01-25T05:34:40.797492Z"
+            "Rank": "15",
+            "Selected_Date": "2026-04-29T07:24:54.905639Z"
         },
         "Paulo Costa": {
             "Name": "Paulo Costa",
@@ -1721,7 +1721,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-01-13T05:33:28.206686Z"
         },
         "Waldo Cortes Acosta": {
@@ -1823,7 +1823,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-03-31T06:16:54.131096Z"
         },
         "Tai Tuivasa": {
@@ -1852,7 +1852,7 @@
             "Fight_Time": "10:53",
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Valter Walker": {
             "Name": "Valter Walker",
@@ -2053,7 +2053,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2195,7 +2195,21 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "14"
+        },
+        "Raoni Barcelos": {
+            "Name": "Raoni Barcelos",
+            "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
+            "Record": "22-5-0 (W-L-D)",
+            "SLpM": "4.65",
+            "SApM": "4.24",
+            "TD_Avg": "2.51",
+            "Sub_Avg": "0.68",
+            "Fight_Time": "13:09",
+            "Fight_Time_Seconds": 789,
+            "Division": "Bantamweight",
+            "Rank": "14"
         }
     }
 }
