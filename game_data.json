@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Belal Muhammad",
-        "Profile_URL": "https://www.ufc.com/athlete/belal-muhammad",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MUHAMMAD_BELAL_11-22.png?itok=TbE17sj_",
-        "Record": "24-5-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.82",
-        "TD_Avg": "2.14",
-        "Sub_Avg": "0.14",
-        "Fight_Time": "15:22",
-        "Fight_Time_Seconds": 922,
-        "Division": "Welterweight",
-        "Rank": "4",
-        "Selected_Date": "2026-04-30T07:29:00.017022Z"
+        "Name": "Ignacio Bahamondes",
+        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "17-6-0 (W-L-D)",
+        "SLpM": "6.55",
+        "SApM": "4.33",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "10:25",
+        "Fight_Time_Seconds": 625,
+        "Division": "Lightweight",
+        "Rank": "15",
+        "Selected_Date": "2026-05-01T07:26:25.186488Z"
     },
     "past_fighters": [
-        "Marcus McGhee",
         "Michael Morales",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Grant Dawson",
         "Jan B\u0142achowicz",
         "Sergei Pavlovich",
-        "Roman Dolidze"
+        "Roman Dolidze",
+        "Belal Muhammad"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1075,7 +1075,8 @@
             "Fight_Time": "10:25",
             "Fight_Time_Seconds": 625,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-05-01T07:26:25.186488Z"
         },
         "Ian Machado Garry": {
             "Name": "Ian Machado Garry",
