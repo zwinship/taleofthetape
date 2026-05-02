@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ignacio Bahamondes",
-        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "17-6-0 (W-L-D)",
-        "SLpM": "6.55",
-        "SApM": "4.33",
+        "Name": "Tai Tuivasa",
+        "Profile_URL": "https://www.ufc.com/athlete/tai-tuivasa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/TUIVASA_TAI_08-17.png?itok=buFWM-j9",
+        "Record": "15-8-0 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "5.18",
         "TD_Avg": "0.00",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "10:25",
-        "Fight_Time_Seconds": 625,
-        "Division": "Lightweight",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "07:14",
+        "Fight_Time_Seconds": 434,
+        "Division": "Heavyweight",
         "Rank": "15",
-        "Selected_Date": "2026-05-01T07:26:25.186488Z"
+        "Selected_Date": "2026-05-02T07:01:54.925584Z"
     },
     "past_fighters": [
-        "Michael Morales",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Grant Dawson",
         "Jan B\u0142achowicz",
         "Sergei Pavlovich",
         "Roman Dolidze",
-        "Belal Muhammad"
+        "Belal Muhammad",
+        "Ignacio Bahamondes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1839,7 +1839,8 @@
             "Fight_Time": "07:14",
             "Fight_Time_Seconds": 434,
             "Division": "Heavyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-05-02T07:01:54.925584Z"
         },
         "Mick Parkin": {
             "Name": "Mick Parkin",
