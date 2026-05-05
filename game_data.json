@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcin Tybura",
-        "Profile_URL": "https://www.ufc.com/athlete/marcin-tybura",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/TYBURA_MARCIN_09-06.png?itok=0kcRoC2B",
-        "Record": "27-10-0 (W-L-D)",
-        "SLpM": "3.59",
-        "SApM": "3.33",
-        "TD_Avg": "1.38",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "10:51",
-        "Fight_Time_Seconds": 651,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-05-04T07:48:23.502402Z"
+        "Name": "Azamat Murzakanov",
+        "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
+        "Record": "16-0-0 (W-L-D)",
+        "SLpM": "4.70",
+        "SApM": "2.86",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "07:51",
+        "Fight_Time_Seconds": 471,
+        "Division": "Light Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-05-05T07:19:37.823661Z"
     },
     "past_fighters": [
-        "Jan B\u0142achowicz",
         "Sergei Pavlovich",
         "Roman Dolidze",
         "Belal Muhammad",
         "Ignacio Bahamondes",
         "Tai Tuivasa",
-        "Raul Rosas Jr."
+        "Raul Rosas Jr.",
+        "Marcin Tybura"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1552,7 +1552,8 @@
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-05-05T07:19:37.823661Z"
         },
         "Dominick Reyes": {
             "Name": "Dominick Reyes",
