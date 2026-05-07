@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shavkat Rakhmonov",
-        "Profile_URL": "https://www.ufc.com/athlete/shavkat-rakhmonov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/RAKHMONOV_SHAVKAT_12-07.png?itok=m26zEPBe",
-        "Record": "19-0-0 (W-L-D)",
-        "SLpM": "3.25",
-        "SApM": "2.17",
-        "TD_Avg": "1.40",
-        "Sub_Avg": "1.20",
-        "Fight_Time": "10:44",
-        "Fight_Time_Seconds": 644,
+        "Name": "Leon Edwards",
+        "Profile_URL": "https://www.ufc.com/athlete/leon-edwards",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/EDWARDS_LEON_11-15.png?itok=vnOuYzwH",
+        "Record": "22-6-0 (W-L-D)",
+        "SLpM": "2.60",
+        "SApM": "2.44",
+        "TD_Avg": "1.25",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "16:47",
+        "Fight_Time_Seconds": 1007,
         "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-05-06T07:35:59.350181Z"
+        "Rank": "7",
+        "Selected_Date": "2026-05-07T07:43:03.923231Z"
     },
     "past_fighters": [
-        "Roman Dolidze",
         "Belal Muhammad",
         "Ignacio Bahamondes",
         "Tai Tuivasa",
         "Raul Rosas Jr.",
         "Marcin Tybura",
-        "Azamat Murzakanov"
+        "Azamat Murzakanov",
+        "Shavkat Rakhmonov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1179,7 +1179,7 @@
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
             "Rank": "7",
-            "Selected_Date": "2026-02-28T05:38:38.775430Z"
+            "Selected_Date": "2026-05-07T07:43:03.923231Z"
         },
         "Joaquin Buckley": {
             "Name": "Joaquin Buckley",
