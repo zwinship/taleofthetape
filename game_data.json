@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Valter Walker",
-        "Profile_URL": "https://www.ufc.com/athlete/valter-walker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WALKER_VALTER_10-25.png?itok=5DLHhYiU",
-        "Record": "15-1-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "2.85",
-        "TD_Avg": "5.74",
-        "Sub_Avg": "2.55",
-        "Fight_Time": "04:42",
-        "Fight_Time_Seconds": 282,
-        "Division": "Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-05-08T06:52:27.860772Z"
+        "Name": "Michael Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAGE_MICHAEL_08-16.png?itok=mB8ZUukj",
+        "Record": "24-3-0 (W-L-D)",
+        "SLpM": "2.39",
+        "SApM": "1.68",
+        "TD_Avg": "0.23",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "10:44",
+        "Fight_Time_Seconds": 644,
+        "Division": "Welterweight",
+        "Rank": "12",
+        "Selected_Date": "2026-05-09T07:08:40.969893Z"
     },
     "past_fighters": [
-        "Ignacio Bahamondes",
         "Tai Tuivasa",
         "Raul Rosas Jr.",
         "Marcin Tybura",
         "Azamat Murzakanov",
         "Shavkat Rakhmonov",
-        "Leon Edwards"
+        "Leon Edwards",
+        "Valter Walker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1411,7 +1411,8 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-05-09T07:08:40.969893Z"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
