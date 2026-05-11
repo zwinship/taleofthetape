@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkanovski",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
-        "Record": "27-4-0 (W-L-D)",
-        "SLpM": "6.18",
-        "SApM": "3.36",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:21",
-        "Fight_Time_Seconds": 981,
-        "Division": "Featherweight",
-        "Rank": "C",
-        "Selected_Date": "2026-05-10T07:26:23.849323Z"
+        "Name": "Arman Tsarukyan",
+        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "3.85",
+        "SApM": "1.80",
+        "TD_Avg": "3.26",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "12:16",
+        "Fight_Time_Seconds": 736,
+        "Division": "Lightweight",
+        "Rank": "2",
+        "Selected_Date": "2026-05-11T08:24:57.224871Z"
     },
     "past_fighters": [
-        "Raul Rosas Jr.",
         "Marcin Tybura",
         "Azamat Murzakanov",
         "Shavkat Rakhmonov",
         "Leon Edwards",
         "Valter Walker",
-        "Michael Page"
+        "Michael Page",
+        "Alexander Volkanovski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -212,7 +212,7 @@
             "Fight_Time_Seconds": 736,
             "Division": "Lightweight",
             "Rank": "2",
-            "Selected_Date": "2026-01-10T05:29:42.834687Z"
+            "Selected_Date": "2026-05-11T08:24:57.224871Z"
         },
         "Charles Oliveira": {
             "Name": "Charles Oliveira",
