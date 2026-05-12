@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
+        "Name": "Vinicius Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
         "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "2",
-        "Selected_Date": "2026-05-11T08:24:57.224871Z"
+        "SLpM": "5.28",
+        "SApM": "2.89",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "12:33",
+        "Fight_Time_Seconds": 753,
+        "Division": "Bantamweight",
+        "Rank": "12",
+        "Selected_Date": "2026-05-12T07:43:19.763487Z"
     },
     "past_fighters": [
-        "Marcin Tybura",
         "Azamat Murzakanov",
         "Shavkat Rakhmonov",
         "Leon Edwards",
         "Valter Walker",
         "Michael Page",
-        "Alexander Volkanovski"
+        "Alexander Volkanovski",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -651,7 +651,7 @@
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
             "Rank": "12",
-            "Selected_Date": "2026-04-16T06:57:38.357639Z"
+            "Selected_Date": "2026-05-12T07:43:19.763487Z"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
