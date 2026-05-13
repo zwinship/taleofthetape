@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vinicius Oliveira",
-        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.28",
-        "SApM": "2.89",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.24",
-        "Fight_Time": "12:33",
-        "Fight_Time_Seconds": 753,
-        "Division": "Bantamweight",
-        "Rank": "12",
-        "Selected_Date": "2026-05-12T07:43:19.763487Z"
+        "Name": "Lone\u2019er Kavanagh",
+        "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
+        "Record": "9-1-0 (W-L-D)",
+        "SLpM": "4.29",
+        "SApM": "3.69",
+        "TD_Avg": "1.79",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "10:30",
+        "Fight_Time_Seconds": 630,
+        "Division": "Flyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-05-13T07:50:28.278840Z"
     },
     "past_fighters": [
-        "Azamat Murzakanov",
         "Shavkat Rakhmonov",
         "Leon Edwards",
         "Valter Walker",
         "Michael Page",
         "Alexander Volkanovski",
-        "Arman Tsarukyan"
+        "Arman Tsarukyan",
+        "Vinicius Oliveira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -81,7 +81,7 @@
             "Fight_Time": "08:11",
             "Fight_Time_Seconds": 491,
             "Division": "Middleweight",
-            "Rank": "C",
+            "Rank": "1",
             "Selected_Date": "2026-01-15T05:34:01.499193Z"
         },
         "Alexandre Pantoja": {
@@ -156,7 +156,7 @@
             "Fight_Time": "14:53",
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
-            "Rank": "1",
+            "Rank": "2",
             "Selected_Date": "2026-04-13T07:14:10.979106Z"
         },
         "Max Holloway": {
@@ -415,7 +415,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-03-06T05:53:03.394771Z"
         },
         "Charles Johnson": {
@@ -430,7 +430,7 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-03-29T06:12:16.498076Z"
         },
         "Bruno Silva": {
@@ -461,7 +461,7 @@
             "Fight_Time_Seconds": 630,
             "Division": "Flyweight",
             "Rank": "6",
-            "Selected_Date": "2026-03-15T06:05:50.380399Z"
+            "Selected_Date": "2026-05-13T07:50:28.278840Z"
         },
         "Umar Nurmagomedov": {
             "Name": "Umar Nurmagomedov",
@@ -1030,7 +1030,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-01-19T05:38:25.055719Z"
         },
         "Grant Dawson": {
@@ -1207,7 +1207,7 @@
             "Fight_Time": "07:48",
             "Fight_Time_Seconds": 468,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Gilbert Burns": {
             "Name": "Gilbert Burns",
@@ -1264,7 +1264,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
@@ -1279,7 +1279,7 @@
             "Fight_Time": "15:16",
             "Fight_Time_Seconds": 916,
             "Division": "Middleweight",
-            "Rank": "2"
+            "Rank": "3"
         },
         "Sean Strickland": {
             "Name": "Sean Strickland",
@@ -1293,7 +1293,7 @@
             "Fight_Time": "16:03",
             "Fight_Time_Seconds": 963,
             "Division": "Middleweight",
-            "Rank": "3",
+            "Rank": "C",
             "Selected_Date": "2026-01-05T05:40:30.865851Z"
         },
         "Anthony Hernandez": {
@@ -1308,7 +1308,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "7"
+            "Rank": "6"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
@@ -1351,7 +1351,7 @@
             "Fight_Time": "14:04",
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
-            "Rank": "5",
+            "Rank": "4",
             "Selected_Date": "2026-01-20T05:37:01.939693Z"
         },
         "Reinier de Ridder": {
@@ -1568,7 +1568,7 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Light Heavyweight",
-            "Rank": "9"
+            "Rank": "11"
         },
         "Volkan Oezdemir": {
             "Name": "Volkan Oezdemir",
@@ -1582,7 +1582,7 @@
             "Fight_Time": "09:25",
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
-            "Rank": "11",
+            "Rank": "9",
             "Selected_Date": "2026-02-04T05:56:28.095665Z"
         },
         "Aleksandar Raki\u0107": {
@@ -1624,7 +1624,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1798,7 +1798,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
@@ -1886,7 +1886,7 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
@@ -1958,7 +1958,7 @@
             "Fight_Time": "13:01",
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
@@ -2058,7 +2058,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "14"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2130,7 +2130,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
@@ -2144,7 +2144,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-04-11T06:02:04.465422Z"
         },
         "Aaron Pico": {
@@ -2187,7 +2187,7 @@
             "Fight_Time": "09:12",
             "Fight_Time_Seconds": 552,
             "Division": "Welterweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Yaroslav Amosov": {
             "Name": "Yaroslav Amosov",
@@ -2201,7 +2201,7 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "10"
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
@@ -2241,7 +2241,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "15"
+            "Rank": "14"
         }
     }
 }
