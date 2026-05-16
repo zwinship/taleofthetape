@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tatsuro Taira",
-        "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "2.54",
-        "TD_Avg": "3.21",
-        "Sub_Avg": "1.69",
-        "Fight_Time": "11:05",
-        "Fight_Time_Seconds": 665,
-        "Division": "Flyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-05-14T07:44:06.687194Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Light Heavyweight",
+        "Rank": "7",
+        "Selected_Date": "2026-05-16T07:16:28.271193Z"
     },
     "past_fighters": [
-        "Leon Edwards",
         "Valter Walker",
         "Michael Page",
         "Alexander Volkanovski",
         "Arman Tsarukyan",
         "Vinicius Oliveira",
-        "Lone\u2019er Kavanagh"
+        "Lone\u2019er Kavanagh",
+        "Tatsuro Taira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1442,7 +1442,8 @@
             "Fight_Time": "12:46",
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-05-16T07:16:28.271193Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
