@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mike Malott",
-        "Profile_URL": "https://www.ufc.com/athlete/mike-malott",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/MALOTT_MIKE_04-18.png?itok=Rlel8E-c",
-        "Record": "14-2-1 (W-L-D)",
-        "SLpM": "4.02",
-        "SApM": "3.09",
-        "TD_Avg": "1.63",
-        "Sub_Avg": "0.65",
-        "Fight_Time": "09:12",
-        "Fight_Time_Seconds": 552,
-        "Division": "Welterweight",
-        "Rank": "12",
-        "Selected_Date": "2026-05-17T07:33:28.742819Z"
+        "Name": "Aaron Pico",
+        "Profile_URL": "https://www.ufc.com/athlete/aaron-pico",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PICO_AARON_08-16.png?itok=HIOKv3UF",
+        "Record": "14-5-0 (W-L-D)",
+        "SLpM": "6.16",
+        "SApM": "3.11",
+        "TD_Avg": "6.54",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:11",
+        "Fight_Time_Seconds": 551,
+        "Division": "Featherweight",
+        "Rank": "13",
+        "Selected_Date": "2026-05-18T08:45:57.749288Z"
     },
     "past_fighters": [
-        "Michael Page",
         "Alexander Volkanovski",
         "Arman Tsarukyan",
         "Vinicius Oliveira",
         "Lone\u2019er Kavanagh",
         "Tatsuro Taira",
-        "Paulo Costa"
+        "Paulo Costa",
+        "Mike Malott"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -964,7 +964,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=Gr4RMwxi",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=CyyVAe9X",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1478,7 +1478,7 @@
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=YieD5Hz1",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=G19-aBiQ",
             "Record": "32-6-1 (W-L-D)",
             "SLpM": "5.61",
             "SApM": "5.67",
@@ -1507,7 +1507,7 @@
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=YieD5Hz1",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=G19-aBiQ",
             "Record": "15-7-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "50\n                  %",
@@ -1519,7 +1519,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=XUlKahoQ",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=dVwRjIh7",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
@@ -1951,7 +1951,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=2oKEpUQ2",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=fF4LbhkB",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
@@ -2123,7 +2123,7 @@
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
             "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=c0U_6B7d",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=7KKc12CI",
             "Record": "25-3-0 (W-L-D)",
             "SLpM": "2.28",
             "SApM": "1.51",
@@ -2161,7 +2161,8 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-05-18T08:45:57.749288Z"
         },
         "Josh Hokit": {
             "Name": "Josh Hokit",
@@ -2237,7 +2238,7 @@
         "Brando Peri\u010di\u0107": {
             "Name": "Brando Peri\u010di\u0107",
             "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GAZIEV_SHAMIL_05-02.png?itok=IqLQtCHd",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GAZIEV_SHAMIL_05-02.png?itok=Pnh039q4",
             "Record": "7-1-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "58\n                  %",
