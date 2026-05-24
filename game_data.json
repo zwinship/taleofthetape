@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Curtis Blaydes",
-        "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "3.56",
-        "SApM": "2.00",
-        "TD_Avg": "5.38",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:56",
-        "Fight_Time_Seconds": 536,
-        "Division": "Heavyweight",
+        "Name": "Mateusz Gamrot",
+        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
+        "Record": "25-4-0 (W-L-D)",
+        "SLpM": "3.29",
+        "SApM": "2.96",
+        "TD_Avg": "5.15",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "12:09",
+        "Fight_Time_Seconds": 729,
+        "Division": "Lightweight",
         "Rank": "7",
-        "Selected_Date": "2026-05-23T07:33:04.995244Z"
+        "Selected_Date": "2026-05-24T07:50:10.158456Z"
     },
     "past_fighters": [
-        "Paulo Costa",
         "Mike Malott",
         "Aaron Pico",
         "Vitor Petrino",
         "Tallison Teixeira",
         "Rafael Fiziev",
-        "Waldo Cortes Acosta"
+        "Waldo Cortes Acosta",
+        "Curtis Blaydes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -959,7 +959,7 @@
             "Fight_Time_Seconds": 729,
             "Division": "Lightweight",
             "Rank": "7",
-            "Selected_Date": "2026-03-14T05:48:20.259433Z"
+            "Selected_Date": "2026-05-24T07:50:10.158456Z"
         },
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
