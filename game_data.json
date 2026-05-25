@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mateusz Gamrot",
-        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
-        "Record": "25-4-0 (W-L-D)",
-        "SLpM": "3.29",
-        "SApM": "2.96",
-        "TD_Avg": "5.15",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:09",
-        "Fight_Time_Seconds": 729,
-        "Division": "Lightweight",
-        "Rank": "7",
-        "Selected_Date": "2026-05-24T07:50:10.158456Z"
+        "Name": "Magomed Ankalaev",
+        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
+        "Record": "21-2-1 (W-L-D)",
+        "SLpM": "3.65",
+        "SApM": "2.59",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:49",
+        "Fight_Time_Seconds": 709,
+        "Division": "Light Heavyweight",
+        "Rank": "1",
+        "Selected_Date": "2026-05-25T08:58:19.358708Z"
     },
     "past_fighters": [
-        "Mike Malott",
         "Aaron Pico",
         "Vitor Petrino",
         "Tallison Teixeira",
         "Rafael Fiziev",
         "Waldo Cortes Acosta",
-        "Curtis Blaydes"
+        "Curtis Blaydes",
+        "Mateusz Gamrot"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -197,7 +197,7 @@
             "Fight_Time_Seconds": 709,
             "Division": "Light Heavyweight",
             "Rank": "1",
-            "Selected_Date": "2026-02-14T05:52:35.744948Z"
+            "Selected_Date": "2026-05-25T08:58:19.358708Z"
         },
         "Arman Tsarukyan": {
             "Name": "Arman Tsarukyan",
