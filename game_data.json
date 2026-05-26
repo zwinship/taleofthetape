@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Magomed Ankalaev",
-        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
-        "Record": "21-2-1 (W-L-D)",
-        "SLpM": "3.65",
-        "SApM": "2.59",
-        "TD_Avg": "0.79",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:49",
-        "Fight_Time_Seconds": 709,
+        "Name": "Khalil Rountree Jr.",
+        "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+        "Record": "15-7-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "50\n                  %",
+        "Sub_Avg": "59\n                      %",
+        "Fight_Time_Seconds": 0,
         "Division": "Light Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-05-25T08:58:19.358708Z"
+        "Rank": "5",
+        "Selected_Date": "2026-05-26T08:32:57.059008Z"
     },
     "past_fighters": [
-        "Aaron Pico",
         "Vitor Petrino",
         "Tallison Teixeira",
         "Rafael Fiziev",
         "Waldo Cortes Acosta",
         "Curtis Blaydes",
-        "Mateusz Gamrot"
+        "Mateusz Gamrot",
+        "Magomed Ankalaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1427,7 +1425,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-04-29T07:24:54.905639Z"
         },
         "Paulo Costa": {
@@ -1514,7 +1512,8 @@
             "Sub_Avg": "59\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-05-26T08:32:57.059008Z"
         },
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
@@ -2247,6 +2246,20 @@
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
             "Rank": "14"
+        },
+        "Ikram Aliskerov": {
+            "Name": "Ikram Aliskerov",
+            "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
+            "Record": "17-2-0 (W-L-D)",
+            "SLpM": "6.86",
+            "SApM": "5.47",
+            "TD_Avg": "3.20",
+            "Sub_Avg": "0.53",
+            "Fight_Time": "04:42",
+            "Fight_Time_Seconds": 282,
+            "Division": "Middleweight",
+            "Rank": "15"
         }
     }
 }
