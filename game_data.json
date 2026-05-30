@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcus McGhee",
-        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
-        "Record": "10-2-0 (W-L-D)",
-        "SLpM": "5.50",
-        "SApM": "3.64",
-        "TD_Avg": "0.31",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "09:34",
-        "Fight_Time_Seconds": 574,
-        "Division": "Bantamweight",
-        "Rank": "15",
-        "Selected_Date": "2026-05-29T08:42:22.445577Z"
+        "Name": "Melquizael Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
+        "Record": "25-7-0 (W-L-D)",
+        "SLpM": "4.38",
+        "SApM": "2.97",
+        "TD_Avg": "2.00",
+        "Sub_Avg": "1.09",
+        "Fight_Time": "09:11",
+        "Fight_Time_Seconds": 551,
+        "Division": "Featherweight",
+        "Rank": "12",
+        "Selected_Date": "2026-05-30T07:41:58.650833Z"
     },
     "past_fighters": [
-        "Waldo Cortes Acosta",
         "Curtis Blaydes",
         "Mateusz Gamrot",
         "Magomed Ankalaev",
         "Khalil Rountree Jr.",
         "Ian Machado Garry",
-        "Johnny Walker"
+        "Johnny Walker",
+        "Marcus McGhee"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2047,7 +2047,7 @@
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
             "Rank": "12",
-            "Selected_Date": "2026-04-15T06:55:04.586520Z"
+            "Selected_Date": "2026-05-30T07:41:58.650833Z"
         },
         "Uro\u0161 Medi\u0107": {
             "Name": "Uro\u0161 Medi\u0107",
