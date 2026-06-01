@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Bogdan Guskov",
-        "Profile_URL": "https://www.ufc.com/athlete/bogdan-guskov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/GUSKOV_BOGDAN_12-06.png?itok=-Tri4jMe",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "50\n                  %",
-        "Sub_Avg": "50\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Light Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-05-31T08:15:26.719461Z"
+        "Name": "Steve Garcia",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
+        "Record": "19-5-0 (W-L-D)",
+        "SLpM": "5.39",
+        "SApM": "2.12",
+        "TD_Avg": "0.86",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "05:50",
+        "Fight_Time_Seconds": 350,
+        "Division": "Featherweight",
+        "Rank": "9",
+        "Selected_Date": "2026-06-01T10:21:58.965968Z"
     },
     "past_fighters": [
-        "Mateusz Gamrot",
         "Magomed Ankalaev",
         "Khalil Rountree Jr.",
         "Ian Machado Garry",
         "Johnny Walker",
         "Marcus McGhee",
-        "Melquizael Costa"
+        "Melquizael Costa",
+        "Bogdan Guskov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -798,7 +800,7 @@
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
             "Rank": "9",
-            "Selected_Date": "2026-03-11T05:51:52.306857Z"
+            "Selected_Date": "2026-06-01T10:21:58.965968Z"
         },
         "Brian Ortega": {
             "Name": "Brian Ortega",
