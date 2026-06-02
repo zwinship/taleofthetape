@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Garcia",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "5.39",
-        "SApM": "2.12",
-        "TD_Avg": "0.86",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "05:50",
-        "Fight_Time_Seconds": 350,
+        "Name": "David Onama",
+        "Profile_URL": "https://www.ufc.com/athlete/david-onama",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ONAMA_DAVID_11-01.png?itok=SIczG7cS",
+        "Record": "14-3-0 (W-L-D)",
+        "SLpM": "5.07",
+        "SApM": "4.89",
+        "TD_Avg": "1.05",
+        "Sub_Avg": "0.45",
+        "Fight_Time": "11:09",
+        "Fight_Time_Seconds": 669,
         "Division": "Featherweight",
-        "Rank": "9",
-        "Selected_Date": "2026-06-01T10:21:58.965968Z"
+        "Rank": "14",
+        "Selected_Date": "2026-06-02T09:08:42.012597Z"
     },
     "past_fighters": [
-        "Magomed Ankalaev",
         "Khalil Rountree Jr.",
         "Ian Machado Garry",
         "Johnny Walker",
         "Marcus McGhee",
         "Melquizael Costa",
-        "Bogdan Guskov"
+        "Bogdan Guskov",
+        "Steve Garcia"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -373,7 +373,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -401,7 +401,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-03-13T05:51:39.103858Z"
         },
         "Tagir Ulanbekov": {
@@ -490,7 +490,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2",
+            "Rank": "3",
             "Selected_Date": "2026-03-17T06:01:12.444998Z"
         },
         "Petr Yan": {
@@ -548,7 +548,7 @@
             "Fight_Time": "12:45",
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
-            "Rank": "7",
+            "Rank": "9",
             "Selected_Date": "2026-04-22T06:57:33.818473Z"
         },
         "Aiemann Zahabi": {
@@ -593,7 +593,7 @@
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
-            "Rank": "8"
+            "Rank": "7"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -622,7 +622,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Rob Font": {
             "Name": "Rob Font",
@@ -885,7 +885,8 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-06-02T09:08:42.012597Z"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -1599,7 +1600,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -1627,7 +1628,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-05-28T08:43:07.069494Z"
         },
         "Nikita Krylov": {
@@ -1642,7 +1643,7 @@
             "Fight_Time": "06:34",
             "Fight_Time_Seconds": 394,
             "Division": "Light Heavyweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Zhang Mingyang": {
             "Name": "Zhang Mingyang",
@@ -2047,7 +2048,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-05-30T07:41:58.650833Z"
         },
         "Uro\u0161 Medi\u0107": {
@@ -2134,7 +2135,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
@@ -2163,7 +2164,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-05-18T08:45:57.749288Z"
         },
         "Josh Hokit": {
