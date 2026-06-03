@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "David Onama",
-        "Profile_URL": "https://www.ufc.com/athlete/david-onama",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ONAMA_DAVID_11-01.png?itok=SIczG7cS",
-        "Record": "14-3-0 (W-L-D)",
-        "SLpM": "5.07",
-        "SApM": "4.89",
-        "TD_Avg": "1.05",
-        "Sub_Avg": "0.45",
-        "Fight_Time": "11:09",
-        "Fight_Time_Seconds": 669,
-        "Division": "Featherweight",
+        "Name": "Michael Venom Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
+        "Record": "25-3-0 (W-L-D)",
+        "SLpM": "2.28",
+        "SApM": "1.51",
+        "TD_Avg": "0.19",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:21",
+        "Fight_Time_Seconds": 681,
+        "Division": "Welterweight",
         "Rank": "14",
-        "Selected_Date": "2026-06-02T09:08:42.012597Z"
+        "Selected_Date": "2026-06-03T09:28:00.728030Z"
     },
     "past_fighters": [
-        "Khalil Rountree Jr.",
         "Ian Machado Garry",
         "Johnny Walker",
         "Marcus McGhee",
         "Melquizael Costa",
         "Bogdan Guskov",
-        "Steve Garcia"
+        "Steve Garcia",
+        "David Onama"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2135,7 +2135,8 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-06-03T09:28:00.728030Z"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
