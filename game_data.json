@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Venom Page",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-        "Record": "25-3-0 (W-L-D)",
-        "SLpM": "2.28",
-        "SApM": "1.51",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:21",
-        "Fight_Time_Seconds": 681,
-        "Division": "Welterweight",
-        "Rank": "14",
-        "Selected_Date": "2026-06-03T09:28:00.728030Z"
+        "Name": "Serghei Spivac",
+        "Profile_URL": "https://www.ufc.com/athlete/serghei-spivac",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/SPIVAC_SERGHEI_06-07.png?itok=MibG8SoN",
+        "Record": "17-6-0 (W-L-D)",
+        "SLpM": "3.45",
+        "SApM": "4.25",
+        "TD_Avg": "4.21",
+        "Sub_Avg": "0.54",
+        "Fight_Time": "07:54",
+        "Fight_Time_Seconds": 474,
+        "Division": "Heavyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-06-04T08:50:42.939441Z"
     },
     "past_fighters": [
-        "Ian Machado Garry",
         "Johnny Walker",
         "Marcus McGhee",
         "Melquizael Costa",
         "Bogdan Guskov",
         "Steve Garcia",
-        "David Onama"
+        "David Onama",
+        "Michael Venom Page"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1773,7 +1773,8 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Heavyweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-06-04T08:50:42.939441Z"
         },
         "Derrick Lewis": {
             "Name": "Derrick Lewis",
@@ -2135,8 +2136,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "14",
-            "Selected_Date": "2026-06-03T09:28:00.728030Z"
+            "Rank": "14"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
