@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Serghei Spivac",
-        "Profile_URL": "https://www.ufc.com/athlete/serghei-spivac",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/SPIVAC_SERGHEI_06-07.png?itok=MibG8SoN",
-        "Record": "17-6-0 (W-L-D)",
-        "SLpM": "3.45",
-        "SApM": "4.25",
-        "TD_Avg": "4.21",
-        "Sub_Avg": "0.54",
-        "Fight_Time": "07:54",
-        "Fight_Time_Seconds": 474,
-        "Division": "Heavyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-06-04T08:50:42.939441Z"
+        "Name": "Mateusz Gamrot",
+        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
+        "Record": "25-4-0 (W-L-D)",
+        "SLpM": "3.29",
+        "SApM": "2.96",
+        "TD_Avg": "5.15",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "12:09",
+        "Fight_Time_Seconds": 729,
+        "Division": "Lightweight",
+        "Rank": "7",
+        "Selected_Date": "2026-06-05T08:43:52.270636Z"
     },
     "past_fighters": [
-        "Johnny Walker",
         "Marcus McGhee",
         "Melquizael Costa",
         "Bogdan Guskov",
         "Steve Garcia",
         "David Onama",
-        "Michael Venom Page"
+        "Michael Venom Page",
+        "Serghei Spivac"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -960,7 +960,7 @@
             "Fight_Time_Seconds": 729,
             "Division": "Lightweight",
             "Rank": "7",
-            "Selected_Date": "2026-05-24T07:50:10.158456Z"
+            "Selected_Date": "2026-06-05T08:43:52.270636Z"
         },
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
