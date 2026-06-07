@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Waldo Cortes Acosta",
-        "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
-        "Record": "16-2-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "3.53",
-        "TD_Avg": "0.35",
+        "Name": "Kyoji Horiguchi",
+        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
+        "Record": "35-5-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "2.26",
+        "TD_Avg": "1.80",
         "Sub_Avg": "0.12",
-        "Fight_Time": "10:34",
-        "Fight_Time_Seconds": 634,
-        "Division": "Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-06-06T07:47:15.800391Z"
+        "Fight_Time": "13:53",
+        "Fight_Time_Seconds": 833,
+        "Division": "Flyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-06-07T08:24:39.222319Z"
     },
     "past_fighters": [
-        "Melquizael Costa",
         "Bogdan Guskov",
         "Steve Garcia",
         "David Onama",
         "Michael Venom Page",
         "Serghei Spivac",
-        "Mateusz Gamrot"
+        "Mateusz Gamrot",
+        "Waldo Cortes Acosta"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -359,7 +359,7 @@
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
             "Rank": "5",
-            "Selected_Date": "2026-03-28T05:59:16.988529Z"
+            "Selected_Date": "2026-06-07T08:24:39.222319Z"
         },
         "Tim Elliott": {
             "Name": "Tim Elliott",
@@ -1955,7 +1955,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=KOjsbD2M",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
