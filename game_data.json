@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
-        "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-06-07T08:24:39.222319Z"
+        "Name": "Brendan Allen",
+        "Profile_URL": "https://www.ufc.com/athlete/brendan-allen",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALLEN_BRENDAN_10-18.png?itok=nhny0Lv-",
+        "Record": "26-7-0 (W-L-D)",
+        "SLpM": "3.59",
+        "SApM": "3.62",
+        "TD_Avg": "1.56",
+        "Sub_Avg": "1.14",
+        "Fight_Time": "11:07",
+        "Fight_Time_Seconds": 667,
+        "Division": "Middleweight",
+        "Rank": "4",
+        "Selected_Date": "2026-06-08T09:24:14.251368Z"
     },
     "past_fighters": [
-        "Bogdan Guskov",
         "Steve Garcia",
         "David Onama",
         "Michael Venom Page",
         "Serghei Spivac",
         "Mateusz Gamrot",
-        "Waldo Cortes Acosta"
+        "Waldo Cortes Acosta",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1324,7 +1324,8 @@
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
             "Division": "Middleweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-06-08T09:24:14.251368Z"
         },
         "Israel Adesanya": {
             "Name": "Israel Adesanya",
@@ -1956,7 +1957,7 @@
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
-            "Record": "18-4-0 (W-L-D)",
+            "Record": "18-5-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
             "TD_Avg": "1.73",
