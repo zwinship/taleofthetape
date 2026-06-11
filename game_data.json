@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Garcia",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "5.39",
-        "SApM": "2.12",
-        "TD_Avg": "0.86",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "05:50",
-        "Fight_Time_Seconds": 350,
-        "Division": "Featherweight",
-        "Rank": "9",
-        "Selected_Date": "2026-06-10T08:50:17.391626Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-06-11T09:12:25.342324Z"
     },
     "past_fighters": [
-        "Michael Venom Page",
         "Serghei Spivac",
         "Mateusz Gamrot",
         "Waldo Cortes Acosta",
         "Kyoji Horiguchi",
         "Brendan Allen",
-        "Curtis Blaydes"
+        "Curtis Blaydes",
+        "Steve Garcia"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1503,7 +1503,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2026-03-16T06:20:36.604548Z"
+            "Selected_Date": "2026-06-11T09:12:25.342324Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
