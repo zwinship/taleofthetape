@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
         "Division": "Light Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-06-11T09:12:25.342324Z"
+        "Rank": "7",
+        "Selected_Date": "2026-06-12T08:58:59.113778Z"
     },
     "past_fighters": [
-        "Serghei Spivac",
         "Mateusz Gamrot",
         "Waldo Cortes Acosta",
         "Kyoji Horiguchi",
         "Brendan Allen",
         "Curtis Blaydes",
-        "Steve Garcia"
+        "Steve Garcia",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1444,7 +1444,7 @@
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
             "Rank": "7",
-            "Selected_Date": "2026-05-16T07:16:28.271193Z"
+            "Selected_Date": "2026-06-12T08:58:59.113778Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
