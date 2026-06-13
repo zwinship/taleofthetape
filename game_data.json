@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Light Heavyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-06-12T08:58:59.113778Z"
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
+        "Division": "Middleweight",
+        "Rank": "2",
+        "Selected_Date": "2026-06-13T08:21:17.486218Z"
     },
     "past_fighters": [
-        "Mateusz Gamrot",
         "Waldo Cortes Acosta",
         "Kyoji Horiguchi",
         "Brendan Allen",
         "Curtis Blaydes",
         "Steve Garcia",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -157,7 +157,7 @@
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
             "Rank": "2",
-            "Selected_Date": "2026-04-13T07:14:10.979106Z"
+            "Selected_Date": "2026-06-13T08:21:17.486218Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
