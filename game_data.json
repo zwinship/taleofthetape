@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "9",
-        "Selected_Date": "2026-06-14T08:41:44.161215Z"
+        "Name": "Paddy Pimblett",
+        "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.19",
+        "SApM": "3.14",
+        "TD_Avg": "0.96",
+        "Sub_Avg": "1.68",
+        "Fight_Time": "08:56",
+        "Fight_Time_Seconds": 536,
+        "Division": "Lightweight",
+        "Rank": "6",
+        "Selected_Date": "2026-06-15T10:55:34.715520Z"
     },
     "past_fighters": [
-        "Kyoji Horiguchi",
         "Brendan Allen",
         "Curtis Blaydes",
         "Steve Garcia",
         "Carlos Ulberg",
         "Paulo Costa",
-        "Dricus Du Plessis"
+        "Dricus Du Plessis",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -929,7 +929,8 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Lightweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-06-15T10:55:34.715520Z"
         },
         "Dan Hooker": {
             "Name": "Dan Hooker",
