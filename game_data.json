@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paddy Pimblett",
-        "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.19",
-        "SApM": "3.14",
-        "TD_Avg": "0.96",
-        "Sub_Avg": "1.68",
-        "Fight_Time": "08:56",
-        "Fight_Time_Seconds": 536,
-        "Division": "Lightweight",
-        "Rank": "6",
-        "Selected_Date": "2026-06-15T10:55:34.715520Z"
+        "Name": "Tim Elliott",
+        "Profile_URL": "https://www.ufc.com/athlete/tim-elliott",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ELLIOTT_TIM_08-16.png?itok=-obztIkf",
+        "Record": "22-13-1 (W-L-D)",
+        "SLpM": "3.37",
+        "SApM": "2.65",
+        "TD_Avg": "3.71",
+        "Sub_Avg": "1.12",
+        "Fight_Time": "12:08",
+        "Fight_Time_Seconds": 728,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-06-16T10:09:54.992667Z"
     },
     "past_fighters": [
-        "Brendan Allen",
         "Curtis Blaydes",
         "Steve Garcia",
         "Carlos Ulberg",
         "Paulo Costa",
         "Dricus Du Plessis",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Paddy Pimblett"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -373,7 +373,8 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-06-16T10:09:54.992667Z"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
