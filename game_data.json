@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexandre Pantoja",
-        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
-        "Record": "30-5-0 (W-L-D)",
-        "SLpM": "4.36",
-        "SApM": "3.88",
-        "TD_Avg": "2.80",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "12:37",
-        "Fight_Time_Seconds": 757,
+        "Name": "Brandon Royval",
+        "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
+        "Record": "17-8-0 (W-L-D)",
+        "SLpM": "5.55",
+        "SApM": "4.23",
+        "TD_Avg": "0.67",
+        "Sub_Avg": "1.11",
+        "Fight_Time": "12:18",
+        "Fight_Time_Seconds": 738,
         "Division": "Flyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-06-17T09:51:42.156762Z"
+        "Rank": "4",
+        "Selected_Date": "2026-06-18T09:15:38.555807Z"
     },
     "past_fighters": [
-        "Steve Garcia",
         "Carlos Ulberg",
         "Paulo Costa",
         "Dricus Du Plessis",
         "Deiveson Figueiredo",
         "Paddy Pimblett",
-        "Tim Elliott"
+        "Tim Elliott",
+        "Alexandre Pantoja"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -286,7 +286,7 @@
             "Fight_Time_Seconds": 738,
             "Division": "Flyweight",
             "Rank": "4",
-            "Selected_Date": "2026-02-21T05:49:53.577378Z"
+            "Selected_Date": "2026-06-18T09:15:38.555807Z"
         },
         "Amir Albazi": {
             "Name": "Amir Albazi",
