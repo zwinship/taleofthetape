@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brandon Royval",
-        "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
-        "Record": "17-8-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "4.23",
-        "TD_Avg": "0.67",
-        "Sub_Avg": "1.11",
-        "Fight_Time": "12:18",
-        "Fight_Time_Seconds": 738,
-        "Division": "Flyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-06-18T09:15:38.555807Z"
+        "Name": "Alonzo Menifield",
+        "Profile_URL": "https://www.ufc.com/athlete/alonzo-menifield",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MENIFIELD_ALONZO_11-22.png?itok=zEmDa7eX",
+        "Record": "17-6-1 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "3.81",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.20",
+        "Fight_Time": "07:34",
+        "Fight_Time_Seconds": 454,
+        "Division": "Light Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-06-19T09:45:27.857987Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Paulo Costa",
         "Dricus Du Plessis",
         "Deiveson Figueiredo",
         "Paddy Pimblett",
         "Tim Elliott",
-        "Alexandre Pantoja"
+        "Alexandre Pantoja",
+        "Brandon Royval"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1671,7 +1671,8 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-06-19T09:45:27.857987Z"
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
