@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alonzo Menifield",
-        "Profile_URL": "https://www.ufc.com/athlete/alonzo-menifield",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MENIFIELD_ALONZO_11-22.png?itok=zEmDa7eX",
-        "Record": "17-6-1 (W-L-D)",
-        "SLpM": "3.77",
-        "SApM": "3.81",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.20",
-        "Fight_Time": "07:34",
-        "Fight_Time_Seconds": 454,
-        "Division": "Light Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-06-19T09:45:27.857987Z"
+        "Name": "Petr Yan",
+        "Profile_URL": "https://www.ufc.com/athlete/petr-yan",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
+        "Record": "19-5-0 (W-L-D)",
+        "SLpM": "5.12",
+        "SApM": "4.14",
+        "TD_Avg": "1.58",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Bantamweight",
+        "Rank": "C",
+        "Selected_Date": "2026-06-20T08:22:07.137553Z"
     },
     "past_fighters": [
-        "Paulo Costa",
         "Dricus Du Plessis",
         "Deiveson Figueiredo",
         "Paddy Pimblett",
         "Tim Elliott",
         "Alexandre Pantoja",
-        "Brandon Royval"
+        "Brandon Royval",
+        "Alonzo Menifield"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -506,7 +506,8 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-06-20T08:22:07.137553Z"
         },
         "Cory Sandhagen": {
             "Name": "Cory Sandhagen",
