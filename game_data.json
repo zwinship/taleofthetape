@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Johnny Walker",
-        "Profile_URL": "https://www.ufc.com/athlete/johnny-walker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/WALKER_JOHNNY_08-23.png?itok=_JtthqvC",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "4.06",
-        "SApM": "3.09",
-        "TD_Avg": "0.42",
-        "Sub_Avg": "0.83",
-        "Fight_Time": "06:47",
-        "Fight_Time_Seconds": 407,
-        "Division": "Light Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-06-21T08:57:41.160143Z"
+        "Name": "Rafael Fiziev",
+        "Profile_URL": "https://www.ufc.com/athlete/rafael-fiziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.77",
+        "SApM": "4.77",
+        "TD_Avg": "0.89",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:17",
+        "Fight_Time_Seconds": 737,
+        "Division": "Lightweight",
+        "Rank": "11",
+        "Selected_Date": "2026-06-22T10:40:33.431466Z"
     },
     "past_fighters": [
-        "Deiveson Figueiredo",
         "Paddy Pimblett",
         "Tim Elliott",
         "Alexandre Pantoja",
         "Brandon Royval",
         "Alonzo Menifield",
-        "Petr Yan"
+        "Petr Yan",
+        "Johnny Walker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -991,7 +991,7 @@
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
             "Rank": "11",
-            "Selected_Date": "2026-05-21T08:33:25.489483Z"
+            "Selected_Date": "2026-06-22T10:40:33.431466Z"
         },
         "Renato Moicano": {
             "Name": "Renato Moicano",
