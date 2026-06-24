@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shavkat Rakhmonov",
-        "Profile_URL": "https://www.ufc.com/athlete/shavkat-rakhmonov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/RAKHMONOV_SHAVKAT_12-07.png?itok=m26zEPBe",
-        "Record": "19-0-0 (W-L-D)",
-        "SLpM": "3.25",
-        "SApM": "2.17",
-        "TD_Avg": "1.40",
-        "Sub_Avg": "1.20",
-        "Fight_Time": "10:44",
-        "Fight_Time_Seconds": 644,
-        "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-06-23T08:29:59.831112Z"
+        "Name": "Vinicius Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.28",
+        "SApM": "2.89",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "12:33",
+        "Fight_Time_Seconds": 753,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-06-24T08:23:54.095752Z"
     },
     "past_fighters": [
-        "Tim Elliott",
         "Alexandre Pantoja",
         "Brandon Royval",
         "Alonzo Menifield",
         "Petr Yan",
         "Johnny Walker",
-        "Rafael Fiziev"
+        "Rafael Fiziev",
+        "Shavkat Rakhmonov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -110,8 +110,8 @@
             "Sub_Avg": "0.23",
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
-            "Division": "Light Heavyweight",
-            "Rank": "1",
+            "Division": "Heavyweight",
+            "Rank": "4",
             "Selected_Date": "2026-03-18T06:03:55.925612Z"
         },
         "Alexander Volkanovski": {
@@ -654,7 +654,7 @@
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
             "Rank": "13",
-            "Selected_Date": "2026-05-12T07:43:19.763487Z"
+            "Selected_Date": "2026-06-24T08:23:54.095752Z"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
@@ -1049,7 +1049,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-04-26T06:59:19.907853Z"
         },
         "Mauricio Ruffy": {
@@ -1924,7 +1924,7 @@
             "Fight_Time": "10:46",
             "Fight_Time_Seconds": 646,
             "Division": "Bantamweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-02-27T05:58:38.324358Z"
         },
         "Kevin Vallejos": {
@@ -2010,7 +2010,7 @@
             "Fight_Time": "09:58",
             "Fight_Time_Seconds": 598,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "11",
             "Selected_Date": "2026-02-24T06:03:52.329273Z"
         },
         "Rizvan Kuniev": {
@@ -2082,7 +2082,7 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "10",
             "Selected_Date": "2026-05-19T08:29:07.778544Z"
         },
         "Raul Rosas Jr.": {
@@ -2112,7 +2112,7 @@
             "Fight_Time": "13:28",
             "Fight_Time_Seconds": 808,
             "Division": "Bantamweight",
-            "Rank": "15"
+            "Rank": "10"
         },
         "Christian Leroy Duncan": {
             "Name": "Christian Leroy Duncan",
@@ -2267,7 +2267,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
@@ -2310,6 +2310,188 @@
             "Fight_Time_Seconds": 363,
             "Division": "Middleweight",
             "Rank": "12"
+        },
+        "Kevin Borjas": {
+            "Name": "Kevin Borjas",
+            "Profile_URL": "https://www.ufc.com/athlete/kevin-borjas",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BORJAS_KEVIN_06-20.png?itok=efbTVP2q",
+            "Record": "11-5-0 (W-L-D)",
+            "SLpM": "3.87",
+            "SApM": "5.27",
+            "TD_Avg": "0.00",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "12:59",
+            "Fight_Time_Seconds": 779,
+            "Division": "Flyweight",
+            "Rank": "10"
+        },
+        "Mitch Raposo": {
+            "Name": "Mitch Raposo",
+            "Profile_URL": "https://www.ufc.com/athlete/mitch-raposo",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RAPOSO_MITCH_06-20.png?itok=syaw6RH3",
+            "Record": "11-3-0 (W-L-D)",
+            "SLpM": "1.91",
+            "SApM": "2.92",
+            "TD_Avg": "1.98",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "13:38",
+            "Fight_Time_Seconds": 818,
+            "Division": "Flyweight",
+            "Rank": "11"
+        },
+        "Sumudaerji": {
+            "Name": "Sumudaerji",
+            "Profile_URL": "https://www.ufc.com/athlete/sumudaerji",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SUMUDAERJI_05-30.png?itok=RG80cBip",
+            "Record": "19-7-0 (W-L-D)",
+            "SLpM": "4.40",
+            "SApM": "2.29",
+            "TD_Avg": "0.76",
+            "Sub_Avg": "0.51",
+            "Fight_Time": "10:44",
+            "Fight_Time_Seconds": 644,
+            "Division": "Flyweight",
+            "Rank": "12"
+        },
+        "Charles Jourdain": {
+            "Name": "Charles Jourdain",
+            "Profile_URL": "https://www.ufc.com/athlete/charles-jourdain",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/JOURDAIN_CHARLES_04-18.png?itok=iZN0FZ9a",
+            "Record": "18-8-1 (W-L-D)",
+            "SLpM": "5.36",
+            "SApM": "4.11",
+            "TD_Avg": "0.38",
+            "Sub_Avg": "0.61",
+            "Fight_Time": "11:31",
+            "Fight_Time_Seconds": 691,
+            "Division": "Bantamweight",
+            "Rank": "13"
+        },
+        "Bryce Mitchell": {
+            "Name": "Bryce Mitchell",
+            "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
+            "Record": "19-4-0 (W-L-D)",
+            "SLpM": "2.19",
+            "SApM": "1.51",
+            "TD_Avg": "3.12",
+            "Sub_Avg": "1.27",
+            "Fight_Time": "11:50",
+            "Fight_Time_Seconds": 710,
+            "Division": "Bantamweight",
+            "Rank": "14"
+        },
+        "Pat Sabatini": {
+            "Name": "Pat Sabatini",
+            "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
+            "Record": "22-5-0 (W-L-D)",
+            "SLpM": "1.69",
+            "SApM": "1.16",
+            "TD_Avg": "4.27",
+            "Sub_Avg": "1.28",
+            "Fight_Time": "09:35",
+            "Fight_Time_Seconds": 575,
+            "Division": "Featherweight",
+            "Rank": "7"
+        },
+        "Nathaniel Wood": {
+            "Name": "Nathaniel Wood",
+            "Profile_URL": "https://www.ufc.com/athlete/nathaniel-wood",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WOOD_NATHANIEL_10-25.png?itok=kTadPl0J",
+            "Record": "23-6-0 (W-L-D)",
+            "SLpM": "5.64",
+            "SApM": "4.25",
+            "TD_Avg": "1.35",
+            "Sub_Avg": "0.47",
+            "Fight_Time": "13:32",
+            "Fight_Time_Seconds": 812,
+            "Division": "Featherweight",
+            "Rank": "9"
+        },
+        "Joanderson Brito": {
+            "Name": "Joanderson Brito",
+            "Profile_URL": "https://www.ufc.com/athlete/joanderson-brito",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BRITO_JOANDERSON_06-06.png?itok=Bni8iwnO",
+            "Record": "19-5-1 (W-L-D)",
+            "SLpM": "2.38",
+            "SApM": "2.28",
+            "TD_Avg": "3.23",
+            "Sub_Avg": "1.23",
+            "Fight_Time": "08:52",
+            "Fight_Time_Seconds": 532,
+            "Division": "Featherweight",
+            "Rank": "14"
+        },
+        "Jose Miguel Delgado": {
+            "Name": "Jose Miguel Delgado",
+            "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/FILI_ANDRE_06-20.png?itok=cIwJBZaQ",
+            "Record": "10-2-0 (W-L-D)",
+            "SLpM": "7.48",
+            "SApM": "4.95",
+            "TD_Avg": "1.51",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "07:58",
+            "Fight_Time_Seconds": 478,
+            "Division": "Featherweight",
+            "Rank": "15"
+        },
+        "Rafa Garcia": {
+            "Name": "Rafa Garcia",
+            "Profile_URL": "https://www.ufc.com/athlete/rafa-garcia",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GARCIA_RAFA_04-25.png?itok=f2XkuI68",
+            "Record": "19-4-0 (W-L-D)",
+            "SLpM": "4.28",
+            "SApM": "4.42",
+            "TD_Avg": "3.22",
+            "Sub_Avg": "0.40",
+            "Fight_Time": "13:33",
+            "Fight_Time_Seconds": 813,
+            "Division": "Lightweight",
+            "Rank": "15"
+        },
+        "Navajo Stirling": {
+            "Name": "Navajo Stirling",
+            "Profile_URL": "https://www.ufc.com/athlete/navajo-stirling",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/STIRLING_NAVAJO_06-20.png?itok=zEZnaHTX",
+            "Record": "10-0-0 (W-L-D)",
+            "SLpM": "6.24",
+            "SApM": "2.62",
+            "TD_Avg": "0.86",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "11:38",
+            "Fight_Time_Seconds": 698,
+            "Division": "Light Heavyweight",
+            "Rank": "12"
+        },
+        "Mario Pinto": {
+            "Name": "Mario Pinto",
+            "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
+            "Record": "12-0-0 (W-L-D)",
+            "SLpM": "2.85",
+            "SApM": "1.93",
+            "TD_Avg": "2.38",
+            "Sub_Avg": "0.95",
+            "Fight_Time": "07:53",
+            "Fight_Time_Seconds": 473,
+            "Division": "Heavyweight",
+            "Rank": "13"
+        },
+        "Ryan Spann": {
+            "Name": "Ryan Spann",
+            "Profile_URL": "https://www.ufc.com/athlete/ryan-spann",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SPANN_RYAN_04-25.png?itok=174ECoIT",
+            "Record": "24-11-0 (W-L-D)",
+            "SLpM": "3.11",
+            "SApM": "3.92",
+            "TD_Avg": "1.21",
+            "Sub_Avg": "1.66",
+            "Fight_Time": "05:31",
+            "Fight_Time_Seconds": 331,
+            "Division": "Heavyweight",
+            "Rank": "15"
         }
     }
 }
