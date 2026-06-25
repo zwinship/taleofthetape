@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vinicius Oliveira",
-        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.28",
-        "SApM": "2.89",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.24",
-        "Fight_Time": "12:33",
-        "Fight_Time_Seconds": 753,
+        "Name": "Bryce Mitchell",
+        "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
+        "Record": "19-4-0 (W-L-D)",
+        "SLpM": "2.19",
+        "SApM": "1.51",
+        "TD_Avg": "3.12",
+        "Sub_Avg": "1.27",
+        "Fight_Time": "11:50",
+        "Fight_Time_Seconds": 710,
         "Division": "Bantamweight",
-        "Rank": "13",
-        "Selected_Date": "2026-06-24T08:23:54.095752Z"
+        "Rank": "14",
+        "Selected_Date": "2026-06-25T08:24:03.281395Z"
     },
     "past_fighters": [
-        "Alexandre Pantoja",
         "Brandon Royval",
         "Alonzo Menifield",
         "Petr Yan",
         "Johnny Walker",
         "Rafael Fiziev",
-        "Shavkat Rakhmonov"
+        "Shavkat Rakhmonov",
+        "Vinicius Oliveira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2379,7 +2379,8 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-06-25T08:24:03.281395Z"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
