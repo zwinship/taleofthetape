@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nassourdine Imavov",
-        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "4.28",
-        "SApM": "3.17",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "15:16",
-        "Fight_Time_Seconds": 916,
-        "Division": "Middleweight",
-        "Rank": "3",
-        "Selected_Date": "2026-06-27T07:51:02.588302Z"
+        "Name": "Song Yadong",
+        "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
+        "Record": "22-8-1 (W-L-D)",
+        "SLpM": "4.58",
+        "SApM": "4.00",
+        "TD_Avg": "0.61",
+        "Sub_Avg": "0.15",
+        "Fight_Time": "13:05",
+        "Fight_Time_Seconds": 785,
+        "Division": "Bantamweight",
+        "Rank": "6",
+        "Selected_Date": "2026-06-28T08:22:03.987888Z"
     },
     "past_fighters": [
-        "Petr Yan",
         "Johnny Walker",
         "Rafael Fiziev",
         "Shavkat Rakhmonov",
         "Vinicius Oliveira",
         "Bryce Mitchell",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Nassourdine Imavov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -536,7 +536,7 @@
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
             "Rank": "6",
-            "Selected_Date": "2026-01-01T05:35:14.358503Z"
+            "Selected_Date": "2026-06-28T08:22:03.987888Z"
         },
         "Deiveson Figueiredo": {
             "Name": "Deiveson Figueiredo",
