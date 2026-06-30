@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tim Elliott",
-        "Profile_URL": "https://www.ufc.com/athlete/tim-elliott",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ELLIOTT_TIM_08-16.png?itok=-obztIkf",
-        "Record": "22-13-1 (W-L-D)",
-        "SLpM": "3.37",
-        "SApM": "2.65",
-        "TD_Avg": "3.71",
-        "Sub_Avg": "1.12",
-        "Fight_Time": "12:08",
-        "Fight_Time_Seconds": 728,
-        "Division": "Flyweight",
+        "Name": "Geoff Neal",
+        "Profile_URL": "https://www.ufc.com/athlete/geoff-neal",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/NEAL_GEOFF_08-16.png?itok=UhIoLBaC",
+        "Record": "16-7-0 (W-L-D)",
+        "SLpM": "5.05",
+        "SApM": "5.48",
+        "TD_Avg": "0.54",
+        "Sub_Avg": "0.11",
+        "Fight_Time": "09:52",
+        "Fight_Time_Seconds": 592,
+        "Division": "Welterweight",
         "Rank": "12",
-        "Selected_Date": "2026-06-29T09:27:27.659017Z"
+        "Selected_Date": "2026-06-30T08:31:28.139328Z"
     },
     "past_fighters": [
-        "Rafael Fiziev",
         "Shavkat Rakhmonov",
         "Vinicius Oliveira",
         "Bryce Mitchell",
         "Deiveson Figueiredo",
         "Nassourdine Imavov",
-        "Song Yadong"
+        "Song Yadong",
+        "Tim Elliott"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -344,7 +344,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "7"
+            "Rank": "6"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -358,7 +358,7 @@
             "Fight_Time": "13:53",
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-06-07T08:24:39.222319Z"
         },
         "Tim Elliott": {
@@ -432,7 +432,7 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-03-29T06:12:16.498076Z"
         },
         "Bruno Silva": {
@@ -990,7 +990,7 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "11",
+            "Rank": "13",
             "Selected_Date": "2026-06-22T10:40:33.431466Z"
         },
         "Renato Moicano": {
@@ -1254,7 +1254,8 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-06-30T08:31:28.139328Z"
         },
         "Daniel Rodriguez": {
             "Name": "Daniel Rodriguez",
@@ -1327,7 +1328,7 @@
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
             "Division": "Middleweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-06-08T09:24:14.251368Z"
         },
         "Israel Adesanya": {
@@ -1372,7 +1373,7 @@
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
-            "Rank": "15",
+            "Rank": "8",
             "Selected_Date": "2026-03-21T05:42:40.999205Z"
         },
         "Robert Whittaker": {
@@ -1402,7 +1403,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
@@ -1604,7 +1605,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -1954,7 +1955,7 @@
             "Fight_Time": "02:29",
             "Fight_Time_Seconds": 149,
             "Division": "Lightweight",
-            "Rank": "13",
+            "Rank": "15",
             "Selected_Date": "2025-12-17T19:53:29.355986Z"
         },
         "Far\u00e8s Ziam": {
@@ -1983,7 +1984,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "5"
+            "Rank": "4"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
@@ -2127,7 +2128,7 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
@@ -2268,7 +2269,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "14"
+            "Rank": "10"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
@@ -2310,7 +2311,7 @@
             "Fight_Time": "06:03",
             "Fight_Time_Seconds": 363,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Kevin Borjas": {
             "Name": "Kevin Borjas",
@@ -2493,6 +2494,20 @@
             "Fight_Time": "05:31",
             "Fight_Time_Seconds": 331,
             "Division": "Heavyweight",
+            "Rank": "15"
+        },
+        "Abus Magomedov": {
+            "Name": "Abus Magomedov",
+            "Profile_URL": "https://www.ufc.com/athlete/abus-magomedov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_ABUS_06-27.png?itok=L-lbZx1p",
+            "Record": "29-7-1 (W-L-D)",
+            "SLpM": "3.06",
+            "SApM": "3.34",
+            "TD_Avg": "2.50",
+            "Sub_Avg": "0.58",
+            "Fight_Time": "09:46",
+            "Fight_Time_Seconds": 586,
+            "Division": "Middleweight",
             "Rank": "15"
         }
     }
