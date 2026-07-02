@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Lerone Murphy",
-        "Profile_URL": "https://www.ufc.com/athlete/lerone-murphy",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/MURPHY_LERONE_08-16.png?itok=CW36JFs2",
-        "Record": "17-0-1 (W-L-D)",
-        "SLpM": "4.48",
-        "SApM": "2.51",
-        "TD_Avg": "1.41",
-        "Sub_Avg": "0.54",
-        "Fight_Time": "13:47",
-        "Fight_Time_Seconds": 827,
+        "Name": "Aljamain Sterling",
+        "Profile_URL": "https://www.ufc.com/athlete/aljamain-sterling",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/STERLING_ALJAMAIN_08-23.png?itok=lhWe7zsC",
+        "Record": "25-5-0 (W-L-D)",
+        "SLpM": "4.45",
+        "SApM": "2.21",
+        "TD_Avg": "2.45",
+        "Sub_Avg": "0.64",
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
         "Division": "Featherweight",
-        "Rank": "3",
-        "Selected_Date": "2026-07-01T08:50:06.677834Z"
+        "Rank": "4",
+        "Selected_Date": "2026-07-02T08:12:14.660421Z"
     },
     "past_fighters": [
-        "Vinicius Oliveira",
         "Bryce Mitchell",
         "Deiveson Figueiredo",
         "Nassourdine Imavov",
         "Song Yadong",
         "Tim Elliott",
-        "Geoff Neal"
+        "Geoff Neal",
+        "Lerone Murphy"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -758,7 +758,7 @@
             "Fight_Time_Seconds": 834,
             "Division": "Featherweight",
             "Rank": "4",
-            "Selected_Date": "2026-02-15T06:00:29.754339Z"
+            "Selected_Date": "2026-07-02T08:12:14.660421Z"
         },
         "Arnold Allen": {
             "Name": "Arnold Allen",
