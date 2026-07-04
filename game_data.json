@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Colby Covington",
-        "Profile_URL": "https://www.ufc.com/athlete/colby-covington",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/COVINGTON_COLBY_12-14.png?itok=oW_iC6jD",
-        "Record": "17-5-0 (W-L-D)",
-        "SLpM": "3.81",
-        "SApM": "3.09",
-        "TD_Avg": "3.64",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:57",
-        "Fight_Time_Seconds": 1017,
-        "Division": "Welterweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-03T08:10:39.561931Z"
+        "Name": "Kevin Vallejos",
+        "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VALLEJOS_KEVIN_12-13.png?itok=n0pVKZf2",
+        "Record": "16-1-0 (W-L-D)",
+        "SLpM": "5.78",
+        "SApM": "4.71",
+        "TD_Avg": "0.71",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:24",
+        "Fight_Time_Seconds": 504,
+        "Division": "Featherweight",
+        "Rank": "10",
+        "Selected_Date": "2026-07-04T07:48:03.467642Z"
     },
     "past_fighters": [
-        "Deiveson Figueiredo",
         "Nassourdine Imavov",
         "Song Yadong",
         "Tim Elliott",
         "Geoff Neal",
         "Lerone Murphy",
-        "Aljamain Sterling"
+        "Aljamain Sterling",
+        "Colby Covington"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1943,7 +1943,8 @@
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
             "Division": "Featherweight",
-            "Rank": "10"
+            "Rank": "10",
+            "Selected_Date": "2026-07-04T07:48:03.467642Z"
         },
         "Manuel Torres": {
             "Name": "Manuel Torres",
