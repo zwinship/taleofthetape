@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kevin Vallejos",
-        "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VALLEJOS_KEVIN_12-13.png?itok=n0pVKZf2",
-        "Record": "16-1-0 (W-L-D)",
-        "SLpM": "5.78",
-        "SApM": "4.71",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:24",
-        "Fight_Time_Seconds": 504,
-        "Division": "Featherweight",
-        "Rank": "10",
-        "Selected_Date": "2026-07-04T07:48:03.467642Z"
+        "Name": "Grant Dawson",
+        "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
+        "Record": "23-2-1 (W-L-D)",
+        "SLpM": "3.20",
+        "SApM": "2.11",
+        "TD_Avg": "3.87",
+        "Sub_Avg": "1.13",
+        "Fight_Time": "11:21",
+        "Fight_Time_Seconds": 681,
+        "Division": "Lightweight",
+        "Rank": "14",
+        "Selected_Date": "2026-07-05T07:57:34.064364Z"
     },
     "past_fighters": [
-        "Nassourdine Imavov",
         "Song Yadong",
         "Tim Elliott",
         "Geoff Neal",
         "Lerone Murphy",
         "Aljamain Sterling",
-        "Colby Covington"
+        "Colby Covington",
+        "Kevin Vallejos"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1051,7 +1051,7 @@
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
             "Rank": "14",
-            "Selected_Date": "2026-04-26T06:59:19.907853Z"
+            "Selected_Date": "2026-07-05T07:57:34.064364Z"
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
