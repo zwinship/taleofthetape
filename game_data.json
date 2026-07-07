@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexandre Pantoja",
-        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
-        "Record": "30-5-0 (W-L-D)",
-        "SLpM": "4.36",
-        "SApM": "3.88",
-        "TD_Avg": "2.80",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "12:37",
-        "Fight_Time_Seconds": 757,
-        "Division": "Flyweight",
+        "Name": "Merab Dvalishvili",
+        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
+        "Record": "21-4-0 (W-L-D)",
+        "SLpM": "4.33",
+        "SApM": "2.55",
+        "TD_Avg": "6.40",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Bantamweight",
         "Rank": "1",
-        "Selected_Date": "2026-07-06T09:00:36.328639Z"
+        "Selected_Date": "2026-07-07T08:24:01.889468Z"
     },
     "past_fighters": [
-        "Tim Elliott",
         "Geoff Neal",
         "Lerone Murphy",
         "Aljamain Sterling",
         "Colby Covington",
         "Kevin Vallejos",
-        "Grant Dawson"
+        "Grant Dawson",
+        "Alexandre Pantoja"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -67,7 +67,7 @@
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-09T05:33:36.281724Z"
+            "Selected_Date": "2026-07-07T08:24:01.889468Z"
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
