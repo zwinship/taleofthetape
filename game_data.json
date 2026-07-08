@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Merab Dvalishvili",
-        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
-        "Record": "21-4-0 (W-L-D)",
-        "SLpM": "4.33",
-        "SApM": "2.55",
-        "TD_Avg": "6.40",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "17:08",
-        "Fight_Time_Seconds": 1028,
-        "Division": "Bantamweight",
-        "Rank": "1",
-        "Selected_Date": "2026-07-07T08:24:01.889468Z"
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
+        "Division": "Middleweight",
+        "Rank": "2",
+        "Selected_Date": "2026-07-08T07:29:36.472614Z"
     },
     "past_fighters": [
-        "Geoff Neal",
         "Lerone Murphy",
         "Aljamain Sterling",
         "Colby Covington",
         "Kevin Vallejos",
         "Grant Dawson",
-        "Alexandre Pantoja"
+        "Alexandre Pantoja",
+        "Merab Dvalishvili"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -157,7 +157,7 @@
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
             "Rank": "2",
-            "Selected_Date": "2026-06-13T08:21:17.486218Z"
+            "Selected_Date": "2026-07-08T07:29:36.472614Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
