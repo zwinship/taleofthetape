@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dricus Du Plessis",
-        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.18",
-        "SApM": "4.33",
-        "TD_Avg": "2.22",
-        "Sub_Avg": "0.71",
-        "Fight_Time": "14:53",
-        "Fight_Time_Seconds": 893,
-        "Division": "Middleweight",
-        "Rank": "2",
-        "Selected_Date": "2026-07-08T07:29:36.472614Z"
+        "Name": "Alex Perez",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
+        "Record": "25-10-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "3.22",
+        "TD_Avg": "2.28",
+        "Sub_Avg": "0.76",
+        "Fight_Time": "07:03",
+        "Fight_Time_Seconds": 423,
+        "Division": "Flyweight",
+        "Rank": "14",
+        "Selected_Date": "2026-07-09T08:29:25.904404Z"
     },
     "past_fighters": [
-        "Lerone Murphy",
         "Aljamain Sterling",
         "Colby Covington",
         "Kevin Vallejos",
         "Grant Dawson",
         "Alexandre Pantoja",
-        "Merab Dvalishvili"
+        "Merab Dvalishvili",
+        "Dricus Du Plessis"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -403,7 +403,7 @@
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
             "Rank": "14",
-            "Selected_Date": "2026-03-13T05:51:39.103858Z"
+            "Selected_Date": "2026-07-09T08:29:25.904404Z"
         },
         "Tagir Ulanbekov": {
             "Name": "Tagir Ulanbekov",
