@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Perez",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
-        "Record": "25-10-0 (W-L-D)",
-        "SLpM": "4.16",
-        "SApM": "3.22",
-        "TD_Avg": "2.28",
-        "Sub_Avg": "0.76",
-        "Fight_Time": "07:03",
-        "Fight_Time_Seconds": 423,
-        "Division": "Flyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-07-09T08:29:25.904404Z"
+        "Name": "Mateusz Gamrot",
+        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
+        "Record": "25-4-0 (W-L-D)",
+        "SLpM": "3.29",
+        "SApM": "2.96",
+        "TD_Avg": "5.15",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "12:09",
+        "Fight_Time_Seconds": 729,
+        "Division": "Lightweight",
+        "Rank": "6",
+        "Selected_Date": "2026-07-10T08:23:44.894083Z"
     },
     "past_fighters": [
-        "Aljamain Sterling",
         "Colby Covington",
         "Kevin Vallejos",
         "Grant Dawson",
         "Alexandre Pantoja",
         "Merab Dvalishvili",
-        "Dricus Du Plessis"
+        "Dricus Du Plessis",
+        "Alex Perez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -963,7 +963,7 @@
             "Fight_Time_Seconds": 729,
             "Division": "Lightweight",
             "Rank": "6",
-            "Selected_Date": "2026-06-05T08:43:52.270636Z"
+            "Selected_Date": "2026-07-10T08:23:44.894083Z"
         },
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
