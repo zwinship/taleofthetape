@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mateusz Gamrot",
-        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
-        "Record": "25-4-0 (W-L-D)",
-        "SLpM": "3.29",
-        "SApM": "2.96",
-        "TD_Avg": "5.15",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:09",
-        "Fight_Time_Seconds": 729,
-        "Division": "Lightweight",
-        "Rank": "6",
-        "Selected_Date": "2026-07-10T08:23:44.894083Z"
+        "Name": "Ian Machado Garry",
+        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.92",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "14:45",
+        "Fight_Time_Seconds": 885,
+        "Division": "Welterweight",
+        "Rank": "2",
+        "Selected_Date": "2026-07-11T07:11:33.388048Z"
     },
     "past_fighters": [
-        "Colby Covington",
         "Kevin Vallejos",
         "Grant Dawson",
         "Alexandre Pantoja",
         "Merab Dvalishvili",
         "Dricus Du Plessis",
-        "Alex Perez"
+        "Alex Perez",
+        "Mateusz Gamrot"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1096,7 +1096,7 @@
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
             "Rank": "2",
-            "Selected_Date": "2026-05-27T08:39:49.829883Z"
+            "Selected_Date": "2026-07-11T07:11:33.388048Z"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
