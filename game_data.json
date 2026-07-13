@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Lone\u2019er Kavanagh",
-        "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
-        "Record": "9-1-0 (W-L-D)",
-        "SLpM": "4.29",
-        "SApM": "3.69",
-        "TD_Avg": "1.79",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "10:30",
-        "Fight_Time_Seconds": 630,
-        "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-07-12T07:29:13.357225Z"
+        "Name": "Michael Morales",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
+        "Record": "19-0-0 (W-L-D)",
+        "SLpM": "5.68",
+        "SApM": "3.26",
+        "TD_Avg": "1.04",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:00",
+        "Fight_Time_Seconds": 540,
+        "Division": "Welterweight",
+        "Rank": "3",
+        "Selected_Date": "2026-07-13T08:17:52.399280Z"
     },
     "past_fighters": [
-        "Grant Dawson",
         "Alexandre Pantoja",
         "Merab Dvalishvili",
         "Dricus Du Plessis",
         "Alex Perez",
         "Mateusz Gamrot",
-        "Ian Machado Garry"
+        "Ian Machado Garry",
+        "Lone\u2019er Kavanagh"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -969,7 +969,7 @@
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
-            "Record": "17-3-0 (W-L-D)",
+            "Record": "17-4-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
             "TD_Avg": "4.19",
@@ -1126,7 +1126,7 @@
             "Fight_Time_Seconds": 540,
             "Division": "Welterweight",
             "Rank": "3",
-            "Selected_Date": "2026-04-24T07:04:35.832746Z"
+            "Selected_Date": "2026-07-13T08:17:52.399280Z"
         },
         "Carlos Prates": {
             "Name": "Carlos Prates",
