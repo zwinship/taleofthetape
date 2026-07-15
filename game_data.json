@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyler Phillips",
-        "Profile_URL": "https://www.ufc.com/athlete/kyler-phillips",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/PHILLIPS_KYLER_07-19.png?itok=ksDPo7Da",
-        "Record": "12-4-0 (W-L-D)",
-        "SLpM": "5.04",
-        "SApM": "3.83",
-        "TD_Avg": "2.31",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "12:20",
-        "Fight_Time_Seconds": 740,
-        "Division": "Bantamweight",
+        "Name": "Grant Dawson",
+        "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
+        "Record": "23-2-1 (W-L-D)",
+        "SLpM": "3.20",
+        "SApM": "2.11",
+        "TD_Avg": "3.87",
+        "Sub_Avg": "1.13",
+        "Fight_Time": "11:21",
+        "Fight_Time_Seconds": 681,
+        "Division": "Lightweight",
         "Rank": "14",
-        "Selected_Date": "2026-07-14T07:10:45.048436Z"
+        "Selected_Date": "2026-07-15T07:15:28.138005Z"
     },
     "past_fighters": [
-        "Merab Dvalishvili",
         "Dricus Du Plessis",
         "Alex Perez",
         "Mateusz Gamrot",
         "Ian Machado Garry",
         "Lone\u2019er Kavanagh",
-        "Michael Morales"
+        "Michael Morales",
+        "Kyler Phillips"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1051,7 +1051,7 @@
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
             "Rank": "14",
-            "Selected_Date": "2026-07-05T07:57:34.064364Z"
+            "Selected_Date": "2026-07-15T07:15:28.138005Z"
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
