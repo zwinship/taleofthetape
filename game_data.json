@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Grant Dawson",
-        "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
-        "Record": "23-2-1 (W-L-D)",
-        "SLpM": "3.20",
-        "SApM": "2.11",
-        "TD_Avg": "3.87",
-        "Sub_Avg": "1.13",
-        "Fight_Time": "11:21",
-        "Fight_Time_Seconds": 681,
+        "Name": "Ilia Topuria",
+        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
+        "Record": "17-0-0 (W-L-D)",
+        "SLpM": "4.81",
+        "SApM": "3.83",
+        "TD_Avg": "1.96",
+        "Sub_Avg": "1.07",
+        "Fight_Time": "09:22",
+        "Fight_Time_Seconds": 562,
         "Division": "Lightweight",
-        "Rank": "14",
-        "Selected_Date": "2026-07-15T07:15:28.138005Z"
+        "Rank": "1",
+        "Selected_Date": "2026-07-16T07:22:54.732341Z"
     },
     "past_fighters": [
-        "Dricus Du Plessis",
         "Alex Perez",
         "Mateusz Gamrot",
         "Ian Machado Garry",
         "Lone\u2019er Kavanagh",
         "Michael Morales",
-        "Kyler Phillips"
+        "Kyler Phillips",
+        "Grant Dawson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -52,7 +52,7 @@
             "Fight_Time_Seconds": 562,
             "Division": "Lightweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-06T05:33:06.727535Z"
+            "Selected_Date": "2026-07-16T07:22:54.732341Z"
         },
         "Merab Dvalishvili": {
             "Name": "Merab Dvalishvili",
@@ -1435,7 +1435,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-04-29T07:24:54.905639Z"
         },
         "Paulo Costa": {
@@ -1650,7 +1650,7 @@
             "Fight_Time": "06:34",
             "Fight_Time_Seconds": 394,
             "Division": "Light Heavyweight",
-            "Rank": "12"
+            "Rank": "15"
         },
         "Zhang Mingyang": {
             "Name": "Zhang Mingyang",
@@ -1811,7 +1811,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
