@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ilia Topuria",
-        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
-        "Record": "17-0-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "3.83",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "1.07",
-        "Fight_Time": "09:22",
-        "Fight_Time_Seconds": 562,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-07-16T07:22:54.732341Z"
+        "Name": "Yaroslav Amosov",
+        "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
+        "Record": "29-1-0 (W-L-D)",
+        "SLpM": "2.78",
+        "SApM": "1.55",
+        "TD_Avg": "4.64",
+        "Sub_Avg": "4.64",
+        "Fight_Time": "03:14",
+        "Fight_Time_Seconds": 194,
+        "Division": "Welterweight",
+        "Rank": "15",
+        "Selected_Date": "2026-07-17T07:18:01.913389Z"
     },
     "past_fighters": [
-        "Alex Perez",
         "Mateusz Gamrot",
         "Ian Machado Garry",
         "Lone\u2019er Kavanagh",
         "Michael Morales",
         "Kyler Phillips",
-        "Grant Dawson"
+        "Grant Dawson",
+        "Ilia Topuria"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2218,7 +2218,8 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-07-17T07:18:01.913389Z"
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
