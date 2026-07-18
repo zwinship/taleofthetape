@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Yaroslav Amosov",
-        "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
-        "Record": "29-1-0 (W-L-D)",
-        "SLpM": "2.78",
-        "SApM": "1.55",
-        "TD_Avg": "4.64",
-        "Sub_Avg": "4.64",
-        "Fight_Time": "03:14",
-        "Fight_Time_Seconds": 194,
-        "Division": "Welterweight",
+        "Name": "Alessandro Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/alessandro-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/COSTA_ALESSANDRO_07-11.png?itok=9Efneg8e",
+        "Record": "17-5-0 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "3.71",
+        "TD_Avg": "0.70",
+        "Sub_Avg": "0.70",
+        "Fight_Time": "09:29",
+        "Fight_Time_Seconds": 569,
+        "Division": "Flyweight",
         "Rank": "15",
-        "Selected_Date": "2026-07-17T07:18:01.913389Z"
+        "Selected_Date": "2026-07-18T07:00:17.307734Z"
     },
     "past_fighters": [
-        "Mateusz Gamrot",
         "Ian Machado Garry",
         "Lone\u2019er Kavanagh",
         "Michael Morales",
         "Kyler Phillips",
         "Grant Dawson",
-        "Ilia Topuria"
+        "Ilia Topuria",
+        "Yaroslav Amosov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2526,7 +2526,8 @@
             "Fight_Time": "09:29",
             "Fight_Time_Seconds": 569,
             "Division": "Flyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-07-18T07:00:17.307734Z"
         },
         "Nursulton Ruziboev": {
             "Name": "Nursulton Ruziboev",
