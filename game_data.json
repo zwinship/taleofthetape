@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alessandro Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/alessandro-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/COSTA_ALESSANDRO_07-11.png?itok=9Efneg8e",
-        "Record": "17-5-0 (W-L-D)",
-        "SLpM": "3.77",
-        "SApM": "3.71",
-        "TD_Avg": "0.70",
-        "Sub_Avg": "0.70",
-        "Fight_Time": "09:29",
-        "Fight_Time_Seconds": 569,
-        "Division": "Flyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-18T07:00:17.307734Z"
+        "Name": "Alex Pereira",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.16",
+        "SApM": "3.50",
+        "TD_Avg": "0.11",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-07-19T07:27:39.393905Z"
     },
     "past_fighters": [
-        "Ian Machado Garry",
         "Lone\u2019er Kavanagh",
         "Michael Morales",
         "Kyler Phillips",
         "Grant Dawson",
         "Ilia Topuria",
-        "Yaroslav Amosov"
+        "Yaroslav Amosov",
+        "Alessandro Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -112,7 +112,7 @@
             "Fight_Time_Seconds": 664,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-03-18T06:03:55.925612Z"
+            "Selected_Date": "2026-07-19T07:27:39.393905Z"
         },
         "Alexander Volkanovski": {
             "Name": "Alexander Volkanovski",
@@ -2433,7 +2433,7 @@
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/FILI_ANDRE_06-20.png?itok=cIwJBZaQ",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
             "Record": "10-2-0 (W-L-D)",
             "SLpM": "7.48",
             "SApM": "4.95",
