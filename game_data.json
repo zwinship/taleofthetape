@@ -1,27 +1,23 @@
 {
     "daily_fighter": {
-        "Name": "Ciryl Gane",
-        "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
-        "Record": "13-2-0 (W-L-D)",
-        "SLpM": "5.29",
-        "SApM": "2.33",
-        "TD_Avg": "0.68",
-        "Sub_Avg": "0.60",
-        "Fight_Time": "13:30",
-        "Fight_Time_Seconds": 810,
-        "Division": "Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-07-21T07:33:02.652091Z"
+        "Name": "Jack Della Maddalena",
+        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "Standing \n      0 (0 %)",
+        "Fight_Time_Seconds": 0,
+        "Division": "Welterweight",
+        "Rank": "4",
+        "Selected_Date": "2026-07-22T07:34:28.478730Z"
     },
     "past_fighters": [
-        "Kyler Phillips",
         "Grant Dawson",
         "Ilia Topuria",
         "Yaroslav Amosov",
         "Alessandro Costa",
         "Alex Pereira",
-        "Tom Nolan"
+        "Tom Nolan",
+        "Ciryl Gane"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -182,7 +178,7 @@
             "Fight_Time_Seconds": 0,
             "Division": "Welterweight",
             "Rank": "4",
-            "Selected_Date": "2026-01-24T05:29:20.466251Z"
+            "Selected_Date": "2026-07-22T07:34:28.478730Z"
         },
         "Magomed Ankalaev": {
             "Name": "Magomed Ankalaev",
@@ -1375,7 +1371,7 @@
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-03-21T05:42:40.999205Z"
         },
         "Robert Whittaker": {
@@ -1405,7 +1401,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "10",
+            "Rank": "12",
             "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
@@ -1607,7 +1603,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -2435,7 +2431,7 @@
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
-            "Record": "10-2-0 (W-L-D)",
+            "Record": "12-2-0 (W-L-D)",
             "SLpM": "6.07",
             "SApM": "4.18",
             "TD_Avg": "1.37",
