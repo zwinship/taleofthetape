@@ -1,23 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jack Della Maddalena",
-        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "Standing \n      0 (0 %)",
-        "Fight_Time_Seconds": 0,
-        "Division": "Welterweight",
-        "Rank": "4",
-        "Selected_Date": "2026-07-22T07:34:28.478730Z"
+        "Name": "Pat Sabatini",
+        "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
+        "Record": "22-5-0 (W-L-D)",
+        "SLpM": "1.69",
+        "SApM": "1.16",
+        "TD_Avg": "4.27",
+        "Sub_Avg": "1.28",
+        "Fight_Time": "09:35",
+        "Fight_Time_Seconds": 575,
+        "Division": "Featherweight",
+        "Rank": "7",
+        "Selected_Date": "2026-07-23T07:33:32.659580Z"
     },
     "past_fighters": [
-        "Grant Dawson",
         "Ilia Topuria",
         "Yaroslav Amosov",
         "Alessandro Costa",
         "Alex Pereira",
         "Tom Nolan",
-        "Ciryl Gane"
+        "Ciryl Gane",
+        "Jack Della Maddalena"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2397,7 +2401,8 @@
             "Fight_Time": "09:35",
             "Fight_Time_Seconds": 575,
             "Division": "Featherweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-07-23T07:33:32.659580Z"
         },
         "Nathaniel Wood": {
             "Name": "Nathaniel Wood",
