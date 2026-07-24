@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Pat Sabatini",
-        "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
-        "Record": "22-5-0 (W-L-D)",
-        "SLpM": "1.69",
-        "SApM": "1.16",
-        "TD_Avg": "4.27",
-        "Sub_Avg": "1.28",
-        "Fight_Time": "09:35",
-        "Fight_Time_Seconds": 575,
-        "Division": "Featherweight",
-        "Rank": "7",
-        "Selected_Date": "2026-07-23T07:33:32.659580Z"
+        "Name": "Kevin Borjas",
+        "Profile_URL": "https://www.ufc.com/athlete/kevin-borjas",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BORJAS_KEVIN_06-20.png?itok=efbTVP2q",
+        "Record": "11-5-0 (W-L-D)",
+        "SLpM": "3.87",
+        "SApM": "5.27",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:59",
+        "Fight_Time_Seconds": 779,
+        "Division": "Flyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-07-24T07:32:30.598429Z"
     },
     "past_fighters": [
-        "Ilia Topuria",
         "Yaroslav Amosov",
         "Alessandro Costa",
         "Alex Pereira",
         "Tom Nolan",
         "Ciryl Gane",
-        "Jack Della Maddalena"
+        "Jack Della Maddalena",
+        "Pat Sabatini"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2330,7 +2330,8 @@
             "Fight_Time": "12:59",
             "Fight_Time_Seconds": 779,
             "Division": "Flyweight",
-            "Rank": "10"
+            "Rank": "10",
+            "Selected_Date": "2026-07-24T07:32:30.598429Z"
         },
         "Mitch Raposo": {
             "Name": "Mitch Raposo",
