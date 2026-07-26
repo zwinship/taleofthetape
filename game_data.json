@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "2",
-        "Selected_Date": "2026-07-25T07:19:03.818758Z"
+        "Name": "Brandon Moreno",
+        "Profile_URL": "https://www.ufc.com/athlete/brandon-moreno",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/MORENO_BRANDON_03-29.png?itok=8NfFtl4u",
+        "Record": "23-8-2 (W-L-D)",
+        "SLpM": "3.96",
+        "SApM": "3.62",
+        "TD_Avg": "1.51",
+        "Sub_Avg": "0.39",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Flyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-07-26T07:36:42.355084Z"
     },
     "past_fighters": [
-        "Alessandro Costa",
         "Alex Pereira",
         "Tom Nolan",
         "Ciryl Gane",
         "Jack Della Maddalena",
         "Pat Sabatini",
-        "Kevin Borjas"
+        "Kevin Borjas",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -271,7 +271,7 @@
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
             "Rank": "9",
-            "Selected_Date": "2026-01-28T05:36:27.036410Z"
+            "Selected_Date": "2026-07-26T07:36:42.355084Z"
         },
         "Brandon Royval": {
             "Name": "Brandon Royval",
