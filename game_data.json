@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shamil Gaziev",
-        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "2.62",
-        "SApM": "3.97",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "08:01",
-        "Fight_Time_Seconds": 481,
-        "Division": "Heavyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-07-27T08:31:58.983374Z"
+        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+        "Record": "32-6-1 (W-L-D)",
+        "SLpM": "5.61",
+        "SApM": "5.67",
+        "TD_Avg": "0.49",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "10:15",
+        "Fight_Time_Seconds": 615,
+        "Division": "Light Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-07-28T07:40:03.305638Z"
     },
     "past_fighters": [
-        "Tom Nolan",
         "Ciryl Gane",
         "Jack Della Maddalena",
         "Pat Sabatini",
         "Kevin Borjas",
         "Arman Tsarukyan",
-        "Brandon Moreno"
+        "Brandon Moreno",
+        "Shamil Gaziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1495,7 +1495,8 @@
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-07-28T07:40:03.305638Z"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
