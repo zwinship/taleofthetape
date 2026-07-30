@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Lone\u2019er Kavanagh",
-        "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
-        "Record": "9-1-0 (W-L-D)",
-        "SLpM": "4.29",
-        "SApM": "3.69",
-        "TD_Avg": "1.79",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "10:30",
-        "Fight_Time_Seconds": 630,
-        "Division": "Flyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-07-29T07:44:24.949118Z"
+        "Name": "Giga Chikadze",
+        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
+        "Record": "15-5-0 (W-L-D)",
+        "SLpM": "3.82",
+        "SApM": "3.48",
+        "TD_Avg": "0.19",
+        "Sub_Avg": "0.19",
+        "Fight_Time": "13:24",
+        "Fight_Time_Seconds": 804,
+        "Division": "Featherweight",
+        "Rank": "15",
+        "Selected_Date": "2026-07-30T07:34:15.104664Z"
     },
     "past_fighters": [
-        "Jack Della Maddalena",
         "Pat Sabatini",
         "Kevin Borjas",
         "Arman Tsarukyan",
         "Brandon Moreno",
         "Shamil Gaziev",
-        "Ji\u0159\u00ed Proch\u00e1zka"
+        "Ji\u0159\u00ed Proch\u00e1zka",
+        "Lone\u2019er Kavanagh"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -903,7 +903,7 @@
             "Fight_Time_Seconds": 804,
             "Division": "Featherweight",
             "Rank": "15",
-            "Selected_Date": "2026-01-22T05:36:21.241069Z"
+            "Selected_Date": "2026-07-30T07:34:15.104664Z"
         },
         "Justin Gaethje": {
             "Name": "Justin Gaethje",
