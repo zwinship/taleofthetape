@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Giga Chikadze",
-        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.48",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.19",
-        "Fight_Time": "13:24",
-        "Fight_Time_Seconds": 804,
-        "Division": "Featherweight",
+        "Name": "Ignacio Bahamondes",
+        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "17-6-0 (W-L-D)",
+        "SLpM": "6.55",
+        "SApM": "4.33",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "10:25",
+        "Fight_Time_Seconds": 625,
+        "Division": "Lightweight",
         "Rank": "15",
-        "Selected_Date": "2026-07-30T07:34:15.104664Z"
+        "Selected_Date": "2026-07-31T07:51:13.588654Z"
     },
     "past_fighters": [
-        "Pat Sabatini",
         "Kevin Borjas",
         "Arman Tsarukyan",
         "Brandon Moreno",
         "Shamil Gaziev",
         "Ji\u0159\u00ed Proch\u00e1zka",
-        "Lone\u2019er Kavanagh"
+        "Lone\u2019er Kavanagh",
+        "Giga Chikadze"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1081,7 +1081,7 @@
             "Fight_Time_Seconds": 625,
             "Division": "Lightweight",
             "Rank": "15",
-            "Selected_Date": "2026-05-01T07:26:25.186488Z"
+            "Selected_Date": "2026-07-31T07:51:13.588654Z"
         },
         "Ian Machado Garry": {
             "Name": "Ian Machado Garry",
@@ -1527,7 +1527,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=NefnoJf2",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BLACHOWICZ_JAN_08-01.png?itok=rv-a79w2",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
