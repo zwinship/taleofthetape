@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ignacio Bahamondes",
-        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "17-6-0 (W-L-D)",
-        "SLpM": "6.55",
-        "SApM": "4.33",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "10:25",
-        "Fight_Time_Seconds": 625,
-        "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-31T07:51:13.588654Z"
+        "Name": "Mitch Raposo",
+        "Profile_URL": "https://www.ufc.com/athlete/mitch-raposo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RAPOSO_MITCH_06-20.png?itok=syaw6RH3",
+        "Record": "11-3-0 (W-L-D)",
+        "SLpM": "1.91",
+        "SApM": "2.92",
+        "TD_Avg": "1.98",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:38",
+        "Fight_Time_Seconds": 818,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-08-01T07:28:10.211521Z"
     },
     "past_fighters": [
-        "Kevin Borjas",
         "Arman Tsarukyan",
         "Brandon Moreno",
         "Shamil Gaziev",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Lone\u2019er Kavanagh",
-        "Giga Chikadze"
+        "Giga Chikadze",
+        "Ignacio Bahamondes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2345,7 +2345,8 @@
             "Fight_Time": "13:38",
             "Fight_Time_Seconds": 818,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-08-01T07:28:10.211521Z"
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
