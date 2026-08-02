@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mitch Raposo",
-        "Profile_URL": "https://www.ufc.com/athlete/mitch-raposo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RAPOSO_MITCH_06-20.png?itok=syaw6RH3",
-        "Record": "11-3-0 (W-L-D)",
-        "SLpM": "1.91",
-        "SApM": "2.92",
-        "TD_Avg": "1.98",
+        "Name": "Ramazan Temirov",
+        "Profile_URL": "https://www.ufc.com/athlete/ramazan-temirov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/TEMIROV_RAMAZAN_07-25.png?itok=2EEjf3AT",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.73",
+        "SApM": "3.65",
+        "TD_Avg": "0.68",
         "Sub_Avg": "0.00",
-        "Fight_Time": "13:38",
-        "Fight_Time_Seconds": 818,
+        "Fight_Time": "07:24",
+        "Fight_Time_Seconds": 444,
         "Division": "Flyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-08-01T07:28:10.211521Z"
+        "Rank": "7",
+        "Selected_Date": "2026-08-02T07:32:43.785432Z"
     },
     "past_fighters": [
-        "Arman Tsarukyan",
         "Brandon Moreno",
         "Shamil Gaziev",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Lone\u2019er Kavanagh",
         "Giga Chikadze",
-        "Ignacio Bahamondes"
+        "Ignacio Bahamondes",
+        "Mitch Raposo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1528,7 +1528,7 @@
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BLACHOWICZ_JAN_08-01.png?itok=rv-a79w2",
-            "Record": "29-11-2 (W-L-D)",
+            "Record": "29-12-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
             "TD_Avg": "0.98",
@@ -2559,7 +2559,8 @@
             "Fight_Time": "07:24",
             "Fight_Time_Seconds": 444,
             "Division": "Flyweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-08-02T07:32:43.785432Z"
         },
         "Muhammad Saidov": {
             "Name": "Muhammad Saidov",
