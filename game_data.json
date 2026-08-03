@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ramazan Temirov",
-        "Profile_URL": "https://www.ufc.com/athlete/ramazan-temirov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/TEMIROV_RAMAZAN_07-25.png?itok=2EEjf3AT",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.73",
-        "SApM": "3.65",
-        "TD_Avg": "0.68",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "07:24",
-        "Fight_Time_Seconds": 444,
-        "Division": "Flyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-08-02T07:32:43.785432Z"
+        "Name": "Vinicius Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.28",
+        "SApM": "2.89",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "12:33",
+        "Fight_Time_Seconds": 753,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-08-03T08:30:16.018832Z"
     },
     "past_fighters": [
-        "Brandon Moreno",
         "Shamil Gaziev",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Lone\u2019er Kavanagh",
         "Giga Chikadze",
         "Ignacio Bahamondes",
-        "Mitch Raposo"
+        "Mitch Raposo",
+        "Ramazan Temirov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -654,7 +654,7 @@
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
             "Rank": "13",
-            "Selected_Date": "2026-06-24T08:23:54.095752Z"
+            "Selected_Date": "2026-08-03T08:30:16.018832Z"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
