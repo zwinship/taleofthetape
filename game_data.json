@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Venom Page",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-        "Record": "25-3-0 (W-L-D)",
-        "SLpM": "2.28",
-        "SApM": "1.51",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:21",
-        "Fight_Time_Seconds": 681,
-        "Division": "Welterweight",
-        "Rank": "13",
-        "Selected_Date": "2026-08-04T07:41:18.741597Z"
+        "Name": "Caio Borralho",
+        "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
+        "Record": "17-2-0 (W-L-D)",
+        "SLpM": "3.44",
+        "SApM": "2.50",
+        "TD_Avg": "1.28",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:04",
+        "Fight_Time_Seconds": 844,
+        "Division": "Middleweight",
+        "Rank": "6",
+        "Selected_Date": "2026-08-05T07:40:36.095165Z"
     },
     "past_fighters": [
-        "Ji\u0159\u00ed Proch\u00e1zka",
         "Lone\u2019er Kavanagh",
         "Giga Chikadze",
         "Ignacio Bahamondes",
         "Mitch Raposo",
         "Ramazan Temirov",
-        "Vinicius Oliveira"
+        "Vinicius Oliveira",
+        "Michael Venom Page"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -373,7 +373,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-06-29T09:27:27.659017Z"
         },
         "Steve Erceg": {
@@ -388,7 +388,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
@@ -417,7 +417,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-03-06T05:53:03.394771Z"
         },
         "Charles Johnson": {
@@ -1361,7 +1361,7 @@
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
             "Rank": "6",
-            "Selected_Date": "2026-01-20T05:37:01.939693Z"
+            "Selected_Date": "2026-08-05T07:40:36.095165Z"
         },
         "Reinier de Ridder": {
             "Name": "Reinier de Ridder",
@@ -1536,7 +1536,7 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Light Heavyweight",
-            "Rank": "4"
+            "Rank": "9"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1606,8 +1606,8 @@
             "Sub_Avg": "0.13",
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
-            "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Division": "Heavyweight",
+            "Rank": "11",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -1796,7 +1796,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-04-10T06:53:45.479649Z"
         },
         "Ante Delija": {
@@ -1825,7 +1825,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-05-04T07:48:23.502402Z"
         },
         "Shamil Gaziev": {
@@ -2145,8 +2145,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "13",
-            "Selected_Date": "2026-08-04T07:41:18.741597Z"
+            "Rank": "13"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
