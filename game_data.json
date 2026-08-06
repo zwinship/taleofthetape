@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 844,
         "Division": "Middleweight",
         "Rank": "6",
-        "Selected_Date": "2026-08-05T07:40:36.095165Z"
+        "Selected_Date": "2026-08-06T07:41:01.245882Z"
     },
     "past_fighters": [
-        "Lone\u2019er Kavanagh",
         "Giga Chikadze",
         "Ignacio Bahamondes",
         "Mitch Raposo",
         "Ramazan Temirov",
         "Vinicius Oliveira",
-        "Michael Venom Page"
+        "Michael Venom Page",
+        "Caio Borralho"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1361,7 +1361,7 @@
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
             "Rank": "6",
-            "Selected_Date": "2026-08-05T07:40:36.095165Z"
+            "Selected_Date": "2026-08-06T07:41:01.245882Z"
         },
         "Reinier de Ridder": {
             "Name": "Reinier de Ridder",
