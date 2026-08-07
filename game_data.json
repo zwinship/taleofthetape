@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Caio Borralho",
-        "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "3.44",
-        "SApM": "2.50",
-        "TD_Avg": "1.28",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:04",
-        "Fight_Time_Seconds": 844,
-        "Division": "Middleweight",
-        "Rank": "6",
-        "Selected_Date": "2026-08-06T07:41:01.245882Z"
+        "Name": "Payton Talbott",
+        "Profile_URL": "https://www.ufc.com/athlete/payton-talbott",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TALBOTT_PAYTON_12-06.png?itok=6v5e4YVf",
+        "Record": "11-1-0 (W-L-D)",
+        "SLpM": "6.62",
+        "SApM": "3.41",
+        "TD_Avg": "0.78",
+        "Sub_Avg": "0.20",
+        "Fight_Time": "10:57",
+        "Fight_Time_Seconds": 657,
+        "Division": "Bantamweight",
+        "Rank": "11",
+        "Selected_Date": "2026-08-07T06:09:27.381420Z"
     },
     "past_fighters": [
         "Giga Chikadze",
@@ -1914,7 +1914,8 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-08-07T06:09:27.381420Z"
         },
         "Montel Jackson": {
             "Name": "Montel Jackson",
