@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marlon Vera",
-        "Profile_URL": "https://www.ufc.com/athlete/marlon-vera",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/VERA_MARLON_10-18.png?itok=EFRQn77E",
-        "Record": "23-11-1 (W-L-D)",
-        "SLpM": "4.25",
-        "SApM": "5.37",
-        "TD_Avg": "0.49",
-        "Sub_Avg": "0.80",
-        "Fight_Time": "13:33",
-        "Fight_Time_Seconds": 813,
-        "Division": "Bantamweight",
-        "Rank": "10",
-        "Selected_Date": "2026-08-08T05:43:20.060598Z"
+        "Name": "Abus Magomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/abus-magomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_ABUS_06-27.png?itok=L-lbZx1p",
+        "Record": "29-7-1 (W-L-D)",
+        "SLpM": "3.06",
+        "SApM": "3.34",
+        "TD_Avg": "2.50",
+        "Sub_Avg": "0.58",
+        "Fight_Time": "09:46",
+        "Fight_Time_Seconds": 586,
+        "Division": "Middleweight",
+        "Rank": "13",
+        "Selected_Date": "2026-08-09T05:47:40.651734Z"
     },
     "past_fighters": [
-        "Ignacio Bahamondes",
         "Mitch Raposo",
         "Ramazan Temirov",
         "Vinicius Oliveira",
         "Michael Venom Page",
         "Caio Borralho",
-        "Payton Talbott"
+        "Payton Talbott",
+        "Marlon Vera"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2517,7 +2517,8 @@
             "Fight_Time": "09:46",
             "Fight_Time_Seconds": 586,
             "Division": "Middleweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-08-09T05:47:40.651734Z"
         },
         "Alessandro Costa": {
             "Name": "Alessandro Costa",
