@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ikram Aliskerov",
-        "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "6.86",
-        "SApM": "5.47",
-        "TD_Avg": "3.20",
-        "Sub_Avg": "0.53",
-        "Fight_Time": "04:42",
-        "Fight_Time_Seconds": 282,
-        "Division": "Middleweight",
-        "Rank": "12",
-        "Selected_Date": "2026-08-11T05:53:59.744707Z"
+        "Name": "Azamat Murzakanov",
+        "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
+        "Record": "16-0-0 (W-L-D)",
+        "SLpM": "4.70",
+        "SApM": "2.86",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "07:51",
+        "Fight_Time_Seconds": 471,
+        "Division": "Light Heavyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-12T06:15:33.455558Z"
     },
     "past_fighters": [
-        "Vinicius Oliveira",
         "Michael Venom Page",
         "Caio Borralho",
         "Payton Talbott",
         "Marlon Vera",
         "Abus Magomedov",
-        "Vitor Petrino"
+        "Vitor Petrino",
+        "Ikram Aliskerov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1564,7 +1564,7 @@
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
             "Rank": "9",
-            "Selected_Date": "2026-05-05T07:19:37.823661Z"
+            "Selected_Date": "2026-08-12T06:15:33.455558Z"
         },
         "Dominick Reyes": {
             "Name": "Dominick Reyes",
@@ -1607,7 +1607,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -2160,7 +2160,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-04-11T06:02:04.465422Z"
         },
         "Aaron Pico": {
