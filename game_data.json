@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkanovski",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
-        "Record": "27-4-0 (W-L-D)",
-        "SLpM": "6.18",
-        "SApM": "3.36",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:21",
-        "Fight_Time_Seconds": 981,
-        "Division": "Featherweight",
-        "Rank": "C",
-        "Selected_Date": "2026-08-14T06:14:51.936569Z"
+        "Name": "Israel Adesanya",
+        "Profile_URL": "https://www.ufc.com/athlete/israel-adesanya",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/ADESANYA_ISRAEL_02-01.png?itok=kqsY39NL",
+        "Record": "24-5-0 (W-L-D)",
+        "SLpM": "4.02",
+        "SApM": "3.20",
+        "TD_Avg": "0.05",
+        "Sub_Avg": "0.14",
+        "Fight_Time": "17:35",
+        "Fight_Time_Seconds": 1055,
+        "Division": "Middleweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-15T05:26:20.455695Z"
     },
     "past_fighters": [
-        "Payton Talbott",
         "Marlon Vera",
         "Abus Magomedov",
         "Vitor Petrino",
         "Ikram Aliskerov",
         "Azamat Murzakanov",
-        "Asu Almabayev"
+        "Asu Almabayev",
+        "Alexander Volkanovski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1347,7 +1347,7 @@
             "Fight_Time_Seconds": 1055,
             "Division": "Middleweight",
             "Rank": "9",
-            "Selected_Date": "2026-03-12T05:53:41.660847Z"
+            "Selected_Date": "2026-08-15T05:26:20.455695Z"
         },
         "Caio Borralho": {
             "Name": "Caio Borralho",
