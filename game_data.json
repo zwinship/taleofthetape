@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Bryce Mitchell",
-        "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
-        "Record": "19-4-0 (W-L-D)",
-        "SLpM": "2.19",
-        "SApM": "1.51",
-        "TD_Avg": "3.12",
-        "Sub_Avg": "1.27",
-        "Fight_Time": "11:50",
-        "Fight_Time_Seconds": 710,
-        "Division": "Bantamweight",
-        "Rank": "14",
-        "Selected_Date": "2026-08-16T05:29:24.744296Z"
+        "Name": "Uro\u0161 Medi\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/uros-medic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/MEDIC_UROS_02-21.png?itok=ad7sHOsL",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.59",
+        "SApM": "3.42",
+        "TD_Avg": "0.34",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "03:59",
+        "Fight_Time_Seconds": 239,
+        "Division": "Welterweight",
+        "Rank": "10",
+        "Selected_Date": "2026-08-17T05:35:52.153035Z"
     },
     "past_fighters": [
-        "Abus Magomedov",
         "Vitor Petrino",
         "Ikram Aliskerov",
         "Azamat Murzakanov",
         "Asu Almabayev",
         "Alexander Volkanovski",
-        "Israel Adesanya"
+        "Israel Adesanya",
+        "Bryce Mitchell"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2075,7 +2075,8 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "10",
+            "Selected_Date": "2026-08-17T05:35:52.153035Z"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
