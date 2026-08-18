@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Uro\u0161 Medi\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/uros-medic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/MEDIC_UROS_02-21.png?itok=ad7sHOsL",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.59",
-        "SApM": "3.42",
-        "TD_Avg": "0.34",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "03:59",
-        "Fight_Time_Seconds": 239,
-        "Division": "Welterweight",
-        "Rank": "10",
-        "Selected_Date": "2026-08-17T05:35:52.153035Z"
+        "Name": "Mario Bautista",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.19",
+        "TD_Avg": "1.48",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "10:08",
+        "Fight_Time_Seconds": 608,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-08-18T05:30:51.602742Z"
     },
     "past_fighters": [
-        "Vitor Petrino",
         "Ikram Aliskerov",
         "Azamat Murzakanov",
         "Asu Almabayev",
         "Alexander Volkanovski",
         "Israel Adesanya",
-        "Bryce Mitchell"
+        "Bryce Mitchell",
+        "Uro\u0161 Medi\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -403,7 +403,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "15",
+            "Rank": "11",
             "Selected_Date": "2026-07-09T08:29:25.904404Z"
         },
         "Tagir Ulanbekov": {
@@ -596,7 +596,8 @@
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-08-18T05:30:51.602742Z"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -2535,7 +2536,7 @@
             "Fight_Time": "09:29",
             "Fight_Time_Seconds": 569,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-07-18T07:00:17.307734Z"
         },
         "Nursulton Ruziboev": {
