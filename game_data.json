@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kevin Vallejos",
-        "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VALLEJOS_KEVIN_12-13.png?itok=n0pVKZf2",
-        "Record": "16-1-0 (W-L-D)",
-        "SLpM": "5.78",
-        "SApM": "4.71",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:24",
-        "Fight_Time_Seconds": 504,
-        "Division": "Featherweight",
-        "Rank": "10",
-        "Selected_Date": "2026-08-19T05:31:54.140610Z"
+        "Name": "Raul Rosas Jr.",
+        "Profile_URL": "https://www.ufc.com/athlete/raul-rosas-jr",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/ROSAS_JR_RAUL_03-07.png?itok=lLplFAsL",
+        "Record": "13-1-0 (W-L-D)",
+        "SLpM": "1.34",
+        "SApM": "1.24",
+        "TD_Avg": "6.10",
+        "Sub_Avg": "0.87",
+        "Fight_Time": "10:45",
+        "Fight_Time_Seconds": 645,
+        "Division": "Bantamweight",
+        "Rank": "12",
+        "Selected_Date": "2026-08-20T05:32:27.796091Z"
     },
     "past_fighters": [
-        "Azamat Murzakanov",
         "Asu Almabayev",
         "Alexander Volkanovski",
         "Israel Adesanya",
         "Bryce Mitchell",
         "Uro\u0161 Medi\u0107",
-        "Mario Bautista"
+        "Mario Bautista",
+        "Kevin Vallejos"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2107,7 +2107,7 @@
             "Fight_Time_Seconds": 645,
             "Division": "Bantamweight",
             "Rank": "12",
-            "Selected_Date": "2026-05-03T07:19:46.970649Z"
+            "Selected_Date": "2026-08-20T05:32:27.796091Z"
         },
         "Farid Basharat": {
             "Name": "Farid Basharat",
@@ -2620,6 +2620,20 @@
             "Fight_Time": "00:56",
             "Fight_Time_Seconds": 56,
             "Division": "Light Heavyweight",
+            "Rank": "15"
+        },
+        "Neil Magny": {
+            "Name": "Neil Magny",
+            "Profile_URL": "https://www.ufc.com/athlete/neil-magny",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/MAGNY_NEIL_08-15.png?itok=iA3inlH_",
+            "Record": "32-15-0 (W-L-D)",
+            "SLpM": "3.39",
+            "SApM": "2.41",
+            "TD_Avg": "2.13",
+            "Sub_Avg": "0.30",
+            "Fight_Time": "11:52",
+            "Fight_Time_Seconds": 712,
+            "Division": "Welterweight",
             "Rank": "15"
         }
     }
