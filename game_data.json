@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Josh Hokit",
-        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
-        "Record": "9-0-0 (W-L-D)",
-        "SLpM": "9.25",
-        "SApM": "6.81",
-        "TD_Avg": "3.89",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "06:45",
-        "Fight_Time_Seconds": 405,
-        "Division": "Heavyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-08-21T05:34:00.474587Z"
+        "Name": "Reinier de Ridder",
+        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
+        "Record": "21-3-0 (W-L-D)",
+        "SLpM": "2.20",
+        "SApM": "2.04",
+        "TD_Avg": "2.68",
+        "Sub_Avg": "0.67",
+        "Fight_Time": "13:26",
+        "Fight_Time_Seconds": 806,
+        "Division": "Middleweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-22T05:28:42.367238Z"
     },
     "past_fighters": [
-        "Alexander Volkanovski",
         "Israel Adesanya",
         "Bryce Mitchell",
         "Uro\u0161 Medi\u0107",
         "Mario Bautista",
         "Kevin Vallejos",
-        "Raul Rosas Jr."
+        "Raul Rosas Jr.",
+        "Josh Hokit"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1378,7 +1378,7 @@
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
             "Rank": "9",
-            "Selected_Date": "2026-03-21T05:42:40.999205Z"
+            "Selected_Date": "2026-08-22T05:28:42.367238Z"
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
