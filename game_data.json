@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Reinier de Ridder",
-        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
-        "Record": "21-3-0 (W-L-D)",
-        "SLpM": "2.20",
-        "SApM": "2.04",
-        "TD_Avg": "2.68",
-        "Sub_Avg": "0.67",
-        "Fight_Time": "13:26",
-        "Fight_Time_Seconds": 806,
-        "Division": "Middleweight",
-        "Rank": "9",
-        "Selected_Date": "2026-08-22T05:28:42.367238Z"
+        "Name": "Raoni Barcelos",
+        "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
+        "Record": "22-5-0 (W-L-D)",
+        "SLpM": "4.65",
+        "SApM": "4.24",
+        "TD_Avg": "2.51",
+        "Sub_Avg": "0.68",
+        "Fight_Time": "13:09",
+        "Fight_Time_Seconds": 789,
+        "Division": "Bantamweight",
+        "Rank": "8",
+        "Selected_Date": "2026-08-23T05:30:35.081214Z"
     },
     "past_fighters": [
-        "Israel Adesanya",
         "Bryce Mitchell",
         "Uro\u0161 Medi\u0107",
         "Mario Bautista",
         "Kevin Vallejos",
         "Raul Rosas Jr.",
-        "Josh Hokit"
+        "Josh Hokit",
+        "Reinier de Ridder"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2238,7 +2238,8 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-08-23T05:30:35.081214Z"
         },
         "Quillan Salkilld": {
             "Name": "Quillan Salkilld",
