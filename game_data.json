@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Raoni Barcelos",
-        "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
-        "Record": "22-5-0 (W-L-D)",
-        "SLpM": "4.65",
-        "SApM": "4.24",
-        "TD_Avg": "2.51",
-        "Sub_Avg": "0.68",
-        "Fight_Time": "13:09",
-        "Fight_Time_Seconds": 789,
-        "Division": "Bantamweight",
-        "Rank": "8",
-        "Selected_Date": "2026-08-23T05:30:35.081214Z"
+        "Name": "Youssef Zalal",
+        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
+        "Record": "18-5-1 (W-L-D)",
+        "SLpM": "3.03",
+        "SApM": "1.78",
+        "TD_Avg": "2.17",
+        "Sub_Avg": "1.41",
+        "Fight_Time": "11:32",
+        "Fight_Time_Seconds": 692,
+        "Division": "Featherweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-24T05:38:51.181801Z"
     },
     "past_fighters": [
-        "Bryce Mitchell",
         "Uro\u0161 Medi\u0107",
         "Mario Bautista",
         "Kevin Vallejos",
         "Raul Rosas Jr.",
         "Josh Hokit",
-        "Reinier de Ridder"
+        "Reinier de Ridder",
+        "Raoni Barcelos"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -789,7 +789,7 @@
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
             "Rank": "9",
-            "Selected_Date": "2026-03-23T06:11:32.597381Z"
+            "Selected_Date": "2026-08-24T05:38:51.181801Z"
         },
         "Steve Garcia": {
             "Name": "Steve Garcia",
