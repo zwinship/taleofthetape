@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Youssef Zalal",
-        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
-        "Record": "18-5-1 (W-L-D)",
-        "SLpM": "3.03",
-        "SApM": "1.78",
-        "TD_Avg": "2.17",
-        "Sub_Avg": "1.41",
-        "Fight_Time": "11:32",
-        "Fight_Time_Seconds": 692,
-        "Division": "Featherweight",
-        "Rank": "9",
-        "Selected_Date": "2026-08-24T05:38:51.181801Z"
+        "Name": "Muhammad Saidov",
+        "Profile_URL": "https://www.ufc.com/athlete/muhammad-said",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAIDOV_MUHAMMAD_07-25.png?itok=MsMapGDQ",
+        "Record": "10-0-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "63\n                  %",
+        "Sub_Avg": "Takedown Defense",
+        "Fight_Time_Seconds": 0,
+        "Division": "Light Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-08-25T05:32:43.589169Z"
     },
     "past_fighters": [
-        "Uro\u0161 Medi\u0107",
         "Mario Bautista",
         "Kevin Vallejos",
         "Raul Rosas Jr.",
         "Josh Hokit",
         "Reinier de Ridder",
-        "Raoni Barcelos"
+        "Raoni Barcelos",
+        "Youssef Zalal"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -566,7 +564,7 @@
             "Fight_Time": "12:07",
             "Fight_Time_Seconds": 727,
             "Division": "Bantamweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-04-17T06:58:09.693774Z"
         },
         "Marlon Vera": {
@@ -1318,7 +1316,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "7"
+            "Rank": "9"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
@@ -1347,7 +1345,7 @@
             "Fight_Time": "17:35",
             "Fight_Time_Seconds": 1055,
             "Division": "Middleweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-08-15T05:26:20.455695Z"
         },
         "Caio Borralho": {
@@ -1376,7 +1374,7 @@
             "Sub_Avg": "0.67",
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
-            "Division": "Middleweight",
+            "Division": "Light Heavyweight",
             "Rank": "9",
             "Selected_Date": "2026-08-22T05:28:42.367238Z"
         },
@@ -1392,7 +1390,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-04-01T06:26:55.546485Z"
         },
         "Jared Cannonier": {
@@ -1482,7 +1480,7 @@
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
-            "Rank": "10",
+            "Rank": "7",
             "Selected_Date": "2026-03-03T05:56:37.572890Z"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
@@ -1565,7 +1563,7 @@
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-08-12T06:15:33.455558Z"
         },
         "Dominick Reyes": {
@@ -1622,7 +1620,7 @@
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-05-31T08:15:26.719461Z"
         },
         "Johnny Walker": {
@@ -1637,7 +1635,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-06-21T08:57:41.160143Z"
         },
         "Nikita Krylov": {
@@ -1678,7 +1676,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-06-19T09:45:27.857987Z"
         },
         "Ciryl Gane": {
@@ -1783,7 +1781,7 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Heavyweight",
-            "Rank": "9",
+            "Rank": "13",
             "Selected_Date": "2026-06-04T08:50:42.939441Z"
         },
         "Derrick Lewis": {
@@ -1886,7 +1884,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-05-08T06:52:27.860772Z"
         },
         "Tallison Teixeira": {
@@ -2091,7 +2089,7 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "8",
             "Selected_Date": "2026-08-10T06:10:31.981741Z"
         },
         "Raul Rosas Jr.": {
@@ -2265,7 +2263,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
@@ -2381,7 +2379,7 @@
             "Fight_Time": "11:31",
             "Fight_Time_Seconds": 691,
             "Division": "Bantamweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Bryce Mitchell": {
             "Name": "Bryce Mitchell",
@@ -2453,7 +2451,7 @@
             "Fight_Time": "09:08",
             "Fight_Time_Seconds": 548,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Rafa Garcia": {
             "Name": "Rafa Garcia",
@@ -2495,7 +2493,7 @@
             "Fight_Time": "07:53",
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Ryan Spann": {
             "Name": "Ryan Spann",
@@ -2580,7 +2578,8 @@
             "Sub_Avg": "Takedown Defense",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "14"
+            "Rank": "15",
+            "Selected_Date": "2026-08-25T05:32:43.589169Z"
         },
         "Tofiq Musayev": {
             "Name": "Tofiq Musayev",
@@ -2637,6 +2636,20 @@
             "Fight_Time_Seconds": 712,
             "Division": "Welterweight",
             "Rank": "15"
+        },
+        "Jamall Emmers": {
+            "Name": "Jamall Emmers",
+            "Profile_URL": "https://www.ufc.com/athlete/jamall-emmers",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/EMMERS_JAMALL_08-22.png?itok=hz2LQJOe",
+            "Record": "23-8-0 (W-L-D)",
+            "SLpM": "5.10",
+            "SApM": "3.92",
+            "TD_Avg": "2.59",
+            "Sub_Avg": "0.32",
+            "Fight_Time": "09:16",
+            "Fight_Time_Seconds": 556,
+            "Division": "Featherweight",
+            "Rank": "14"
         }
     }
 }
