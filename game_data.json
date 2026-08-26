@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Muhammad Saidov",
-        "Profile_URL": "https://www.ufc.com/athlete/muhammad-said",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAIDOV_MUHAMMAD_07-25.png?itok=MsMapGDQ",
-        "Record": "10-0-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "63\n                  %",
-        "Sub_Avg": "Takedown Defense",
-        "Fight_Time_Seconds": 0,
-        "Division": "Light Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-08-25T05:32:43.589169Z"
+        "Name": "Caio Borralho",
+        "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
+        "Record": "17-2-0 (W-L-D)",
+        "SLpM": "3.44",
+        "SApM": "2.50",
+        "TD_Avg": "1.28",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:04",
+        "Fight_Time_Seconds": 844,
+        "Division": "Middleweight",
+        "Rank": "6",
+        "Selected_Date": "2026-08-26T05:35:33.339261Z"
     },
     "past_fighters": [
-        "Mario Bautista",
         "Kevin Vallejos",
         "Raul Rosas Jr.",
         "Josh Hokit",
         "Reinier de Ridder",
         "Raoni Barcelos",
-        "Youssef Zalal"
+        "Youssef Zalal",
+        "Muhammad Saidov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1361,7 +1363,7 @@
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
             "Rank": "6",
-            "Selected_Date": "2026-08-06T07:41:01.245882Z"
+            "Selected_Date": "2026-08-26T05:35:33.339261Z"
         },
         "Reinier de Ridder": {
             "Name": "Reinier de Ridder",
@@ -1405,7 +1407,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
@@ -1607,7 +1609,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "13",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -1796,7 +1798,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-04-10T06:53:45.479649Z"
         },
         "Ante Delija": {
@@ -1811,7 +1813,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
@@ -1825,7 +1827,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-05-04T07:48:23.502402Z"
         },
         "Shamil Gaziev": {
@@ -2161,7 +2163,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-04-11T06:02:04.465422Z"
         },
         "Aaron Pico": {
