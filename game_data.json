@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Caio Borralho",
-        "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "3.44",
-        "SApM": "2.50",
-        "TD_Avg": "1.28",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:04",
-        "Fight_Time_Seconds": 844,
-        "Division": "Middleweight",
-        "Rank": "6",
-        "Selected_Date": "2026-08-26T05:35:33.339261Z"
+        "Name": "Joseph Morales",
+        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
+        "Record": "15-2-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "2.05",
+        "TD_Avg": "1.14",
+        "Sub_Avg": "3.04",
+        "Fight_Time": "07:54",
+        "Fight_Time_Seconds": 474,
+        "Division": "Flyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-08-27T16:11:26.945677Z"
     },
     "past_fighters": [
-        "Kevin Vallejos",
         "Raul Rosas Jr.",
         "Josh Hokit",
         "Reinier de Ridder",
         "Raoni Barcelos",
         "Youssef Zalal",
-        "Muhammad Saidov"
+        "Muhammad Saidov",
+        "Caio Borralho"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2047,7 +2047,8 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Flyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-08-27T16:11:26.945677Z"
         },
         "Melquizael Costa": {
             "Name": "Melquizael Costa",
@@ -2357,7 +2358,7 @@
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
-            "Profile_URL": "https://www.ufc.com/athlete/sumudaerji",
+            "Profile_URL": "https://www.ufc.com/athlete/su-mudaerji",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SUMUDAERJI_05-30.png?itok=RG80cBip",
             "Record": "19-7-0 (W-L-D)",
             "SLpM": "4.40",
