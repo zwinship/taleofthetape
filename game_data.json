@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Chandler",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
-        "Record": "23-10-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "4.52",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "09:37",
-        "Fight_Time_Seconds": 577,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-08-28T17:11:34.043902Z"
+        "Name": "Steve Erceg",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.00",
+        "SApM": "3.79",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:56",
+        "Fight_Time_Seconds": 896,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-08-29T11:29:57.991417Z"
     },
     "past_fighters": [
-        "Josh Hokit",
         "Reinier de Ridder",
         "Raoni Barcelos",
         "Youssef Zalal",
         "Muhammad Saidov",
         "Caio Borralho",
-        "Joseph Morales"
+        "Joseph Morales",
+        "Michael Chandler"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -389,7 +389,8 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-08-29T11:29:57.991417Z"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
