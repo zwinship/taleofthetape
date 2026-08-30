@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Erceg",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.00",
-        "SApM": "3.79",
-        "TD_Avg": "1.15",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:56",
-        "Fight_Time_Seconds": 896,
-        "Division": "Flyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-08-29T11:29:57.991417Z"
+        "Name": "Mario Bautista",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.19",
+        "TD_Avg": "1.48",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "10:08",
+        "Fight_Time_Seconds": 608,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-08-30T10:19:25.075255Z"
     },
     "past_fighters": [
-        "Reinier de Ridder",
         "Raoni Barcelos",
         "Youssef Zalal",
         "Muhammad Saidov",
         "Caio Borralho",
         "Joseph Morales",
-        "Michael Chandler"
+        "Michael Chandler",
+        "Steve Erceg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -598,7 +598,7 @@
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
             "Rank": "4",
-            "Selected_Date": "2026-08-18T05:30:51.602742Z"
+            "Selected_Date": "2026-08-30T10:19:25.075255Z"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
