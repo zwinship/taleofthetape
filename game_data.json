@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Robert Whittaker",
-        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
-        "Record": "27-9-0 (W-L-D)",
-        "SLpM": "4.39",
-        "SApM": "3.36",
-        "TD_Avg": "0.73",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
-        "Division": "Light Heavyweight",
+        "Name": "Mario Pinto",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
+        "Record": "12-0-0 (W-L-D)",
+        "SLpM": "2.85",
+        "SApM": "1.93",
+        "TD_Avg": "2.38",
+        "Sub_Avg": "0.95",
+        "Fight_Time": "07:53",
+        "Fight_Time_Seconds": 473,
+        "Division": "Heavyweight",
         "Rank": "12",
-        "Selected_Date": "2026-08-31T11:25:27.626013Z"
+        "Selected_Date": "2026-09-01T09:48:04.105560Z"
     },
     "past_fighters": [
-        "Youssef Zalal",
         "Muhammad Saidov",
         "Caio Borralho",
         "Joseph Morales",
         "Michael Chandler",
         "Steve Erceg",
-        "Mario Bautista"
+        "Mario Bautista",
+        "Robert Whittaker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -479,7 +479,7 @@
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
-            "Rank": "2"
+            "Rank": "5"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
@@ -493,7 +493,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "3",
+            "Rank": "2",
             "Selected_Date": "2026-03-17T06:01:12.444998Z"
         },
         "Petr Yan": {
@@ -523,7 +523,7 @@
             "Fight_Time": "14:43",
             "Fight_Time_Seconds": 883,
             "Division": "Bantamweight",
-            "Rank": "5"
+            "Rank": "6"
         },
         "Song Yadong": {
             "Name": "Song Yadong",
@@ -537,7 +537,7 @@
             "Fight_Time": "13:05",
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
-            "Rank": "6",
+            "Rank": "3",
             "Selected_Date": "2026-06-28T08:22:03.987888Z"
         },
         "Deiveson Figueiredo": {
@@ -2369,7 +2369,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Flyweight",
-            "Rank": "13"
+            "Rank": "11"
         },
         "Charles Jourdain": {
             "Name": "Charles Jourdain",
@@ -2497,7 +2497,8 @@
             "Fight_Time": "07:53",
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-09-01T09:48:04.105560Z"
         },
         "Ryan Spann": {
             "Name": "Ryan Spann",
@@ -2654,6 +2655,20 @@
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
             "Rank": "14"
+        },
+        "Rei Tsuruya": {
+            "Name": "Rei Tsuruya",
+            "Profile_URL": "https://www.ufc.com/athlete/rei-tsuruya",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TSURUYA_REI_08-29.png?itok=Dd_qmDP3",
+            "Record": "12-1-0 (W-L-D)",
+            "SLpM": "2.85",
+            "SApM": "1.79",
+            "TD_Avg": "5.17",
+            "Sub_Avg": "2.11",
+            "Fight_Time": "09:07",
+            "Fight_Time_Seconds": 547,
+            "Division": "Flyweight",
+            "Rank": "13"
         }
     }
 }
