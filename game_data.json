@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Pinto",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
-        "Record": "12-0-0 (W-L-D)",
-        "SLpM": "2.85",
-        "SApM": "1.93",
-        "TD_Avg": "2.38",
-        "Sub_Avg": "0.95",
-        "Fight_Time": "07:53",
-        "Fight_Time_Seconds": 473,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-09-01T09:48:04.105560Z"
+        "Name": "Dustin Jacoby",
+        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
+        "Record": "22-9-1 (W-L-D)",
+        "SLpM": "5.40",
+        "SApM": "3.92",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:58",
+        "Fight_Time_Seconds": 598,
+        "Division": "Light Heavyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-09-02T09:20:42.029669Z"
     },
     "past_fighters": [
-        "Muhammad Saidov",
         "Caio Borralho",
         "Joseph Morales",
         "Michael Chandler",
         "Steve Erceg",
         "Mario Bautista",
-        "Robert Whittaker"
+        "Robert Whittaker",
+        "Mario Pinto"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -374,7 +374,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-06-29T09:27:27.659017Z"
         },
         "Steve Erceg": {
@@ -389,7 +389,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-08-29T11:29:57.991417Z"
         },
         "Alex Perez": {
@@ -404,7 +404,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "15",
             "Selected_Date": "2026-07-09T08:29:25.904404Z"
         },
         "Tagir Ulanbekov": {
@@ -2020,7 +2020,7 @@
             "Fight_Time_Seconds": 598,
             "Division": "Light Heavyweight",
             "Rank": "10",
-            "Selected_Date": "2026-02-24T06:03:52.329273Z"
+            "Selected_Date": "2026-09-02T09:20:42.029669Z"
         },
         "Rizvan Kuniev": {
             "Name": "Rizvan Kuniev",
