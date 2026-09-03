@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dustin Jacoby",
-        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
-        "Record": "22-9-1 (W-L-D)",
-        "SLpM": "5.40",
-        "SApM": "3.92",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:58",
-        "Fight_Time_Seconds": 598,
-        "Division": "Light Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-09-02T09:20:42.029669Z"
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
+        "Division": "Middleweight",
+        "Rank": "2",
+        "Selected_Date": "2026-09-03T09:30:20.693679Z"
     },
     "past_fighters": [
-        "Caio Borralho",
         "Joseph Morales",
         "Michael Chandler",
         "Steve Erceg",
         "Mario Bautista",
         "Robert Whittaker",
-        "Mario Pinto"
+        "Mario Pinto",
+        "Dustin Jacoby"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -157,7 +157,7 @@
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
             "Rank": "2",
-            "Selected_Date": "2026-07-08T07:29:36.472614Z"
+            "Selected_Date": "2026-09-03T09:30:20.693679Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
