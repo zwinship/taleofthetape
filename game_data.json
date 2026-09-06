@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jean Silva",
-        "Profile_URL": "https://www.ufc.com/athlete/jean-silva",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/SILVA_JEAN_09-13.png?itok=aniZB6gj",
-        "Record": "16-3-0 (W-L-D)",
-        "SLpM": "4.79",
-        "SApM": "4.69",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.75",
-        "Fight_Time": "08:34",
-        "Fight_Time_Seconds": 514,
-        "Division": "Featherweight",
-        "Rank": "6",
-        "Selected_Date": "2026-09-05T08:51:39.562118Z"
+        "Name": "Derrick Lewis",
+        "Profile_URL": "https://www.ufc.com/athlete/derrick-lewis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/LEWIS_DERRICK_07-12.png?itok=N-goL8hH",
+        "Record": "29-12-0 (W-L-D)",
+        "SLpM": "2.51",
+        "SApM": "2.49",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:52",
+        "Fight_Time_Seconds": 532,
+        "Division": "Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-09-06T09:11:30.407595Z"
     },
     "past_fighters": [
-        "Steve Erceg",
         "Mario Bautista",
         "Robert Whittaker",
         "Mario Pinto",
         "Dustin Jacoby",
         "Dricus Du Plessis",
-        "Azamat Murzakanov"
+        "Azamat Murzakanov",
+        "Jean Silva"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1801,7 +1801,7 @@
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
             "Rank": "12",
-            "Selected_Date": "2026-04-10T06:53:45.479649Z"
+            "Selected_Date": "2026-09-06T09:11:30.407595Z"
         },
         "Ante Delija": {
             "Name": "Ante Delija",
