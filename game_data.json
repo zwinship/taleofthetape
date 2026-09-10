@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ignacio Bahamondes",
-        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "17-6-0 (W-L-D)",
-        "SLpM": "6.55",
-        "SApM": "4.33",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "10:25",
-        "Fight_Time_Seconds": 625,
-        "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-09-09T09:26:11.910844Z"
+        "Name": "Tyrell Fortune",
+        "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "3.13",
+        "TD_Avg": "3.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "15:00",
+        "Fight_Time_Seconds": 900,
+        "Division": "Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-09-10T09:25:24.231936Z"
     },
     "past_fighters": [
-        "Dustin Jacoby",
         "Dricus Du Plessis",
         "Azamat Murzakanov",
         "Jean Silva",
         "Derrick Lewis",
         "Brendan Allen",
-        "Brian Ortega"
+        "Brian Ortega",
+        "Ignacio Bahamondes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2146,12 +2146,12 @@
             "Profile_URL": "https://www.ufc.com/athlete/michael-page",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
             "Record": "26-3-0 (W-L-D)",
-            "SLpM": "2.28",
-            "SApM": "1.51",
-            "TD_Avg": "0.19",
-            "Sub_Avg": "0.00",
-            "Fight_Time": "11:21",
-            "Fight_Time_Seconds": 681,
+            "SLpM": "2.04",
+            "SApM": "1.36",
+            "TD_Avg": "0.16",
+            "Sub_Avg": "0.16",
+            "Fight_Time": "11:48",
+            "Fight_Time_Seconds": 708,
             "Division": "Middleweight",
             "Rank": "8"
         },
@@ -2168,7 +2168,7 @@
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
             "Rank": "12",
-            "Selected_Date": "2026-04-11T06:02:04.465422Z"
+            "Selected_Date": "2026-09-10T09:25:24.231936Z"
         },
         "Aaron Pico": {
             "Name": "Aaron Pico",
