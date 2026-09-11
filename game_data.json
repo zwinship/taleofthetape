@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tyrell Fortune",
-        "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "3.13",
-        "TD_Avg": "3.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "15:00",
-        "Fight_Time_Seconds": 900,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-09-10T09:25:24.231936Z"
+        "Name": "Charles Johnson",
+        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
+        "Record": "18-7-0 (W-L-D)",
+        "SLpM": "4.73",
+        "SApM": "3.78",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.38",
+        "Fight_Time": "13:17",
+        "Fight_Time_Seconds": 797,
+        "Division": "Flyweight",
+        "Rank": "14",
+        "Selected_Date": "2026-09-11T09:23:53.686706Z"
     },
     "past_fighters": [
-        "Dricus Du Plessis",
         "Azamat Murzakanov",
         "Jean Silva",
         "Derrick Lewis",
         "Brendan Allen",
         "Brian Ortega",
-        "Ignacio Bahamondes"
+        "Ignacio Bahamondes",
+        "Tyrell Fortune"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -435,7 +435,7 @@
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
             "Rank": "14",
-            "Selected_Date": "2026-03-29T06:12:16.498076Z"
+            "Selected_Date": "2026-09-11T09:23:53.686706Z"
         },
         "Bruno Silva": {
             "Name": "Bruno Silva",
@@ -2448,7 +2448,7 @@
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/DELGADO_JOSE_MIGUEL_09-12.png?itok=0nDzaO8Y",
             "Record": "12-2-0 (W-L-D)",
             "SLpM": "6.07",
             "SApM": "4.18",
