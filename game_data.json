@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Charles Johnson",
-        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
-        "Record": "18-7-0 (W-L-D)",
-        "SLpM": "4.73",
-        "SApM": "3.78",
-        "TD_Avg": "0.56",
-        "Sub_Avg": "0.38",
-        "Fight_Time": "13:17",
-        "Fight_Time_Seconds": 797,
-        "Division": "Flyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-09-11T09:23:53.686706Z"
+        "Name": "Alex Pereira",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.16",
+        "SApM": "3.50",
+        "TD_Avg": "0.11",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-09-12T09:03:24.840667Z"
     },
     "past_fighters": [
-        "Azamat Murzakanov",
         "Jean Silva",
         "Derrick Lewis",
         "Brendan Allen",
         "Brian Ortega",
         "Ignacio Bahamondes",
-        "Tyrell Fortune"
+        "Tyrell Fortune",
+        "Charles Johnson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -112,7 +112,7 @@
             "Fight_Time_Seconds": 664,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-07-19T07:27:39.393905Z"
+            "Selected_Date": "2026-09-12T09:03:24.840667Z"
         },
         "Alexander Volkanovski": {
             "Name": "Alexander Volkanovski",
