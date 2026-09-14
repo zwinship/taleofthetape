@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Manuel Torres",
-        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "7.29",
-        "SApM": "4.08",
-        "TD_Avg": "1.72",
-        "Sub_Avg": "0.86",
-        "Fight_Time": "02:29",
-        "Fight_Time_Seconds": 149,
-        "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-09-13T10:02:23.436926Z"
+        "Name": "Sean Strickland",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-strickland",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/STRICKLAND_SEAN_02-08.png?itok=ISJ9fWVg",
+        "Record": "29-7-0 (W-L-D)",
+        "SLpM": "5.95",
+        "SApM": "4.57",
+        "TD_Avg": "0.73",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "16:03",
+        "Fight_Time_Seconds": 963,
+        "Division": "Middleweight",
+        "Rank": "C",
+        "Selected_Date": "2026-09-14T10:22:25.114100Z"
     },
     "past_fighters": [
-        "Derrick Lewis",
         "Brendan Allen",
         "Brian Ortega",
         "Ignacio Bahamondes",
         "Tyrell Fortune",
         "Charles Johnson",
-        "Alex Pereira"
+        "Alex Pereira",
+        "Manuel Torres"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1307,7 +1307,7 @@
             "Fight_Time_Seconds": 963,
             "Division": "Middleweight",
             "Rank": "C",
-            "Selected_Date": "2026-01-05T05:40:30.865851Z"
+            "Selected_Date": "2026-09-14T10:22:25.114100Z"
         },
         "Anthony Hernandez": {
             "Name": "Anthony Hernandez",
