@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ante Delija",
-        "Profile_URL": "https://www.ufc.com/athlete/ante-delija",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DELIJA_ANTE_11-01.png?itok=nSZ0eNSl",
-        "Record": "26-7-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "2.65",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "03:01",
-        "Fight_Time_Seconds": 181,
-        "Division": "Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-09-15T09:49:20.330884Z"
+        "Name": "Anthony Hernandez",
+        "Profile_URL": "https://www.ufc.com/athlete/anthony-hernandez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/HERNANDEZ_ANTHONY_08-09.png?itok=t4ehO2Q6",
+        "Record": "15-2-0 (W-L-D)",
+        "SLpM": "4.59",
+        "SApM": "2.53",
+        "TD_Avg": "6.46",
+        "Sub_Avg": "1.79",
+        "Fight_Time": "10:27",
+        "Fight_Time_Seconds": 627,
+        "Division": "Middleweight",
+        "Rank": "8",
+        "Selected_Date": "2026-09-16T09:44:14.107919Z"
     },
     "past_fighters": [
-        "Brian Ortega",
         "Ignacio Bahamondes",
         "Tyrell Fortune",
         "Charles Johnson",
         "Alex Pereira",
         "Manuel Torres",
-        "Sean Strickland"
+        "Sean Strickland",
+        "Ante Delija"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -374,7 +374,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-06-29T09:27:27.659017Z"
         },
         "Steve Erceg": {
@@ -389,7 +389,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-08-29T11:29:57.991417Z"
         },
         "Alex Perez": {
@@ -730,7 +730,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -1321,7 +1321,8 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-09-16T09:44:14.107919Z"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
