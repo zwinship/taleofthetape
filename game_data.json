@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Anthony Hernandez",
-        "Profile_URL": "https://www.ufc.com/athlete/anthony-hernandez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/HERNANDEZ_ANTHONY_08-09.png?itok=t4ehO2Q6",
-        "Record": "15-2-0 (W-L-D)",
-        "SLpM": "4.59",
-        "SApM": "2.53",
-        "TD_Avg": "6.46",
-        "Sub_Avg": "1.79",
-        "Fight_Time": "10:27",
-        "Fight_Time_Seconds": 627,
-        "Division": "Middleweight",
-        "Rank": "8",
-        "Selected_Date": "2026-09-16T09:44:14.107919Z"
+        "Name": "Joanderson Brito",
+        "Profile_URL": "https://www.ufc.com/athlete/joanderson-brito",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BRITO_JOANDERSON_06-06.png?itok=Bni8iwnO",
+        "Record": "19-5-1 (W-L-D)",
+        "SLpM": "2.38",
+        "SApM": "2.28",
+        "TD_Avg": "3.23",
+        "Sub_Avg": "1.23",
+        "Fight_Time": "08:52",
+        "Fight_Time_Seconds": 532,
+        "Division": "Featherweight",
+        "Rank": "15",
+        "Selected_Date": "2026-09-17T09:51:57.619810Z"
     },
     "past_fighters": [
-        "Ignacio Bahamondes",
         "Tyrell Fortune",
         "Charles Johnson",
         "Alex Pereira",
         "Manuel Torres",
         "Sean Strickland",
-        "Ante Delija"
+        "Ante Delija",
+        "Anthony Hernandez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2445,7 +2445,8 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-09-17T09:51:57.619810Z"
         },
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
