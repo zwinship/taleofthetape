@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kevin Holland",
-        "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
-        "Record": "29-15-0 (W-L-D)",
-        "SLpM": "4.24",
-        "SApM": "3.21",
-        "TD_Avg": "0.79",
-        "Sub_Avg": "0.60",
-        "Fight_Time": "10:47",
-        "Fight_Time_Seconds": 647,
-        "Division": "Welterweight",
-        "Rank": "14",
-        "Selected_Date": "2026-09-19T09:13:52.661178Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-09-20T09:37:53.016478Z"
     },
     "past_fighters": [
-        "Alex Pereira",
         "Manuel Torres",
         "Sean Strickland",
         "Ante Delija",
         "Anthony Hernandez",
         "Joanderson Brito",
-        "Kevin Vallejos"
+        "Kevin Vallejos",
+        "Kevin Holland"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1516,7 +1516,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2026-06-11T09:12:25.342324Z"
+            "Selected_Date": "2026-09-20T09:37:53.016478Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
