@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
-        "Division": "Light Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-09-20T09:37:53.016478Z"
+        "Name": "Josh Hokit",
+        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
+        "Record": "9-0-0 (W-L-D)",
+        "SLpM": "9.25",
+        "SApM": "6.81",
+        "TD_Avg": "3.89",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "06:45",
+        "Fight_Time_Seconds": 405,
+        "Division": "Heavyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-09-21T10:26:57.566543Z"
     },
     "past_fighters": [
-        "Manuel Torres",
         "Sean Strickland",
         "Ante Delija",
         "Anthony Hernandez",
         "Joanderson Brito",
         "Kevin Vallejos",
-        "Kevin Holland"
+        "Kevin Holland",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2200,7 +2200,7 @@
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
             "Rank": "6",
-            "Selected_Date": "2026-08-21T05:34:00.474587Z"
+            "Selected_Date": "2026-09-21T10:26:57.566543Z"
         },
         "Mike Malott": {
             "Name": "Mike Malott",
