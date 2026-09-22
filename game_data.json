@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Josh Hokit",
-        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
-        "Record": "9-0-0 (W-L-D)",
-        "SLpM": "9.25",
-        "SApM": "6.81",
-        "TD_Avg": "3.89",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "06:45",
-        "Fight_Time_Seconds": 405,
-        "Division": "Heavyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-09-21T10:26:57.566543Z"
+        "Name": "Marvin Vettori",
+        "Profile_URL": "https://www.ufc.com/athlete/marvin-vettori",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/VETTORI_MARVIN_07-19.png?itok=ZSH1XuY2",
+        "Record": "19-9-1 (W-L-D)",
+        "SLpM": "4.68",
+        "SApM": "4.52",
+        "TD_Avg": "1.43",
+        "Sub_Avg": "0.41",
+        "Fight_Time": "17:17",
+        "Fight_Time_Seconds": 1037,
+        "Division": "Middleweight",
+        "Rank": "14",
+        "Selected_Date": "2026-09-22T09:40:10.650765Z"
     },
     "past_fighters": [
-        "Sean Strickland",
         "Ante Delija",
         "Anthony Hernandez",
         "Joanderson Brito",
         "Kevin Vallejos",
         "Kevin Holland",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Josh Hokit"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -96,7 +96,7 @@
             "Fight_Time": "12:37",
             "Fight_Time_Seconds": 757,
             "Division": "Flyweight",
-            "Rank": "1",
+            "Rank": "2",
             "Selected_Date": "2026-07-06T09:00:36.328639Z"
         },
         "Alex Pereira": {
@@ -111,7 +111,7 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Heavyweight",
-            "Rank": "4",
+            "Rank": "3",
             "Selected_Date": "2026-09-12T09:03:24.840667Z"
         },
         "Alexander Volkanovski": {
@@ -141,7 +141,7 @@
             "Fight_Time": "02:18",
             "Fight_Time_Seconds": 138,
             "Division": "Heavyweight",
-            "Rank": "C",
+            "Rank": "1",
             "Selected_Date": "2026-04-19T06:47:48.035928Z"
         },
         "Dricus Du Plessis": {
@@ -330,7 +330,7 @@
             "Fight_Time": "12:00",
             "Fight_Time_Seconds": 720,
             "Division": "Flyweight",
-            "Rank": "2"
+            "Rank": "1"
         },
         "Asu Almabayev": {
             "Name": "Asu Almabayev",
@@ -582,7 +582,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "10",
+            "Rank": "12",
             "Selected_Date": "2026-08-08T05:43:20.060598Z"
         },
         "Mario Bautista": {
@@ -804,7 +804,7 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-06-10T08:50:17.391626Z"
         },
         "Brian Ortega": {
@@ -1188,7 +1188,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "8",
+            "Rank": "10",
             "Selected_Date": "2026-05-07T07:43:03.923231Z"
         },
         "Joaquin Buckley": {
@@ -1203,7 +1203,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1396,7 +1396,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-08-31T11:25:27.626013Z"
         },
         "Jared Cannonier": {
@@ -1411,7 +1411,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
@@ -1472,7 +1472,7 @@
             "Fight_Time_Seconds": 1037,
             "Division": "Middleweight",
             "Rank": "14",
-            "Selected_Date": "2026-02-17T06:01:48.448057Z"
+            "Selected_Date": "2026-09-22T09:40:10.650765Z"
         },
         "Gregory Rodrigues": {
             "Name": "Gregory Rodrigues",
@@ -1626,7 +1626,7 @@
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-05-31T08:15:26.719461Z"
         },
         "Johnny Walker": {
@@ -1682,7 +1682,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Rank": "11",
             "Selected_Date": "2026-06-19T09:45:27.857987Z"
         },
         "Ciryl Gane": {
@@ -1697,7 +1697,7 @@
             "Fight_Time": "13:30",
             "Fight_Time_Seconds": 810,
             "Division": "Heavyweight",
-            "Rank": "1",
+            "Rank": "C",
             "Selected_Date": "2026-07-21T07:33:02.652091Z"
         },
         "Alexander Volkov": {
@@ -1712,7 +1712,7 @@
             "Fight_Time": "13:03",
             "Fight_Time_Seconds": 783,
             "Division": "Heavyweight",
-            "Rank": "2",
+            "Rank": "4",
             "Selected_Date": "2026-03-02T05:59:08.555553Z"
         },
         "Sergei Pavlovich": {
@@ -1727,7 +1727,7 @@
             "Fight_Time": "05:42",
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
-            "Rank": "3",
+            "Rank": "2",
             "Selected_Date": "2026-04-28T07:31:36.698982Z"
         },
         "Curtis Blaydes": {
@@ -2067,7 +2067,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-05-30T07:41:58.650833Z"
         },
         "Uro\u0161 Medi\u0107": {
@@ -2082,7 +2082,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-08-17T05:35:52.153035Z"
         },
         "Vitor Petrino": {
@@ -2184,7 +2184,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-05-18T08:45:57.749288Z"
         },
         "Josh Hokit": {
@@ -2445,7 +2445,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "11",
             "Selected_Date": "2026-09-17T09:51:57.619810Z"
         },
         "Jose Miguel Delgado": {
@@ -2660,7 +2660,7 @@
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
@@ -2723,6 +2723,20 @@
             "Fight_Time_Seconds": 376,
             "Division": "Lightweight",
             "Rank": "15"
+        },
+        "Edmen Shahbazyan": {
+            "Name": "Edmen Shahbazyan",
+            "Profile_URL": "https://www.ufc.com/athlete/edmen-shahbazyan",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/SHAHBAZYAN_EDMEN_09-19.png?itok=ON_zU852",
+            "Record": "17-6-0 (W-L-D)",
+            "SLpM": "4.06",
+            "SApM": "3.69",
+            "TD_Avg": "1.38",
+            "Sub_Avg": "0.32",
+            "Fight_Time": "08:19",
+            "Fight_Time_Seconds": 499,
+            "Division": "Middleweight",
+            "Rank": "14"
         }
     }
 }
