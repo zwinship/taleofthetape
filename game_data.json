@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marvin Vettori",
-        "Profile_URL": "https://www.ufc.com/athlete/marvin-vettori",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/VETTORI_MARVIN_07-19.png?itok=ZSH1XuY2",
-        "Record": "19-9-1 (W-L-D)",
-        "SLpM": "4.68",
-        "SApM": "4.52",
-        "TD_Avg": "1.43",
-        "Sub_Avg": "0.41",
-        "Fight_Time": "17:17",
-        "Fight_Time_Seconds": 1037,
-        "Division": "Middleweight",
-        "Rank": "14",
-        "Selected_Date": "2026-09-22T09:40:10.650765Z"
+        "Name": "Alex Perez",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
+        "Record": "25-10-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "3.22",
+        "TD_Avg": "2.28",
+        "Sub_Avg": "0.76",
+        "Fight_Time": "07:03",
+        "Fight_Time_Seconds": 423,
+        "Division": "Flyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-09-23T09:47:44.436360Z"
     },
     "past_fighters": [
-        "Ante Delija",
         "Anthony Hernandez",
         "Joanderson Brito",
         "Kevin Vallejos",
         "Kevin Holland",
         "Carlos Ulberg",
-        "Josh Hokit"
+        "Josh Hokit",
+        "Marvin Vettori"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -405,7 +405,7 @@
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
             "Rank": "15",
-            "Selected_Date": "2026-07-09T08:29:25.904404Z"
+            "Selected_Date": "2026-09-23T09:47:44.436360Z"
         },
         "Tagir Ulanbekov": {
             "Name": "Tagir Ulanbekov",
@@ -819,7 +819,7 @@
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
-            "Rank": "11",
+            "Rank": "13",
             "Selected_Date": "2026-09-08T09:24:45.351026Z"
         },
         "Josh Emmett": {
@@ -863,7 +863,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-04-18T06:14:02.767683Z"
         },
         "Dan Ige": {
@@ -892,7 +892,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-06-02T09:08:42.012597Z"
         },
         "Giga Chikadze": {
