@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Perez",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
-        "Record": "25-10-0 (W-L-D)",
-        "SLpM": "4.16",
-        "SApM": "3.22",
-        "TD_Avg": "2.28",
-        "Sub_Avg": "0.76",
-        "Fight_Time": "07:03",
-        "Fight_Time_Seconds": 423,
+        "Name": "Joseph Morales",
+        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
+        "Record": "15-2-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "2.05",
+        "TD_Avg": "1.14",
+        "Sub_Avg": "3.04",
+        "Fight_Time": "07:54",
+        "Fight_Time_Seconds": 474,
         "Division": "Flyweight",
         "Rank": "15",
-        "Selected_Date": "2026-09-23T09:47:44.436360Z"
+        "Selected_Date": "2026-09-24T09:44:28.203169Z"
     },
     "past_fighters": [
-        "Anthony Hernandez",
         "Joanderson Brito",
         "Kevin Vallejos",
         "Kevin Holland",
         "Carlos Ulberg",
         "Josh Hokit",
-        "Marvin Vettori"
+        "Marvin Vettori",
+        "Alex Perez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2053,7 +2053,7 @@
             "Fight_Time_Seconds": 474,
             "Division": "Flyweight",
             "Rank": "15",
-            "Selected_Date": "2026-08-27T16:11:26.945677Z"
+            "Selected_Date": "2026-09-24T09:44:28.203169Z"
         },
         "Melquizael Costa": {
             "Name": "Melquizael Costa",
