@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joseph Morales",
-        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
-        "Record": "15-2-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "2.05",
-        "TD_Avg": "1.14",
-        "Sub_Avg": "3.04",
-        "Fight_Time": "07:54",
-        "Fight_Time_Seconds": 474,
-        "Division": "Flyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-09-24T09:44:28.203169Z"
+        "Name": "Dominick Reyes",
+        "Profile_URL": "https://www.ufc.com/athlete/dominick-reyes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/REYES_DOMINICK_09-27.png?itok=GyPUc7Gt",
+        "Record": "15-5-0 (W-L-D)",
+        "SLpM": "5.39",
+        "SApM": "3.49",
+        "TD_Avg": "0.29",
+        "Sub_Avg": "0.29",
+        "Fight_Time": "07:21",
+        "Fight_Time_Seconds": 441,
+        "Division": "Light Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-09-25T10:02:24.648247Z"
     },
     "past_fighters": [
-        "Joanderson Brito",
         "Kevin Vallejos",
         "Kevin Holland",
         "Carlos Ulberg",
         "Josh Hokit",
         "Marvin Vettori",
-        "Alex Perez"
+        "Alex Perez",
+        "Joseph Morales"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1584,7 +1584,8 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Light Heavyweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-09-25T10:02:24.648247Z"
         },
         "Volkan Oezdemir": {
             "Name": "Volkan Oezdemir",
