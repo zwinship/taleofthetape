@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dominick Reyes",
-        "Profile_URL": "https://www.ufc.com/athlete/dominick-reyes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/REYES_DOMINICK_09-27.png?itok=GyPUc7Gt",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "5.39",
-        "SApM": "3.49",
-        "TD_Avg": "0.29",
-        "Sub_Avg": "0.29",
-        "Fight_Time": "07:21",
-        "Fight_Time_Seconds": 441,
+        "Name": "Magomed Ankalaev",
+        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
+        "Record": "21-2-1 (W-L-D)",
+        "SLpM": "3.65",
+        "SApM": "2.59",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:49",
+        "Fight_Time_Seconds": 709,
         "Division": "Light Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-09-25T10:02:24.648247Z"
+        "Rank": "2",
+        "Selected_Date": "2026-09-26T09:43:55.176274Z"
     },
     "past_fighters": [
-        "Kevin Vallejos",
         "Kevin Holland",
         "Carlos Ulberg",
         "Josh Hokit",
         "Marvin Vettori",
         "Alex Perez",
-        "Joseph Morales"
+        "Joseph Morales",
+        "Dominick Reyes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -197,7 +197,7 @@
             "Fight_Time_Seconds": 709,
             "Division": "Light Heavyweight",
             "Rank": "2",
-            "Selected_Date": "2026-05-25T08:58:19.358708Z"
+            "Selected_Date": "2026-09-26T09:43:55.176274Z"
         },
         "Arman Tsarukyan": {
             "Name": "Arman Tsarukyan",
