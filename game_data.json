@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Magomed Ankalaev",
-        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
-        "Record": "21-2-1 (W-L-D)",
-        "SLpM": "3.65",
-        "SApM": "2.59",
-        "TD_Avg": "0.79",
+        "Name": "Robert Whittaker",
+        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
+        "Record": "27-9-0 (W-L-D)",
+        "SLpM": "4.39",
+        "SApM": "3.36",
+        "TD_Avg": "0.73",
         "Sub_Avg": "0.00",
-        "Fight_Time": "11:49",
-        "Fight_Time_Seconds": 709,
+        "Fight_Time": "13:37",
+        "Fight_Time_Seconds": 817,
         "Division": "Light Heavyweight",
-        "Rank": "2",
-        "Selected_Date": "2026-09-26T09:43:55.176274Z"
+        "Rank": "13",
+        "Selected_Date": "2026-09-27T10:23:44.107599Z"
     },
     "past_fighters": [
-        "Kevin Holland",
         "Carlos Ulberg",
         "Josh Hokit",
         "Marvin Vettori",
         "Alex Perez",
         "Joseph Morales",
-        "Dominick Reyes"
+        "Dominick Reyes",
+        "Magomed Ankalaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1397,7 +1397,7 @@
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
             "Rank": "13",
-            "Selected_Date": "2026-08-31T11:25:27.626013Z"
+            "Selected_Date": "2026-09-27T10:23:44.107599Z"
         },
         "Jared Cannonier": {
             "Name": "Jared Cannonier",
