@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Robert Whittaker",
-        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
-        "Record": "27-9-0 (W-L-D)",
-        "SLpM": "4.39",
-        "SApM": "3.36",
-        "TD_Avg": "0.73",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
+        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+        "Record": "32-6-1 (W-L-D)",
+        "SLpM": "5.61",
+        "SApM": "5.67",
+        "TD_Avg": "0.49",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "10:15",
+        "Fight_Time_Seconds": 615,
         "Division": "Light Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-09-27T10:23:44.107599Z"
+        "Rank": "3",
+        "Selected_Date": "2026-09-28T11:30:37.812856Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Josh Hokit",
         "Marvin Vettori",
         "Alex Perez",
         "Joseph Morales",
         "Dominick Reyes",
-        "Magomed Ankalaev"
+        "Magomed Ankalaev",
+        "Robert Whittaker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1501,7 +1501,8 @@
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-09-28T11:30:37.812856Z"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
