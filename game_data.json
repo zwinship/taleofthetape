@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kevin Vallejos",
-        "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VALLEJOS_KEVIN_12-13.png?itok=n0pVKZf2",
-        "Record": "16-1-0 (W-L-D)",
-        "SLpM": "5.78",
-        "SApM": "4.71",
-        "TD_Avg": "0.71",
+        "Name": "Uro\u0161 Medi\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/uros-medic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/MEDIC_UROS_02-21.png?itok=ad7sHOsL",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.59",
+        "SApM": "3.42",
+        "TD_Avg": "0.34",
         "Sub_Avg": "0.00",
-        "Fight_Time": "08:24",
-        "Fight_Time_Seconds": 504,
-        "Division": "Featherweight",
-        "Rank": "10",
-        "Selected_Date": "2026-09-29T11:10:40.398294Z"
+        "Fight_Time": "03:59",
+        "Fight_Time_Seconds": 239,
+        "Division": "Welterweight",
+        "Rank": "9",
+        "Selected_Date": "2026-09-30T10:58:23.937305Z"
     },
     "past_fighters": [
-        "Marvin Vettori",
         "Alex Perez",
         "Joseph Morales",
         "Dominick Reyes",
         "Magomed Ankalaev",
         "Robert Whittaker",
-        "Ji\u0159\u00ed Proch\u00e1zka"
+        "Ji\u0159\u00ed Proch\u00e1zka",
+        "Kevin Vallejos"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1922,7 +1922,7 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-08-07T06:09:27.381420Z"
         },
         "Montel Jackson": {
@@ -2084,7 +2084,7 @@
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
             "Rank": "9",
-            "Selected_Date": "2026-08-17T05:35:52.153035Z"
+            "Selected_Date": "2026-09-30T10:58:23.937305Z"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2245,7 +2245,7 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-08-23T05:30:35.081214Z"
         },
         "Quillan Salkilld": {
