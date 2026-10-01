@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Uro\u0161 Medi\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/uros-medic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/MEDIC_UROS_02-21.png?itok=ad7sHOsL",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.59",
-        "SApM": "3.42",
-        "TD_Avg": "0.34",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "03:59",
-        "Fight_Time_Seconds": 239,
-        "Division": "Welterweight",
-        "Rank": "9",
-        "Selected_Date": "2026-09-30T10:58:23.937305Z"
+        "Name": "Brando Peri\u010di\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
+        "Record": "7-1-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "58\n                  %",
+        "Sub_Avg": "71\n                      %",
+        "Fight_Time_Seconds": 0,
+        "Division": "Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-10-01T11:25:28.726945Z"
     },
     "past_fighters": [
-        "Alex Perez",
         "Joseph Morales",
         "Dominick Reyes",
         "Magomed Ankalaev",
         "Robert Whittaker",
         "Ji\u0159\u00ed Proch\u00e1zka",
-        "Kevin Vallejos"
+        "Kevin Vallejos",
+        "Uro\u0161 Medi\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2272,7 +2270,8 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-10-01T11:25:28.726945Z"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
