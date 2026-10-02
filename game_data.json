@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brando Peri\u010di\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
-        "Record": "7-1-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "58\n                  %",
-        "Sub_Avg": "71\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Heavyweight",
+        "Name": "Kamaru Usman",
+        "Profile_URL": "https://www.ufc.com/athlete/kamaru-usman",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/USMAN_KAMARU_06-14.png?itok=-U8MPpeb",
+        "Record": "21-4-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "2.67",
+        "TD_Avg": "2.79",
+        "Sub_Avg": "0.09",
+        "Fight_Time": "17:50",
+        "Fight_Time_Seconds": 1070,
+        "Division": "Welterweight",
         "Rank": "12",
-        "Selected_Date": "2026-10-01T11:25:28.726945Z"
+        "Selected_Date": "2026-10-02T10:55:28.364305Z"
     },
     "past_fighters": [
-        "Joseph Morales",
         "Dominick Reyes",
         "Magomed Ankalaev",
         "Robert Whittaker",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Kevin Vallejos",
-        "Uro\u0161 Medi\u0107"
+        "Uro\u0161 Medi\u0107",
+        "Brando Peri\u010di\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1172,7 +1174,8 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-10-02T10:55:28.364305Z"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -2270,8 +2273,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "12",
-            "Selected_Date": "2026-10-01T11:25:28.726945Z"
+            "Rank": "12"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
