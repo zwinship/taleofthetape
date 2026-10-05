@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Cory Sandhagen",
-        "Profile_URL": "https://www.ufc.com/athlete/cory-sandhagen",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SANDHAGEN_CORY_10-04.png?itok=S79YESKx",
-        "Record": "18-6-0 (W-L-D)",
-        "SLpM": "4.86",
-        "SApM": "3.47",
-        "TD_Avg": "1.15",
-        "Sub_Avg": "0.25",
-        "Fight_Time": "14:43",
-        "Fight_Time_Seconds": 883,
-        "Division": "Bantamweight",
-        "Rank": "6",
-        "Selected_Date": "2026-10-04T10:59:00.074462Z"
+        "Name": "Joe Pyfer",
+        "Profile_URL": "https://www.ufc.com/athlete/joe-pyfer",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PYFER_JOE_10-04.png?itok=VhlKDlqd",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "3.47",
+        "SApM": "3.05",
+        "TD_Avg": "1.23",
+        "Sub_Avg": "1.02",
+        "Fight_Time": "08:10",
+        "Fight_Time_Seconds": 490,
+        "Division": "Middleweight",
+        "Rank": "4",
+        "Selected_Date": "2026-10-05T12:05:56.580268Z"
     },
     "past_fighters": [
-        "Robert Whittaker",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Kevin Vallejos",
         "Uro\u0161 Medi\u0107",
         "Brando Peri\u010di\u0107",
         "Kamaru Usman",
-        "David Martinez"
+        "David Martinez",
+        "Cory Sandhagen"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1999,7 +1999,8 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-10-05T12:05:56.580268Z"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
