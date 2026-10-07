@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Khamzat Chimaev",
-        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
-        "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "2.32",
-        "TD_Avg": "5.29",
-        "Sub_Avg": "1.83",
-        "Fight_Time": "08:11",
-        "Fight_Time_Seconds": 491,
-        "Division": "Middleweight",
-        "Rank": "1",
-        "Selected_Date": "2026-10-06T11:50:39.471566Z"
+        "Name": "Mario Bautista",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.19",
+        "TD_Avg": "1.48",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "10:08",
+        "Fight_Time_Seconds": 608,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-10-07T11:35:28.526235Z"
     },
     "past_fighters": [
-        "Kevin Vallejos",
         "Uro\u0161 Medi\u0107",
         "Brando Peri\u010di\u0107",
         "Kamaru Usman",
         "David Martinez",
         "Cory Sandhagen",
-        "Joe Pyfer"
+        "Joe Pyfer",
+        "Khamzat Chimaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -553,7 +553,7 @@
             "Fight_Time": "12:45",
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
-            "Rank": "9",
+            "Rank": "12",
             "Selected_Date": "2026-06-26T08:30:17.762690Z"
         },
         "Aiemann Zahabi": {
@@ -599,7 +599,7 @@
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
             "Rank": "4",
-            "Selected_Date": "2026-08-30T10:19:25.075255Z"
+            "Selected_Date": "2026-10-07T11:35:28.526235Z"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -1617,7 +1617,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -2249,7 +2249,7 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-08-23T05:30:35.081214Z"
         },
         "Quillan Salkilld": {
