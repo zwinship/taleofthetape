@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Bautista",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
-        "Record": "16-3-0 (W-L-D)",
-        "SLpM": "5.58",
-        "SApM": "4.19",
-        "TD_Avg": "1.48",
-        "Sub_Avg": "0.80",
-        "Fight_Time": "10:08",
-        "Fight_Time_Seconds": 608,
-        "Division": "Bantamweight",
-        "Rank": "4",
-        "Selected_Date": "2026-10-07T11:35:28.526235Z"
+        "Name": "Alex Perez",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
+        "Record": "25-10-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "3.22",
+        "TD_Avg": "2.28",
+        "Sub_Avg": "0.76",
+        "Fight_Time": "07:03",
+        "Fight_Time_Seconds": 423,
+        "Division": "Flyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-10-08T11:50:02.087739Z"
     },
     "past_fighters": [
-        "Uro\u0161 Medi\u0107",
         "Brando Peri\u010di\u0107",
         "Kamaru Usman",
         "David Martinez",
         "Cory Sandhagen",
         "Joe Pyfer",
-        "Khamzat Chimaev"
+        "Khamzat Chimaev",
+        "Mario Bautista"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -405,7 +405,7 @@
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
             "Rank": "15",
-            "Selected_Date": "2026-09-23T09:47:44.436360Z"
+            "Selected_Date": "2026-10-08T11:50:02.087739Z"
         },
         "Tagir Ulanbekov": {
             "Name": "Tagir Ulanbekov",
