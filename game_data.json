@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dustin Jacoby",
-        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
-        "Record": "22-9-1 (W-L-D)",
-        "SLpM": "5.40",
-        "SApM": "3.92",
-        "TD_Avg": "0.32",
+        "Name": "Mitch Raposo",
+        "Profile_URL": "https://www.ufc.com/athlete/mitch-raposo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RAPOSO_MITCH_06-20.png?itok=syaw6RH3",
+        "Record": "11-3-0 (W-L-D)",
+        "SLpM": "1.91",
+        "SApM": "2.92",
+        "TD_Avg": "1.98",
         "Sub_Avg": "0.00",
-        "Fight_Time": "09:58",
-        "Fight_Time_Seconds": 598,
-        "Division": "Light Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-10-11T11:17:02.740831Z"
+        "Fight_Time": "13:38",
+        "Fight_Time_Seconds": 818,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-10-12T12:51:28.702214Z"
     },
     "past_fighters": [
-        "Cory Sandhagen",
         "Joe Pyfer",
         "Khamzat Chimaev",
         "Mario Bautista",
         "Alex Perez",
         "Arnold Allen",
-        "Mario Pinto"
+        "Mario Pinto",
+        "Dustin Jacoby"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2365,7 +2365,7 @@
             "Fight_Time_Seconds": 818,
             "Division": "Flyweight",
             "Rank": "12",
-            "Selected_Date": "2026-08-01T07:28:10.211521Z"
+            "Selected_Date": "2026-10-12T12:51:28.702214Z"
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
