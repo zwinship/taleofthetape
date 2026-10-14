@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "12",
-        "Selected_Date": "2026-10-13T12:29:57.040944Z"
+        "Name": "Patricio Pitbull",
+        "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
+        "Record": "37-8-0 (W-L-D)",
+        "SLpM": "2.68",
+        "SApM": "4.23",
+        "TD_Avg": "1.49",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "16:04",
+        "Fight_Time_Seconds": 964,
+        "Division": "Featherweight",
+        "Rank": "14",
+        "Selected_Date": "2026-10-14T09:57:19.577055Z"
     },
     "past_fighters": [
-        "Khamzat Chimaev",
         "Mario Bautista",
         "Alex Perez",
         "Arnold Allen",
         "Mario Pinto",
         "Dustin Jacoby",
-        "Mitch Raposo"
+        "Mitch Raposo",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -583,7 +583,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-08-08T05:43:20.060598Z"
         },
         "Mario Bautista": {
@@ -867,7 +867,7 @@
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
             "Rank": "14",
-            "Selected_Date": "2026-04-18T06:14:02.767683Z"
+            "Selected_Date": "2026-10-14T09:57:19.577055Z"
         },
         "Dan Ige": {
             "Name": "Dan Ige",
@@ -1340,7 +1340,7 @@
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
             "Division": "Middleweight",
-            "Rank": "5",
+            "Rank": "4",
             "Selected_Date": "2026-09-07T09:59:26.426789Z"
         },
         "Israel Adesanya": {
@@ -2000,7 +2000,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-10-05T12:05:56.580268Z"
         },
         "Brunno Ferreira": {
@@ -2147,7 +2147,7 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
@@ -2291,7 +2291,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-08-11T05:53:59.744707Z"
         },
         "Edgar Chairez": {
@@ -2407,7 +2407,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-08-16T05:29:24.744296Z"
         },
         "Pat Sabatini": {
