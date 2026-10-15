@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Patricio Pitbull",
-        "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
-        "Record": "37-8-0 (W-L-D)",
-        "SLpM": "2.68",
-        "SApM": "4.23",
-        "TD_Avg": "1.49",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "16:04",
-        "Fight_Time_Seconds": 964,
-        "Division": "Featherweight",
-        "Rank": "14",
-        "Selected_Date": "2026-10-14T09:57:19.577055Z"
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "2",
+        "Selected_Date": "2026-10-15T09:39:13.714034Z"
     },
     "past_fighters": [
-        "Mario Bautista",
         "Alex Perez",
         "Arnold Allen",
         "Mario Pinto",
         "Dustin Jacoby",
         "Mitch Raposo",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Patricio Pitbull"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1733,7 +1733,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "2",
-            "Selected_Date": "2026-04-28T07:31:36.698982Z"
+            "Selected_Date": "2026-10-15T09:39:13.714034Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
