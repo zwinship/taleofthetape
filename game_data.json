@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Renato Moicano",
-        "Profile_URL": "https://www.ufc.com/athlete/renato-moicano",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MOICANO_RENATO_06-28.png?itok=4PD_3YFD",
-        "Record": "20-7-1 (W-L-D)",
-        "SLpM": "4.17",
-        "SApM": "3.57",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.50",
-        "Fight_Time": "09:28",
-        "Fight_Time_Seconds": 568,
-        "Division": "Lightweight",
+        "Name": "Michael Venom Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
+        "Record": "26-3-0 (W-L-D)",
+        "SLpM": "2.04",
+        "SApM": "1.36",
+        "TD_Avg": "0.16",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "11:48",
+        "Fight_Time_Seconds": 708,
+        "Division": "Middleweight",
         "Rank": "8",
-        "Selected_Date": "2026-10-17T09:03:22.309609Z"
+        "Selected_Date": "2026-10-18T09:21:47.991370Z"
     },
     "past_fighters": [
-        "Mario Pinto",
         "Dustin Jacoby",
         "Mitch Raposo",
         "Deiveson Figueiredo",
         "Patricio Pitbull",
         "Sergei Pavlovich",
-        "Michael Chandler"
+        "Michael Chandler",
+        "Renato Moicano"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2162,7 +2162,8 @@
             "Fight_Time": "11:48",
             "Fight_Time_Seconds": 708,
             "Division": "Middleweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-10-18T09:21:47.991370Z"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
