@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Venom Page",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-        "Record": "26-3-0 (W-L-D)",
-        "SLpM": "2.04",
-        "SApM": "1.36",
-        "TD_Avg": "0.16",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "11:48",
-        "Fight_Time_Seconds": 708,
-        "Division": "Middleweight",
-        "Rank": "8",
-        "Selected_Date": "2026-10-18T09:21:47.991370Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-10-19T10:35:29.241775Z"
     },
     "past_fighters": [
-        "Dustin Jacoby",
         "Mitch Raposo",
         "Deiveson Figueiredo",
         "Patricio Pitbull",
         "Sergei Pavlovich",
         "Michael Chandler",
-        "Renato Moicano"
+        "Renato Moicano",
+        "Michael Venom Page"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1521,7 +1521,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2026-09-20T09:37:53.016478Z"
+            "Selected_Date": "2026-10-19T10:35:29.241775Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
