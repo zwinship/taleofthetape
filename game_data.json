@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ilia Topuria",
-        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
-        "Record": "17-0-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "3.83",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "1.07",
-        "Fight_Time": "09:22",
-        "Fight_Time_Seconds": 562,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-10-20T09:50:14.292479Z"
+        "Name": "Nassourdine Imavov",
+        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
+        "Record": "17-4-0 (W-L-D)",
+        "SLpM": "4.28",
+        "SApM": "3.17",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.98",
+        "Fight_Time": "15:16",
+        "Fight_Time_Seconds": 916,
+        "Division": "Middleweight",
+        "Rank": "3",
+        "Selected_Date": "2026-10-21T09:52:24.569213Z"
     },
     "past_fighters": [
-        "Deiveson Figueiredo",
         "Patricio Pitbull",
         "Sergei Pavlovich",
         "Michael Chandler",
         "Renato Moicano",
         "Michael Venom Page",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Ilia Topuria"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -568,7 +568,7 @@
             "Fight_Time": "12:07",
             "Fight_Time_Seconds": 727,
             "Division": "Bantamweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-04-17T06:58:09.693774Z"
         },
         "Marlon Vera": {
@@ -583,7 +583,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-08-08T05:43:20.060598Z"
         },
         "Mario Bautista": {
@@ -688,7 +688,7 @@
             "Fight_Time": "10:29",
             "Fight_Time_Seconds": 629,
             "Division": "Bantamweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
@@ -1178,7 +1178,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-10-02T10:55:28.364305Z"
         },
         "Leon Edwards": {
@@ -1208,7 +1208,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "8"
+            "Rank": "12"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1297,7 +1297,7 @@
             "Fight_Time_Seconds": 916,
             "Division": "Middleweight",
             "Rank": "3",
-            "Selected_Date": "2026-06-27T07:51:02.588302Z"
+            "Selected_Date": "2026-10-21T09:52:24.569213Z"
         },
         "Sean Strickland": {
             "Name": "Sean Strickland",
@@ -1808,7 +1808,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-09-06T09:11:30.407595Z"
         },
         "Ante Delija": {
@@ -1927,7 +1927,7 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-08-07T06:09:27.381420Z"
         },
         "Montel Jackson": {
@@ -1942,7 +1942,7 @@
             "Fight_Time": "10:46",
             "Fight_Time_Seconds": 646,
             "Division": "Bantamweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-02-27T05:58:38.324358Z"
         },
         "Kevin Vallejos": {
@@ -2222,7 +2222,7 @@
             "Fight_Time": "09:12",
             "Fight_Time_Seconds": 552,
             "Division": "Welterweight",
-            "Rank": "11",
+            "Rank": "8",
             "Selected_Date": "2026-05-17T07:33:28.742819Z"
         },
         "Yaroslav Amosov": {
@@ -2409,7 +2409,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-08-16T05:29:24.744296Z"
         },
         "Pat Sabatini": {
