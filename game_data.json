@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Nassourdine Imavov",
-        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "4.28",
-        "SApM": "3.17",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "15:16",
-        "Fight_Time_Seconds": 916,
-        "Division": "Middleweight",
-        "Rank": "3",
-        "Selected_Date": "2026-10-21T09:52:24.569213Z"
+        "Name": "Khalil Rountree Jr.",
+        "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+        "Record": "15-7-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "50\n                  %",
+        "Sub_Avg": "59\n                      %",
+        "Fight_Time_Seconds": 0,
+        "Division": "Light Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-10-22T09:52:37.436438Z"
     },
     "past_fighters": [
-        "Patricio Pitbull",
         "Sergei Pavlovich",
         "Michael Chandler",
         "Renato Moicano",
         "Michael Venom Page",
         "Carlos Ulberg",
-        "Ilia Topuria"
+        "Ilia Topuria",
+        "Nassourdine Imavov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1533,7 +1531,8 @@
             "Sub_Avg": "59\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-10-22T09:52:37.436438Z"
         },
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
