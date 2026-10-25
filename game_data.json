@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joe Pyfer",
-        "Profile_URL": "https://www.ufc.com/athlete/joe-pyfer",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PYFER_JOE_10-04.png?itok=VhlKDlqd",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "3.47",
-        "SApM": "3.05",
-        "TD_Avg": "1.23",
-        "Sub_Avg": "1.02",
-        "Fight_Time": "08:10",
-        "Fight_Time_Seconds": 490,
-        "Division": "Middleweight",
-        "Rank": "5",
-        "Selected_Date": "2026-10-24T09:19:50.787335Z"
+        "Name": "Tagir Ulanbekov",
+        "Profile_URL": "https://www.ufc.com/athlete/tagir-ulanbekov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ULANBEKOV_TAGIR_11-22.png?itok=SXN7VlL2",
+        "Record": "17-3-0 (W-L-D)",
+        "SLpM": "3.01",
+        "SApM": "3.44",
+        "TD_Avg": "2.73",
+        "Sub_Avg": "1.52",
+        "Fight_Time": "12:22",
+        "Fight_Time_Seconds": 742,
+        "Division": "Flyweight",
+        "Rank": "14",
+        "Selected_Date": "2026-10-25T09:36:41.166573Z"
     },
     "past_fighters": [
-        "Renato Moicano",
         "Michael Venom Page",
         "Carlos Ulberg",
         "Ilia Topuria",
         "Nassourdine Imavov",
         "Khalil Rountree Jr.",
-        "Gilbert Burns"
+        "Gilbert Burns",
+        "Joe Pyfer"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -420,7 +420,7 @@
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
             "Rank": "14",
-            "Selected_Date": "2026-03-06T05:53:03.394771Z"
+            "Selected_Date": "2026-10-25T09:36:41.166573Z"
         },
         "Charles Johnson": {
             "Name": "Charles Johnson",
