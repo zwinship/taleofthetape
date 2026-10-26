@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tagir Ulanbekov",
-        "Profile_URL": "https://www.ufc.com/athlete/tagir-ulanbekov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ULANBEKOV_TAGIR_11-22.png?itok=SXN7VlL2",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "3.01",
-        "SApM": "3.44",
-        "TD_Avg": "2.73",
-        "Sub_Avg": "1.52",
-        "Fight_Time": "12:22",
-        "Fight_Time_Seconds": 742,
-        "Division": "Flyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-10-25T09:36:41.166573Z"
+        "Name": "Umar Nurmagomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
+        "Record": "19-1-0 (W-L-D)",
+        "SLpM": "4.08",
+        "SApM": "2.04",
+        "TD_Avg": "4.30",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "13:57",
+        "Fight_Time_Seconds": 837,
+        "Division": "Bantamweight",
+        "Rank": "5",
+        "Selected_Date": "2026-10-26T10:48:38.631888Z"
     },
     "past_fighters": [
-        "Michael Venom Page",
         "Carlos Ulberg",
         "Ilia Topuria",
         "Nassourdine Imavov",
         "Khalil Rountree Jr.",
         "Gilbert Burns",
-        "Joe Pyfer"
+        "Joe Pyfer",
+        "Tagir Ulanbekov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -479,7 +479,8 @@
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-10-26T10:48:38.631888Z"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
