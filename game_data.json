@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Umar Nurmagomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
-        "Record": "19-1-0 (W-L-D)",
-        "SLpM": "4.08",
-        "SApM": "2.04",
-        "TD_Avg": "4.30",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "13:57",
-        "Fight_Time_Seconds": 837,
-        "Division": "Bantamweight",
-        "Rank": "5",
-        "Selected_Date": "2026-10-26T10:48:38.631888Z"
+        "Name": "Neil Magny",
+        "Profile_URL": "https://www.ufc.com/athlete/neil-magny",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/MAGNY_NEIL_08-15.png?itok=iA3inlH_",
+        "Record": "32-15-0 (W-L-D)",
+        "SLpM": "3.39",
+        "SApM": "2.41",
+        "TD_Avg": "2.13",
+        "Sub_Avg": "0.30",
+        "Fight_Time": "11:52",
+        "Fight_Time_Seconds": 712,
+        "Division": "Welterweight",
+        "Rank": "15",
+        "Selected_Date": "2026-10-27T10:14:42.514663Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Ilia Topuria",
         "Nassourdine Imavov",
         "Khalil Rountree Jr.",
         "Gilbert Burns",
         "Joe Pyfer",
-        "Tagir Ulanbekov"
+        "Tagir Ulanbekov",
+        "Umar Nurmagomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2655,7 +2655,8 @@
             "Fight_Time": "11:52",
             "Fight_Time_Seconds": 712,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-10-27T10:14:42.514663Z"
         },
         "Jamall Emmers": {
             "Name": "Jamall Emmers",
