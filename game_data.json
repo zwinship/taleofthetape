@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kevin Borjas",
-        "Profile_URL": "https://www.ufc.com/athlete/kevin-borjas",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BORJAS_KEVIN_06-20.png?itok=efbTVP2q",
-        "Record": "11-5-0 (W-L-D)",
-        "SLpM": "3.87",
-        "SApM": "5.27",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:59",
-        "Fight_Time_Seconds": 779,
-        "Division": "Flyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-10-28T11:03:41.231308Z"
+        "Name": "Bryce Mitchell",
+        "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
+        "Record": "19-4-0 (W-L-D)",
+        "SLpM": "2.19",
+        "SApM": "1.51",
+        "TD_Avg": "3.12",
+        "Sub_Avg": "1.27",
+        "Fight_Time": "11:50",
+        "Fight_Time_Seconds": 710,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-10-29T11:20:09.479623Z"
     },
     "past_fighters": [
-        "Nassourdine Imavov",
         "Khalil Rountree Jr.",
         "Gilbert Burns",
         "Joe Pyfer",
         "Tagir Ulanbekov",
         "Umar Nurmagomedov",
-        "Neil Magny"
+        "Neil Magny",
+        "Kevin Borjas"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2411,7 +2411,7 @@
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
             "Rank": "13",
-            "Selected_Date": "2026-08-16T05:29:24.744296Z"
+            "Selected_Date": "2026-10-29T11:20:09.479623Z"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
