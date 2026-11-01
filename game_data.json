@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Far\u00e8s Ziam",
-        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
-        "Record": "18-5-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "1.53",
-        "TD_Avg": "1.73",
-        "Sub_Avg": "0.46",
-        "Fight_Time": "13:01",
-        "Fight_Time_Seconds": 781,
-        "Division": "Lightweight",
-        "Rank": "14",
-        "Selected_Date": "2026-10-31T10:45:14.214304Z"
+        "Name": "Asu Almabayev",
+        "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "2.31",
+        "SApM": "1.99",
+        "TD_Avg": "4.46",
+        "Sub_Avg": "1.49",
+        "Fight_Time": "12:58",
+        "Fight_Time_Seconds": 778,
+        "Division": "Flyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-11-01T11:43:05.922614Z"
     },
     "past_fighters": [
-        "Joe Pyfer",
         "Tagir Ulanbekov",
         "Umar Nurmagomedov",
         "Neil Magny",
         "Kevin Borjas",
         "Bryce Mitchell",
-        "Raoni Barcelos"
+        "Raoni Barcelos",
+        "Far\u00e8s Ziam"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -345,7 +345,7 @@
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
             "Rank": "6",
-            "Selected_Date": "2026-08-13T06:17:35.518031Z"
+            "Selected_Date": "2026-11-01T11:43:05.922614Z"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -2169,7 +2169,7 @@
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
-            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/tyrell-fortune",
+            "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
             "Record": "18-3-0 (W-L-D)",
             "SLpM": "2.00",
