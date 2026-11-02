@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Asu Almabayev",
-        "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "2.31",
-        "SApM": "1.99",
-        "TD_Avg": "4.46",
-        "Sub_Avg": "1.49",
-        "Fight_Time": "12:58",
-        "Fight_Time_Seconds": 778,
-        "Division": "Flyweight",
-        "Rank": "6",
-        "Selected_Date": "2026-11-01T11:43:05.922614Z"
+        "Name": "Magomed Ankalaev",
+        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
+        "Record": "21-2-1 (W-L-D)",
+        "SLpM": "3.65",
+        "SApM": "2.59",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:49",
+        "Fight_Time_Seconds": 709,
+        "Division": "Light Heavyweight",
+        "Rank": "2",
+        "Selected_Date": "2026-11-02T13:12:48.254621Z"
     },
     "past_fighters": [
-        "Tagir Ulanbekov",
         "Umar Nurmagomedov",
         "Neil Magny",
         "Kevin Borjas",
         "Bryce Mitchell",
         "Raoni Barcelos",
-        "Far\u00e8s Ziam"
+        "Far\u00e8s Ziam",
+        "Asu Almabayev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -197,7 +197,7 @@
             "Fight_Time_Seconds": 709,
             "Division": "Light Heavyweight",
             "Rank": "2",
-            "Selected_Date": "2026-09-26T09:43:55.176274Z"
+            "Selected_Date": "2026-11-02T13:12:48.254621Z"
         },
         "Arman Tsarukyan": {
             "Name": "Arman Tsarukyan",
