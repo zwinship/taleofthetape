@@ -1,32 +1,32 @@
 {
     "daily_fighter": {
-        "Name": "Dan Hooker",
-        "Profile_URL": "https://www.ufc.com/athlete/dan-hooker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HOOKER_DAN_11-22.png?itok=oukyDOeT",
-        "Record": "24-13-0 (W-L-D)",
-        "SLpM": "4.89",
-        "SApM": "4.73",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.45",
-        "Fight_Time": "10:09",
-        "Fight_Time_Seconds": 609,
-        "Division": "Lightweight",
-        "Rank": "14",
-        "Selected_Date": "2026-11-04T12:48:53.664544Z"
+        "Name": "Robert Whittaker",
+        "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/robert-whittaker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
+        "Record": "27-9-0 (W-L-D)",
+        "SLpM": "4.39",
+        "SApM": "3.36",
+        "TD_Avg": "0.73",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:37",
+        "Fight_Time_Seconds": 817,
+        "Division": "Light Heavyweight",
+        "Rank": "11",
+        "Selected_Date": "2026-11-05T12:57:53.850583Z"
     },
     "past_fighters": [
-        "Kevin Borjas",
         "Bryce Mitchell",
         "Raoni Barcelos",
         "Far\u00e8s Ziam",
         "Asu Almabayev",
         "Magomed Ankalaev",
-        "Dricus Du Plessis"
+        "Dricus Du Plessis",
+        "Dan Hooker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
             "Name": "Islam Makhachev",
-            "Profile_URL": "https://www.ufc.com/athlete/islam-makhachev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/islam-makhachev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/MAKHACHEV_ISLAM_BELT_01-18.png?itok=lj6jqPw9",
             "Record": "28-1-0 (W-L-D)",
             "SLpM": "2.45",
@@ -41,7 +41,7 @@
         },
         "Ilia Topuria": {
             "Name": "Ilia Topuria",
-            "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ilia-topuria",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
             "Record": "17-0-0 (W-L-D)",
             "SLpM": "4.81",
@@ -71,7 +71,7 @@
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
-            "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/khamzat-chimaev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
             "Record": "15-0-0 (W-L-D)",
             "SLpM": "4.04",
@@ -101,7 +101,7 @@
         },
         "Alex Pereira": {
             "Name": "Alex Pereira",
-            "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/alex-pereira",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
             "Record": "13-3-0 (W-L-D)",
             "SLpM": "5.16",
@@ -131,7 +131,7 @@
         },
         "Tom Aspinall": {
             "Name": "Tom Aspinall",
-            "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tom-aspinall",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
             "Record": "15-3-0 (W-L-D)",
             "SLpM": "7.63",
@@ -146,7 +146,7 @@
         },
         "Dricus Du Plessis": {
             "Name": "Dricus Du Plessis",
-            "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/dricus-du-plessis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "5.18",
@@ -186,7 +186,7 @@
         },
         "Magomed Ankalaev": {
             "Name": "Magomed Ankalaev",
-            "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/magomed-ankalaev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
             "Record": "21-2-1 (W-L-D)",
             "SLpM": "3.65",
@@ -216,7 +216,7 @@
         },
         "Charles Oliveira": {
             "Name": "Charles Oliveira",
-            "Profile_URL": "https://www.ufc.com/athlete/charles-oliveira",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/charles-oliveira",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/OLIVEIRA_CHARLES_10-11.png?itok=vZYVQ-Bm",
             "Record": "36-11-0 (W-L-D)",
             "SLpM": "3.35",
@@ -260,7 +260,7 @@
         },
         "Brandon Moreno": {
             "Name": "Brandon Moreno",
-            "Profile_URL": "https://www.ufc.com/athlete/brandon-moreno",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/brandon-moreno",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/MORENO_BRANDON_03-29.png?itok=8NfFtl4u",
             "Record": "23-8-2 (W-L-D)",
             "SLpM": "3.96",
@@ -275,7 +275,7 @@
         },
         "Brandon Royval": {
             "Name": "Brandon Royval",
-            "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/brandon-royval",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
             "Record": "17-8-0 (W-L-D)",
             "SLpM": "5.55",
@@ -290,7 +290,7 @@
         },
         "Amir Albazi": {
             "Name": "Amir Albazi",
-            "Profile_URL": "https://www.ufc.com/athlete/amir-albazi",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/amir-albazi",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=4tv_VKcD",
             "Record": "17-2-0 (W-L-D)",
             "SLpM": "2.72",
@@ -305,7 +305,7 @@
         },
         "Tatsuro Taira": {
             "Name": "Tatsuro Taira",
-            "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tatsuro-taira",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
             "Record": "17-1-0 (W-L-D)",
             "SLpM": "2.87",
@@ -320,7 +320,7 @@
         },
         "Manel Kape": {
             "Name": "Manel Kape",
-            "Profile_URL": "https://www.ufc.com/athlete/manel-kape",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/manel-kape",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KAPE_MANEL_03-01.png?itok=tvtp-zUJ",
             "Record": "21-7-0 (W-L-D)",
             "SLpM": "5.04",
@@ -334,7 +334,7 @@
         },
         "Asu Almabayev": {
             "Name": "Asu Almabayev",
-            "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/asu-almabayev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "2.31",
@@ -349,7 +349,7 @@
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
-            "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/kyoji-horiguchi",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
             "Record": "35-5-0 (W-L-D)",
             "SLpM": "3.64",
@@ -364,7 +364,7 @@
         },
         "Tim Elliott": {
             "Name": "Tim Elliott",
-            "Profile_URL": "https://www.ufc.com/athlete/tim-elliott",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tim-elliott",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ELLIOTT_TIM_08-16.png?itok=-obztIkf",
             "Record": "22-13-1 (W-L-D)",
             "SLpM": "3.37",
@@ -394,7 +394,7 @@
         },
         "Alex Perez": {
             "Name": "Alex Perez",
-            "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/alex-perez",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
             "Record": "25-10-0 (W-L-D)",
             "SLpM": "4.16",
@@ -424,7 +424,7 @@
         },
         "Charles Johnson": {
             "Name": "Charles Johnson",
-            "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/charles-johnson",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
             "Record": "18-7-0 (W-L-D)",
             "SLpM": "4.73",
@@ -454,7 +454,7 @@
         },
         "Lone\u2019er Kavanagh": {
             "Name": "Lone\u2019er Kavanagh",
-            "Profile_URL": "https://www.ufc.com/athlete/loneer-kavanagh",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/loneer-kavanagh",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/KAVANAGH_LONEER_08-23.png?itok=lqpNH3Jr",
             "Record": "9-1-0 (W-L-D)",
             "SLpM": "4.29",
@@ -484,7 +484,7 @@
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
-            "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/sean-omalley",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
             "Record": "18-3-0 (W-L-D)",
             "SLpM": "6.30",
@@ -514,7 +514,7 @@
         },
         "Cory Sandhagen": {
             "Name": "Cory Sandhagen",
-            "Profile_URL": "https://www.ufc.com/athlete/cory-sandhagen",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/cory-sandhagen",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SANDHAGEN_CORY_10-04.png?itok=S79YESKx",
             "Record": "18-6-0 (W-L-D)",
             "SLpM": "4.86",
@@ -529,7 +529,7 @@
         },
         "Song Yadong": {
             "Name": "Song Yadong",
-            "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/song-yadong",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
             "Record": "22-8-1 (W-L-D)",
             "SLpM": "4.58",
@@ -559,7 +559,7 @@
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
-            "Profile_URL": "https://www.ufc.com/athlete/aiemann-zahabi",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/aiemann-zahabi",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZAHABI_AIEMANN_10-18.png?itok=PVjgrz-q",
             "Record": "14-2-0 (W-L-D)",
             "SLpM": "4.54",
@@ -589,7 +589,7 @@
         },
         "Mario Bautista": {
             "Name": "Mario Bautista",
-            "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/mario-bautista",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
             "Record": "16-3-0 (W-L-D)",
             "SLpM": "5.58",
@@ -619,7 +619,7 @@
         },
         "David Martinez": {
             "Name": "David Martinez",
-            "Profile_URL": "https://www.ufc.com/athlete/david-martinez",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/david-martinez",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/MARTINEZ_DAVID_09-13.png?itok=2GGMvqOr",
             "Record": "13-1-0 (W-L-D)",
             "SLpM": "4.85",
@@ -679,7 +679,7 @@
         },
         "Marcus McGhee": {
             "Name": "Marcus McGhee",
-            "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/marcus-mcghee",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MCGHEE_MARCUS_06-06.png?itok=FPAf7ePn",
             "Record": "11-2-0 (W-L-D)",
             "SLpM": "5.44",
@@ -723,7 +723,7 @@
         },
         "Yair Rodriguez": {
             "Name": "Yair Rodriguez",
-            "Profile_URL": "https://www.ufc.com/athlete/yair-rodriguez",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/yair-rodriguez",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/RODRIGUEZ_YAIR_04-12.png?itok=dwPkjAj0",
             "Record": "21-5-0 (W-L-D)",
             "SLpM": "4.65",
@@ -738,7 +738,7 @@
         },
         "Lerone Murphy": {
             "Name": "Lerone Murphy",
-            "Profile_URL": "https://www.ufc.com/athlete/lerone-murphy",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/lerone-murphy",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/MURPHY_LERONE_08-16.png?itok=CW36JFs2",
             "Record": "17-0-1 (W-L-D)",
             "SLpM": "4.48",
@@ -753,7 +753,7 @@
         },
         "Aljamain Sterling": {
             "Name": "Aljamain Sterling",
-            "Profile_URL": "https://www.ufc.com/athlete/aljamain-sterling",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/aljamain-sterling",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/STERLING_ALJAMAIN_08-23.png?itok=lhWe7zsC",
             "Record": "25-5-0 (W-L-D)",
             "SLpM": "4.45",
@@ -783,7 +783,7 @@
         },
         "Youssef Zalal": {
             "Name": "Youssef Zalal",
-            "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/youssef-zalal",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
             "Record": "18-5-1 (W-L-D)",
             "SLpM": "3.03",
@@ -798,7 +798,7 @@
         },
         "Steve Garcia": {
             "Name": "Steve Garcia",
-            "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/steve-garcia",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
             "Record": "19-5-0 (W-L-D)",
             "SLpM": "5.39",
@@ -813,7 +813,7 @@
         },
         "Brian Ortega": {
             "Name": "Brian Ortega",
-            "Profile_URL": "https://www.ufc.com/athlete/brian-ortega",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/brian-ortega",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ORTEGA_BRIAN_08-23.png?itok=242TjJQn",
             "Record": "16-5-0 (W-L-D)",
             "SLpM": "3.84",
@@ -842,7 +842,7 @@
         },
         "Jean Silva": {
             "Name": "Jean Silva",
-            "Profile_URL": "https://www.ufc.com/athlete/jean-silva",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/jean-silva",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/SILVA_JEAN_09-13.png?itok=aniZB6gj",
             "Record": "16-3-0 (W-L-D)",
             "SLpM": "4.79",
@@ -857,7 +857,7 @@
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
-            "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/patricio-freire",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
             "Record": "37-8-0 (W-L-D)",
             "SLpM": "2.68",
@@ -886,7 +886,7 @@
         },
         "David Onama": {
             "Name": "David Onama",
-            "Profile_URL": "https://www.ufc.com/athlete/david-onama",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/david-onama",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ONAMA_DAVID_11-01.png?itok=SIczG7cS",
             "Record": "14-3-0 (W-L-D)",
             "SLpM": "5.07",
@@ -916,7 +916,7 @@
         },
         "Justin Gaethje": {
             "Name": "Justin Gaethje",
-            "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/justin-gaethje",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
             "Record": "27-5-0 (W-L-D)",
             "SLpM": "6.59",
@@ -931,7 +931,7 @@
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
-            "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/paddy-pimblett",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "5.19",
@@ -961,7 +961,7 @@
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
-            "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/mateusz-gamrot",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
             "Record": "25-4-0 (W-L-D)",
             "SLpM": "3.29",
@@ -976,7 +976,7 @@
         },
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
-            "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/benoit-saint-denis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
             "Record": "17-4-0 (W-L-D)",
             "SLpM": "5.58",
@@ -1050,7 +1050,7 @@
         },
         "Grant Dawson": {
             "Name": "Grant Dawson",
-            "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/grant-dawson",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
             "Record": "23-2-1 (W-L-D)",
             "SLpM": "3.20",
@@ -1065,7 +1065,7 @@
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
-            "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/mauricio-ruffy",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
             "Record": "12-2-0 (W-L-D)",
             "SLpM": "3.84",
@@ -1125,7 +1125,7 @@
         },
         "Michael Morales": {
             "Name": "Michael Morales",
-            "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/michael-morales",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
             "Record": "19-0-0 (W-L-D)",
             "SLpM": "5.68",
@@ -1199,7 +1199,7 @@
         },
         "Joaquin Buckley": {
             "Name": "Joaquin Buckley",
-            "Profile_URL": "https://www.ufc.com/athlete/joaquin-buckley",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/joaquin-buckley",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BUCKLEY_JOAQUIN_06-14.png?itok=GviJyQRR",
             "Record": "21-7-0 (W-L-D)",
             "SLpM": "3.88",
@@ -1213,7 +1213,7 @@
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
-            "Profile_URL": "https://www.ufc.com/athlete/gabriel-bonfim",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/gabriel-bonfim",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/BONFIM_GABRIEL_11-08.png?itok=RAgNsyE1",
             "Record": "19-1-0 (W-L-D)",
             "SLpM": "4.61",
@@ -1272,7 +1272,7 @@
         },
         "Daniel Rodriguez": {
             "Name": "Daniel Rodriguez",
-            "Profile_URL": "https://www.ufc.com/athlete/daniel-rodriguez",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/daniel-rodriguez",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RODRIGUEZ_DANIEL_07-19.png?itok=OsWgy8_k",
             "Record": "20-5-0 (W-L-D)",
             "SLpM": "7.20",
@@ -1287,7 +1287,7 @@
         },
         "Nassourdine Imavov": {
             "Name": "Nassourdine Imavov",
-            "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/nassourdine-imavov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
             "Record": "17-4-0 (W-L-D)",
             "SLpM": "4.28",
@@ -1347,7 +1347,7 @@
         },
         "Israel Adesanya": {
             "Name": "Israel Adesanya",
-            "Profile_URL": "https://www.ufc.com/athlete/israel-adesanya",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/israel-adesanya",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/ADESANYA_ISRAEL_02-01.png?itok=kqsY39NL",
             "Record": "24-5-0 (W-L-D)",
             "SLpM": "4.02",
@@ -1362,7 +1362,7 @@
         },
         "Caio Borralho": {
             "Name": "Caio Borralho",
-            "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/caio-borralho",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
             "Record": "17-2-0 (W-L-D)",
             "SLpM": "3.44",
@@ -1377,7 +1377,7 @@
         },
         "Reinier de Ridder": {
             "Name": "Reinier de Ridder",
-            "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/reinier-de-ridder",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
             "Record": "21-3-0 (W-L-D)",
             "SLpM": "2.20",
@@ -1392,7 +1392,7 @@
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
-            "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/robert-whittaker",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
             "Record": "27-9-0 (W-L-D)",
             "SLpM": "4.39",
@@ -1403,7 +1403,7 @@
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
             "Rank": "11",
-            "Selected_Date": "2026-09-27T10:23:44.107599Z"
+            "Selected_Date": "2026-11-05T12:57:53.850583Z"
         },
         "Jared Cannonier": {
             "Name": "Jared Cannonier",
@@ -1452,7 +1452,7 @@
         },
         "Paulo Costa": {
             "Name": "Paulo Costa",
-            "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/paulo-costa",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
             "Record": "15-4-0 (W-L-D)",
             "SLpM": "6.26",
@@ -1497,7 +1497,7 @@
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
-            "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/jiri-prochazka",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
             "Record": "32-6-1 (W-L-D)",
             "SLpM": "5.61",
@@ -1565,7 +1565,7 @@
         },
         "Azamat Murzakanov": {
             "Name": "Azamat Murzakanov",
-            "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/azamat-murzakanov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
             "Record": "16-0-0 (W-L-D)",
             "SLpM": "4.70",
@@ -1580,7 +1580,7 @@
         },
         "Dominick Reyes": {
             "Name": "Dominick Reyes",
-            "Profile_URL": "https://www.ufc.com/athlete/dominick-reyes",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/dominick-reyes",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/REYES_DOMINICK_09-27.png?itok=GyPUc7Gt",
             "Record": "15-5-0 (W-L-D)",
             "SLpM": "5.39",
@@ -1610,7 +1610,7 @@
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
-            "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/aleksandar-rakic",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
             "Record": "14-6-0 (W-L-D)",
             "SLpM": "4.13",
@@ -1638,7 +1638,7 @@
         },
         "Johnny Walker": {
             "Name": "Johnny Walker",
-            "Profile_URL": "https://www.ufc.com/athlete/johnny-walker",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/johnny-walker",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/WALKER_JOHNNY_08-23.png?itok=_JtthqvC",
             "Record": "22-9-0 (W-L-D)",
             "SLpM": "4.06",
@@ -1653,7 +1653,7 @@
         },
         "Nikita Krylov": {
             "Name": "Nikita Krylov",
-            "Profile_URL": "https://www.ufc.com/athlete/nikita-krylov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/nikita-krylov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/KRYLOV_NIKITA_07-26.png?itok=LvoJiTaN",
             "Record": "30-11-0 (W-L-D)",
             "SLpM": "4.31",
@@ -1679,7 +1679,7 @@
         },
         "Alonzo Menifield": {
             "Name": "Alonzo Menifield",
-            "Profile_URL": "https://www.ufc.com/athlete/alonzo-menifield",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/alonzo-menifield",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MENIFIELD_ALONZO_11-22.png?itok=zEmDa7eX",
             "Record": "17-6-1 (W-L-D)",
             "SLpM": "3.77",
@@ -1694,7 +1694,7 @@
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
-            "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ciryl-gane",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
             "Record": "13-2-0 (W-L-D)",
             "SLpM": "5.29",
@@ -1709,7 +1709,7 @@
         },
         "Alexander Volkov": {
             "Name": "Alexander Volkov",
-            "Profile_URL": "https://www.ufc.com/athlete/alexander-volkov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/alexander-volkov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/VOLKOV_ALEXANDER_10-25.png?itok=PFhcuxBv",
             "Record": "39-11-0 (W-L-D)",
             "SLpM": "4.78",
@@ -1724,7 +1724,7 @@
         },
         "Sergei Pavlovich": {
             "Name": "Sergei Pavlovich",
-            "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/sergei-pavlovich",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
             "Record": "20-3-0 (W-L-D)",
             "SLpM": "4.43",
@@ -1739,7 +1739,7 @@
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
-            "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/curtis-blaydes",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
             "Record": "19-5-0 (W-L-D)",
             "SLpM": "3.56",
@@ -1754,7 +1754,7 @@
         },
         "Waldo Cortes Acosta": {
             "Name": "Waldo Cortes Acosta",
-            "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/waldo-cortes-acosta",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
             "Record": "16-2-0 (W-L-D)",
             "SLpM": "5.55",
@@ -1814,7 +1814,7 @@
         },
         "Ante Delija": {
             "Name": "Ante Delija",
-            "Profile_URL": "https://www.ufc.com/athlete/ante-delija",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ante-delija",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DELIJA_ANTE_11-01.png?itok=nSZ0eNSl",
             "Record": "26-7-0 (W-L-D)",
             "SLpM": "4.81",
@@ -1888,7 +1888,7 @@
         },
         "Valter Walker": {
             "Name": "Valter Walker",
-            "Profile_URL": "https://www.ufc.com/athlete/valter-walker",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/valter-walker",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WALKER_VALTER_10-25.png?itok=5DLHhYiU",
             "Record": "15-1-0 (W-L-D)",
             "SLpM": "2.00",
@@ -1948,7 +1948,7 @@
         },
         "Kevin Vallejos": {
             "Name": "Kevin Vallejos",
-            "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/kevin-vallejos",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VALLEJOS_KEVIN_12-13.png?itok=n0pVKZf2",
             "Record": "16-1-0 (W-L-D)",
             "SLpM": "5.78",
@@ -2037,7 +2037,7 @@
         },
         "Rizvan Kuniev": {
             "Name": "Rizvan Kuniev",
-            "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/rizvan-kuniev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
             "Record": "12-3-1 (W-L-D)",
             "SLpM": "3.94",
@@ -2066,7 +2066,7 @@
         },
         "Melquizael Costa": {
             "Name": "Melquizael Costa",
-            "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/melquizael-costa",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
             "Record": "25-7-0 (W-L-D)",
             "SLpM": "4.38",
@@ -2081,7 +2081,7 @@
         },
         "Uro\u0161 Medi\u0107": {
             "Name": "Uro\u0161 Medi\u0107",
-            "Profile_URL": "https://www.ufc.com/athlete/uros-medic",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/uros-medic",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/MEDIC_UROS_02-21.png?itok=ad7sHOsL",
             "Record": "13-3-0 (W-L-D)",
             "SLpM": "5.59",
@@ -2111,7 +2111,7 @@
         },
         "Raul Rosas Jr.": {
             "Name": "Raul Rosas Jr.",
-            "Profile_URL": "https://www.ufc.com/athlete/raul-rosas-jr",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/raul-rosas-jr",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/ROSAS_JR_RAUL_03-07.png?itok=lLplFAsL",
             "Record": "13-1-0 (W-L-D)",
             "SLpM": "1.34",
@@ -2169,7 +2169,7 @@
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
-            "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tyrell-fortune",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
             "Record": "18-3-0 (W-L-D)",
             "SLpM": "2.00",
@@ -2199,7 +2199,7 @@
         },
         "Josh Hokit": {
             "Name": "Josh Hokit",
-            "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/josh-hokit",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
             "Record": "9-0-0 (W-L-D)",
             "SLpM": "9.25",
@@ -2214,7 +2214,7 @@
         },
         "Mike Malott": {
             "Name": "Mike Malott",
-            "Profile_URL": "https://www.ufc.com/athlete/mike-malott",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/mike-malott",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/MALOTT_MIKE_04-18.png?itok=Rlel8E-c",
             "Record": "14-2-1 (W-L-D)",
             "SLpM": "4.02",
@@ -2229,7 +2229,7 @@
         },
         "Yaroslav Amosov": {
             "Name": "Yaroslav Amosov",
-            "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/yaroslav-amosov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
             "Record": "29-1-0 (W-L-D)",
             "SLpM": "2.78",
@@ -2259,7 +2259,7 @@
         },
         "Quillan Salkilld": {
             "Name": "Quillan Salkilld",
-            "Profile_URL": "https://www.ufc.com/athlete/quillan-salkilld",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/quillan-salkilld",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SALKILLD_QUILLAN_05-02.png?itok=Y_X_Jx3C",
             "Record": "12-1-0 (W-L-D)",
             "SLpM": "5.01",
@@ -2273,7 +2273,7 @@
         },
         "Brando Peri\u010di\u0107": {
             "Name": "Brando Peri\u010di\u0107",
-            "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/brando-pericic",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
             "Record": "7-1-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
@@ -2285,7 +2285,7 @@
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
-            "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ikram-aliskerov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
             "Record": "17-2-0 (W-L-D)",
             "SLpM": "6.86",
@@ -2314,7 +2314,7 @@
         },
         "Tom Nolan": {
             "Name": "Tom Nolan",
-            "Profile_URL": "https://www.ufc.com/athlete/tom-nolan",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tom-nolan",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NOLAN_TOM_06-06.png?itok=70bNS4t7",
             "Record": "11-1-0 (W-L-D)",
             "SLpM": "4.84",
@@ -2358,7 +2358,7 @@
         },
         "Mitch Raposo": {
             "Name": "Mitch Raposo",
-            "Profile_URL": "https://www.ufc.com/athlete/mitch-raposo",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/mitch-raposo",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RAPOSO_MITCH_06-20.png?itok=syaw6RH3",
             "Record": "11-3-0 (W-L-D)",
             "SLpM": "1.91",
@@ -2401,7 +2401,7 @@
         },
         "Bryce Mitchell": {
             "Name": "Bryce Mitchell",
-            "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/bryce-mitchell",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
             "Record": "19-4-0 (W-L-D)",
             "SLpM": "2.19",
@@ -2416,7 +2416,7 @@
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
-            "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/pat-sabatini",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
             "Record": "22-5-0 (W-L-D)",
             "SLpM": "1.69",
@@ -2445,7 +2445,7 @@
         },
         "Joanderson Brito": {
             "Name": "Joanderson Brito",
-            "Profile_URL": "https://www.ufc.com/athlete/joanderson-brito",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/joanderson-brito",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BRITO_JOANDERSON_06-06.png?itok=Bni8iwnO",
             "Record": "19-5-1 (W-L-D)",
             "SLpM": "2.38",
@@ -2488,7 +2488,7 @@
         },
         "Navajo Stirling": {
             "Name": "Navajo Stirling",
-            "Profile_URL": "https://www.ufc.com/athlete/navajo-stirling",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/navajo-stirling",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/STIRLING_NAVAJO_06-20.png?itok=zEZnaHTX",
             "Record": "10-0-0 (W-L-D)",
             "SLpM": "6.24",
@@ -2531,7 +2531,7 @@
         },
         "Abus Magomedov": {
             "Name": "Abus Magomedov",
-            "Profile_URL": "https://www.ufc.com/athlete/abus-magomedov",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/abus-magomedov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_ABUS_06-27.png?itok=L-lbZx1p",
             "Record": "29-7-1 (W-L-D)",
             "SLpM": "3.06",
@@ -2590,7 +2590,7 @@
         },
         "Muhammad Saidov": {
             "Name": "Muhammad Saidov",
-            "Profile_URL": "https://www.ufc.com/athlete/muhammad-said",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/muhammad-said",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAIDOV_MUHAMMAD_07-25.png?itok=MsMapGDQ",
             "Record": "10-0-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
@@ -2603,7 +2603,7 @@
         },
         "Tofiq Musayev": {
             "Name": "Tofiq Musayev",
-            "Profile_URL": "https://www.ufc.com/athlete/tofiq-musayev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/tofiq-musayev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/MUSAYEV_TOFIQ_08-01.png?itok=UdBaD0GW",
             "Record": "24-6-0 (W-L-D)",
             "SLpM": "2.86",
@@ -2617,7 +2617,7 @@
         },
         "Kevin Holland": {
             "Name": "Kevin Holland",
-            "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/kevin-holland",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
             "Record": "29-15-0 (W-L-D)",
             "SLpM": "4.24",
@@ -2675,7 +2675,7 @@
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
-            "Profile_URL": "https://www.ufc.com/athlete/rei-tsuruya",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/rei-tsuruya",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TSURUYA_REI_08-29.png?itok=Dd_qmDP3",
             "Record": "12-1-0 (W-L-D)",
             "SLpM": "2.85",
@@ -2689,7 +2689,7 @@
         },
         "Salahdine Parnasse": {
             "Name": "Salahdine Parnasse",
-            "Profile_URL": "https://www.ufc.com/athlete/salahdine-parnasse",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/salahdine-parnasse",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/PARNASSE_SALAHDINE_09-05.png?itok=wmbu6VTi",
             "Record": "24-2-0 (W-L-D)",
             "SLpM": "Standing \n      0 (0 %)",
@@ -2737,7 +2737,7 @@
         },
         "Edmen Shahbazyan": {
             "Name": "Edmen Shahbazyan",
-            "Profile_URL": "https://www.ufc.com/athlete/edmen-shahbazyan",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/edmen-shahbazyan",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/SHAHBAZYAN_EDMEN_09-19.png?itok=ON_zU852",
             "Record": "17-6-0 (W-L-D)",
             "SLpM": "4.06",
@@ -2751,7 +2751,7 @@
         },
         "Imanol Rodriguez": {
             "Name": "Imanol Rodriguez",
-            "Profile_URL": "https://www.ufc.com/athlete/imanol-rodriguez",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/imanol-rodriguez",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/RODRIGUEZ_IMANOL_10-03.png?itok=EMTG6pP3",
             "Record": "8-0-0 (W-L-D)",
             "SLpM": "5.71",
@@ -2765,7 +2765,7 @@
         },
         "Esteban Ribovics": {
             "Name": "Esteban Ribovics",
-            "Profile_URL": "https://www.ufc.com/athlete/esteban-ribovics",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/esteban-ribovics",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/RIBOVICS_ESTEBAN_10-03.png?itok=2uZ1wv49",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "7.43",
@@ -2793,7 +2793,7 @@
         },
         "Modestas Bukauskas": {
             "Name": "Modestas Bukauskas",
-            "Profile_URL": "https://www.ufc.com/athlete/modestas-bukauskas",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/modestas-bukauskas",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/BUKAUSKAS_MODESTAS_09-05.png?itok=woiUxIsm",
             "Record": "21-7-0 (W-L-D)",
             "SLpM": "3.10",
@@ -2807,7 +2807,7 @@
         },
         "Abdul Rakhman Yakhyaev": {
             "Name": "Abdul Rakhman Yakhyaev",
-            "Profile_URL": "https://www.ufc.com/athlete/abdulrakhman-yakhyaev",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/abdulrakhman-yakhyaev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/YAKHYAEV_ABDUL_RAKHMAN_06-27.png?itok=G5VnSANU",
             "Record": "10-0-0 (W-L-D)",
             "SLpM": "8.64",
@@ -2821,7 +2821,7 @@
         },
         "Anthony Wint": {
             "Name": "Anthony Wint",
-            "Profile_URL": "https://www.ufc.com/athlete/anthony-wint",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/anthony-wint",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/WINT_ANTHONY_10-03.png?itok=iYZgriVb",
             "Record": "9-0-0 (W-L-D)",
             "SLpM": "3.56",
@@ -2835,7 +2835,7 @@
         },
         "Jacobe Smith": {
             "Name": "Jacobe Smith",
-            "Profile_URL": "https://www.ufc.com/athlete/jacobe-smith",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/jacobe-smith",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/SMITH_JACOBE_10-31.png?itok=08JEn73V",
             "Record": "14-0-0 (W-L-D)",
             "SLpM": "5.22",
