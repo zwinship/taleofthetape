@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Max Holloway",
-        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
-        "Record": "27-8-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "4.74",
-        "TD_Avg": "0.24",
-        "Sub_Avg": "0.30",
-        "Fight_Time": "16:23",
-        "Fight_Time_Seconds": 983,
-        "Division": "Lightweight",
-        "Rank": "4",
-        "Selected_Date": "2026-11-06T12:45:05.203906Z"
+        "Name": "Joshua Van",
+        "Profile_URL": "https://www.ufc.com/athlete/joshua-van",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VAN_JOSHUA_BELT.png?itok=Vieh8J4p",
+        "Record": "16-2-0 (W-L-D)",
+        "SLpM": "8.84",
+        "SApM": "6.39",
+        "TD_Avg": "0.84",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:26",
+        "Fight_Time_Seconds": 746,
+        "Division": "Flyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-11-07T11:33:09.973696Z"
     },
     "past_fighters": [
-        "Raoni Barcelos",
         "Far\u00e8s Ziam",
         "Asu Almabayev",
         "Magomed Ankalaev",
         "Dricus Du Plessis",
         "Dan Hooker",
-        "Robert Whittaker"
+        "Robert Whittaker",
+        "Max Holloway"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -257,7 +257,8 @@
             "Fight_Time": "12:26",
             "Fight_Time_Seconds": 746,
             "Division": "Flyweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-11-07T11:33:09.973696Z"
         },
         "Brandon Moreno": {
             "Name": "Brandon Moreno",
