@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joshua Van",
-        "Profile_URL": "https://www.ufc.com/athlete/joshua-van",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/VAN_JOSHUA_BELT.png?itok=Vieh8J4p",
-        "Record": "16-2-0 (W-L-D)",
-        "SLpM": "8.84",
-        "SApM": "6.39",
-        "TD_Avg": "0.84",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:26",
-        "Fight_Time_Seconds": 746,
-        "Division": "Flyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-11-07T11:33:09.973696Z"
+        "Name": "Ian Machado Garry",
+        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.92",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "14:45",
+        "Fight_Time_Seconds": 885,
+        "Division": "Welterweight",
+        "Rank": "2",
+        "Selected_Date": "2026-11-08T11:45:41.586926Z"
     },
     "past_fighters": [
-        "Far\u00e8s Ziam",
         "Asu Almabayev",
         "Magomed Ankalaev",
         "Dricus Du Plessis",
         "Dan Hooker",
         "Robert Whittaker",
-        "Max Holloway"
+        "Max Holloway",
+        "Joshua Van"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1108,7 +1108,7 @@
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
             "Rank": "2",
-            "Selected_Date": "2026-07-11T07:11:33.388048Z"
+            "Selected_Date": "2026-11-08T11:45:41.586926Z"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
