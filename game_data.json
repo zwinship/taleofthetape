@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ian Machado Garry",
-        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.92",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "14:45",
-        "Fight_Time_Seconds": 885,
-        "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-11-08T11:45:41.586926Z"
+        "Name": "Rizvan Kuniev",
+        "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
+        "Record": "12-3-1 (W-L-D)",
+        "SLpM": "3.94",
+        "SApM": "2.33",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:30",
+        "Fight_Time_Seconds": 690,
+        "Division": "Heavyweight",
+        "Rank": "7",
+        "Selected_Date": "2026-11-09T13:40:05.907913Z"
     },
     "past_fighters": [
-        "Asu Almabayev",
         "Magomed Ankalaev",
         "Dricus Du Plessis",
         "Dan Hooker",
         "Robert Whittaker",
         "Max Holloway",
-        "Joshua Van"
+        "Joshua Van",
+        "Ian Machado Garry"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2049,7 +2049,8 @@
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
             "Division": "Heavyweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-11-09T13:40:05.907913Z"
         },
         "Joseph Morales": {
             "Name": "Joseph Morales",
