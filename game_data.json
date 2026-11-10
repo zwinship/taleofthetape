@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rizvan Kuniev",
-        "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
-        "Record": "12-3-1 (W-L-D)",
-        "SLpM": "3.94",
-        "SApM": "2.33",
-        "TD_Avg": "0.98",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:30",
-        "Fight_Time_Seconds": 690,
-        "Division": "Heavyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-11-09T13:40:05.907913Z"
+        "Name": "Mario Bautista",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.19",
+        "TD_Avg": "1.48",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "10:08",
+        "Fight_Time_Seconds": 608,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-11-10T13:17:05.000458Z"
     },
     "past_fighters": [
-        "Magomed Ankalaev",
         "Dricus Du Plessis",
         "Dan Hooker",
         "Robert Whittaker",
         "Max Holloway",
         "Joshua Van",
-        "Ian Machado Garry"
+        "Ian Machado Garry",
+        "Rizvan Kuniev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -602,7 +602,7 @@
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
             "Rank": "4",
-            "Selected_Date": "2026-10-07T11:35:28.526235Z"
+            "Selected_Date": "2026-11-10T13:17:05.000458Z"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -795,7 +795,7 @@
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
-            "Rank": "9",
+            "Rank": "8",
             "Selected_Date": "2026-08-24T05:38:51.181801Z"
         },
         "Steve Garcia": {
@@ -810,7 +810,7 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-06-10T08:50:17.391626Z"
         },
         "Brian Ortega": {
@@ -869,7 +869,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-10-14T09:57:19.577055Z"
         },
         "Dan Ige": {
@@ -1650,7 +1650,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "8",
             "Selected_Date": "2026-06-21T08:57:41.160143Z"
         },
         "Nikita Krylov": {
@@ -1751,7 +1751,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-06-09T08:31:01.339932Z"
         },
         "Waldo Cortes Acosta": {
@@ -1766,7 +1766,7 @@
             "Fight_Time": "10:34",
             "Fight_Time_Seconds": 634,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "12",
             "Selected_Date": "2026-06-06T07:47:15.800391Z"
         },
         "Jailton Almeida": {
@@ -1960,7 +1960,7 @@
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
             "Division": "Featherweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-09-29T11:10:40.398294Z"
         },
         "Manuel Torres": {
@@ -2049,7 +2049,7 @@
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
             "Division": "Heavyweight",
-            "Rank": "7",
+            "Rank": "6",
             "Selected_Date": "2026-11-09T13:40:05.907913Z"
         },
         "Joseph Morales": {
@@ -2079,7 +2079,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-05-30T07:41:58.650833Z"
         },
         "Uro\u0161 Medi\u0107": {
@@ -2197,7 +2197,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-05-18T08:45:57.749288Z"
         },
         "Josh Hokit": {
@@ -2458,7 +2458,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Featherweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-09-17T09:51:57.619810Z"
         },
         "Jose Miguel Delgado": {
@@ -2674,7 +2674,7 @@
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
