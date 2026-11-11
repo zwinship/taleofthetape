@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Bautista",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Name": "Jean Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/jean-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/SILVA_JEAN_09-13.png?itok=aniZB6gj",
         "Record": "16-3-0 (W-L-D)",
-        "SLpM": "5.58",
-        "SApM": "4.19",
-        "TD_Avg": "1.48",
-        "Sub_Avg": "0.80",
-        "Fight_Time": "10:08",
-        "Fight_Time_Seconds": 608,
-        "Division": "Bantamweight",
-        "Rank": "4",
-        "Selected_Date": "2026-11-10T13:17:05.000458Z"
+        "SLpM": "4.79",
+        "SApM": "4.69",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.75",
+        "Fight_Time": "08:34",
+        "Fight_Time_Seconds": 514,
+        "Division": "Featherweight",
+        "Rank": "5",
+        "Selected_Date": "2026-11-11T12:29:01.434662Z"
     },
     "past_fighters": [
-        "Dricus Du Plessis",
         "Dan Hooker",
         "Robert Whittaker",
         "Max Holloway",
         "Joshua Van",
         "Ian Machado Garry",
-        "Rizvan Kuniev"
+        "Rizvan Kuniev",
+        "Mario Bautista"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -421,7 +421,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-10-25T09:36:41.166573Z"
         },
         "Charles Johnson": {
@@ -735,7 +735,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -855,7 +855,7 @@
             "Fight_Time_Seconds": 514,
             "Division": "Featherweight",
             "Rank": "5",
-            "Selected_Date": "2026-09-05T08:51:39.562118Z"
+            "Selected_Date": "2026-11-11T12:29:01.434662Z"
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
@@ -933,7 +933,7 @@
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
-            "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/paddy-pimblett",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "5.19",
@@ -1067,7 +1067,7 @@
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
-            "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/mauricio-ruffy",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
             "Record": "12-2-0 (W-L-D)",
             "SLpM": "3.84",
@@ -1550,7 +1550,7 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Light Heavyweight",
-            "Rank": "9"
+            "Rank": "11"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1622,7 +1622,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
@@ -1811,7 +1811,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-09-06T09:11:30.407595Z"
         },
         "Ante Delija": {
@@ -1826,7 +1826,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-09-15T09:49:20.330884Z"
         },
         "Marcin Tybura": {
@@ -2182,7 +2182,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-09-10T09:25:24.231936Z"
         },
         "Aaron Pico": {
@@ -2247,7 +2247,7 @@
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
-            "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/raoni-barcelos",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
             "Record": "22-5-0 (W-L-D)",
             "SLpM": "4.65",
@@ -2620,7 +2620,7 @@
         },
         "Kevin Holland": {
             "Name": "Kevin Holland",
-            "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/kevin-holland",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
             "Record": "29-15-0 (W-L-D)",
             "SLpM": "4.24",
@@ -2782,7 +2782,7 @@
         },
         "Roman Kopylov": {
             "Name": "Roman Kopylov",
-            "Profile_URL": "https://www.ufc.com/athlete/roman-kopylov",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/roman-kopylov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/KOPYLOV_ROMAN_10-03.png?itok=ShiuNkJ1",
             "Record": "16-5-0 (W-L-D)",
             "SLpM": "4.54",
