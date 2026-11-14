@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Waldo Cortes Acosta",
-        "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
-        "Record": "16-2-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "3.53",
-        "TD_Avg": "0.35",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "10:34",
-        "Fight_Time_Seconds": 634,
+        "Name": "Mario Pinto",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
+        "Record": "12-0-0 (W-L-D)",
+        "SLpM": "2.85",
+        "SApM": "1.93",
+        "TD_Avg": "2.38",
+        "Sub_Avg": "0.95",
+        "Fight_Time": "07:53",
+        "Fight_Time_Seconds": 473,
         "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-11-13T12:53:41.926142Z"
+        "Rank": "10",
+        "Selected_Date": "2026-11-14T11:57:38.546020Z"
     },
     "past_fighters": [
-        "Max Holloway",
         "Joshua Van",
         "Ian Machado Garry",
         "Rizvan Kuniev",
         "Mario Bautista",
         "Jean Silva",
-        "Uro\u0161 Medi\u0107"
+        "Uro\u0161 Medi\u0107",
+        "Waldo Cortes Acosta"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2516,7 +2516,7 @@
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
             "Rank": "10",
-            "Selected_Date": "2026-10-10T11:00:13.745393Z"
+            "Selected_Date": "2026-11-14T11:57:38.546020Z"
         },
         "Ryan Spann": {
             "Name": "Ryan Spann",
