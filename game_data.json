@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Pinto",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
-        "Record": "12-0-0 (W-L-D)",
-        "SLpM": "2.85",
-        "SApM": "1.93",
-        "TD_Avg": "2.38",
-        "Sub_Avg": "0.95",
-        "Fight_Time": "07:53",
-        "Fight_Time_Seconds": 473,
-        "Division": "Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-11-14T11:57:38.546020Z"
+        "Name": "Shavkat Rakhmonov",
+        "Profile_URL": "https://www.ufc.com/athlete/shavkat-rakhmonov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/RAKHMONOV_SHAVKAT_12-07.png?itok=m26zEPBe",
+        "Record": "19-0-0 (W-L-D)",
+        "SLpM": "3.25",
+        "SApM": "2.17",
+        "TD_Avg": "1.40",
+        "Sub_Avg": "1.20",
+        "Fight_Time": "10:44",
+        "Fight_Time_Seconds": 644,
+        "Division": "Welterweight",
+        "Rank": "2",
+        "Selected_Date": "2026-11-15T12:32:00.415651Z"
     },
     "past_fighters": [
-        "Joshua Van",
         "Ian Machado Garry",
         "Rizvan Kuniev",
         "Mario Bautista",
         "Jean Silva",
         "Uro\u0161 Medi\u0107",
-        "Waldo Cortes Acosta"
+        "Waldo Cortes Acosta",
+        "Mario Pinto"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1123,7 +1123,7 @@
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
             "Rank": "2",
-            "Selected_Date": "2026-06-23T08:29:59.831112Z"
+            "Selected_Date": "2026-11-15T12:32:00.415651Z"
         },
         "Michael Morales": {
             "Name": "Michael Morales",
