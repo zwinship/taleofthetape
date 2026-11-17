@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Khamzat Chimaev",
-        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
-        "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "2.32",
-        "TD_Avg": "5.29",
-        "Sub_Avg": "1.83",
-        "Fight_Time": "08:11",
-        "Fight_Time_Seconds": 491,
-        "Division": "Middleweight",
-        "Rank": "1",
-        "Selected_Date": "2026-11-16T13:24:49.161313Z"
+        "Name": "Steve Erceg",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.00",
+        "SApM": "3.79",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:56",
+        "Fight_Time_Seconds": 896,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-11-17T14:09:37.969162Z"
     },
     "past_fighters": [
-        "Rizvan Kuniev",
         "Mario Bautista",
         "Jean Silva",
         "Uro\u0161 Medi\u0107",
         "Waldo Cortes Acosta",
         "Mario Pinto",
-        "Shavkat Rakhmonov"
+        "Shavkat Rakhmonov",
+        "Khamzat Chimaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -392,7 +392,7 @@
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
             "Rank": "12",
-            "Selected_Date": "2026-08-29T11:29:57.991417Z"
+            "Selected_Date": "2026-11-17T14:09:37.969162Z"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
@@ -810,7 +810,7 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-06-10T08:50:17.391626Z"
         },
         "Brian Ortega": {
@@ -869,7 +869,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-10-14T09:57:19.577055Z"
         },
         "Dan Ige": {
@@ -1181,7 +1181,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-10-02T10:55:28.364305Z"
         },
         "Leon Edwards": {
@@ -1196,7 +1196,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-05-07T07:43:03.923231Z"
         },
         "Joaquin Buckley": {
@@ -1211,7 +1211,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1374,7 +1374,7 @@
             "Fight_Time": "14:04",
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
-            "Rank": "6",
+            "Rank": "5",
             "Selected_Date": "2026-08-26T05:35:33.339261Z"
         },
         "Reinier de Ridder": {
@@ -2005,7 +2005,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-10-24T09:19:50.787335Z"
         },
         "Brunno Ferreira": {
@@ -2094,7 +2094,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-11-12T13:34:06.538122Z"
         },
         "Vitor Petrino": {
@@ -2242,7 +2242,7 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-07-17T07:18:01.913389Z"
         },
         "Raoni Barcelos": {
@@ -2444,7 +2444,7 @@
             "Fight_Time": "13:32",
             "Fight_Time_Seconds": 812,
             "Division": "Featherweight",
-            "Rank": "8"
+            "Rank": "15"
         },
         "Joanderson Brito": {
             "Name": "Joanderson Brito",
@@ -2630,7 +2630,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "15",
+            "Rank": "9",
             "Selected_Date": "2026-09-19T09:13:52.661178Z"
         },
         "Iwo Baraniewski": {
@@ -2674,7 +2674,7 @@
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
@@ -2848,7 +2848,7 @@
             "Fight_Time": "06:17",
             "Fight_Time_Seconds": 377,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "15"
         }
     }
 }
