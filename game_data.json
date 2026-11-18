@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Erceg",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.00",
-        "SApM": "3.79",
-        "TD_Avg": "1.15",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:56",
-        "Fight_Time_Seconds": 896,
-        "Division": "Flyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-11-17T14:09:37.969162Z"
+        "Name": "Giga Chikadze",
+        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
+        "Record": "15-5-0 (W-L-D)",
+        "SLpM": "3.82",
+        "SApM": "3.48",
+        "TD_Avg": "0.19",
+        "Sub_Avg": "0.19",
+        "Fight_Time": "13:24",
+        "Fight_Time_Seconds": 804,
+        "Division": "Featherweight",
+        "Rank": "15",
+        "Selected_Date": "2026-11-18T13:41:48.876258Z"
     },
     "past_fighters": [
-        "Mario Bautista",
         "Jean Silva",
         "Uro\u0161 Medi\u0107",
         "Waldo Cortes Acosta",
         "Mario Pinto",
         "Shavkat Rakhmonov",
-        "Khamzat Chimaev"
+        "Khamzat Chimaev",
+        "Steve Erceg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -898,7 +898,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-06-02T09:08:42.012597Z"
         },
         "Giga Chikadze": {
@@ -914,7 +914,7 @@
             "Fight_Time_Seconds": 804,
             "Division": "Featherweight",
             "Rank": "15",
-            "Selected_Date": "2026-07-30T07:34:15.104664Z"
+            "Selected_Date": "2026-11-18T13:41:48.876258Z"
         },
         "Justin Gaethje": {
             "Name": "Justin Gaethje",
@@ -1284,7 +1284,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
@@ -2094,7 +2094,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-11-12T13:34:06.538122Z"
         },
         "Vitor Petrino": {
@@ -2630,7 +2630,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-09-19T09:13:52.661178Z"
         },
         "Iwo Baraniewski": {
