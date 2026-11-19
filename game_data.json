@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Giga Chikadze",
-        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.48",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.19",
-        "Fight_Time": "13:24",
-        "Fight_Time_Seconds": 804,
-        "Division": "Featherweight",
+        "Name": "Iwo Baraniewski",
+        "Profile_URL": "https://www.ufc.com/athlete/iwo-baraniewski",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BARANIEWSKI_IWO_06-06.png?itok=a8LmRtke",
+        "Record": "9-0-0 (W-L-D)",
+        "SLpM": "11.35",
+        "SApM": "8.65",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "00:56",
+        "Fight_Time_Seconds": 56,
+        "Division": "Light Heavyweight",
         "Rank": "15",
-        "Selected_Date": "2026-11-18T13:41:48.876258Z"
+        "Selected_Date": "2026-11-19T14:09:52.291568Z"
     },
     "past_fighters": [
-        "Jean Silva",
         "Uro\u0161 Medi\u0107",
         "Waldo Cortes Acosta",
         "Mario Pinto",
         "Shavkat Rakhmonov",
         "Khamzat Chimaev",
-        "Steve Erceg"
+        "Steve Erceg",
+        "Giga Chikadze"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2645,7 +2645,8 @@
             "Fight_Time": "00:56",
             "Fight_Time_Seconds": 56,
             "Division": "Light Heavyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-11-19T14:09:52.291568Z"
         },
         "Neil Magny": {
             "Name": "Neil Magny",
