@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Iwo Baraniewski",
-        "Profile_URL": "https://www.ufc.com/athlete/iwo-baraniewski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BARANIEWSKI_IWO_06-06.png?itok=a8LmRtke",
-        "Record": "9-0-0 (W-L-D)",
-        "SLpM": "11.35",
-        "SApM": "8.65",
-        "TD_Avg": "0.00",
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
         "Sub_Avg": "0.00",
-        "Fight_Time": "00:56",
-        "Fight_Time_Seconds": 56,
-        "Division": "Light Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-11-19T14:09:52.291568Z"
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-11-20T13:52:27.717141Z"
     },
     "past_fighters": [
-        "Uro\u0161 Medi\u0107",
         "Waldo Cortes Acosta",
         "Mario Pinto",
         "Shavkat Rakhmonov",
         "Khamzat Chimaev",
         "Steve Erceg",
-        "Giga Chikadze"
+        "Giga Chikadze",
+        "Iwo Baraniewski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1500,7 +1500,7 @@
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-11/PROCHAZKA_JIRI_11-21.png?itok=dtZBWcKi",
             "Record": "32-6-1 (W-L-D)",
             "SLpM": "5.61",
             "SApM": "5.67",
@@ -1529,7 +1529,7 @@
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-11/PROCHAZKA_JIRI_11-21.png?itok=dtZBWcKi",
             "Record": "15-7-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "50\n                  %",
@@ -1737,7 +1737,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-10-15T09:39:13.714034Z"
+            "Selected_Date": "2026-11-20T13:52:27.717141Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
@@ -2277,7 +2277,7 @@
         "Brando Peri\u010di\u0107": {
             "Name": "Brando Peri\u010di\u0107",
             "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-11/GAZIEV_SHAMIL_11-21.png?itok=yAfrSLAJ",
             "Record": "7-1-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "58\n                  %",
