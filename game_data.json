@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 342,
         "Division": "Heavyweight",
         "Rank": "4",
-        "Selected_Date": "2026-11-20T13:52:27.717141Z"
+        "Selected_Date": "2026-11-21T13:15:45.249443Z"
     },
     "past_fighters": [
-        "Waldo Cortes Acosta",
         "Mario Pinto",
         "Shavkat Rakhmonov",
         "Khamzat Chimaev",
         "Steve Erceg",
         "Giga Chikadze",
-        "Iwo Baraniewski"
+        "Iwo Baraniewski",
+        "Sergei Pavlovich"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1737,7 +1737,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-11-20T13:52:27.717141Z"
+            "Selected_Date": "2026-11-21T13:15:45.249443Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
@@ -2094,7 +2094,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-11-12T13:34:06.538122Z"
         },
         "Vitor Petrino": {
@@ -2630,7 +2630,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-09-19T09:13:52.661178Z"
         },
         "Iwo Baraniewski": {
