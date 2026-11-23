@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nikita Krylov",
-        "Profile_URL": "https://www.ufc.com/athlete/nikita-krylov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/KRYLOV_NIKITA_07-26.png?itok=LvoJiTaN",
-        "Record": "30-11-0 (W-L-D)",
-        "SLpM": "4.31",
-        "SApM": "2.58",
-        "TD_Avg": "2.17",
-        "Sub_Avg": "1.37",
-        "Fight_Time": "06:34",
-        "Fight_Time_Seconds": 394,
-        "Division": "Light Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-11-22T13:07:08.335578Z"
+        "Name": "Yair Rodriguez",
+        "Profile_URL": "https://www.ufc.com/athlete/yair-rodriguez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/RODRIGUEZ_YAIR_04-12.png?itok=dwPkjAj0",
+        "Record": "21-5-0 (W-L-D)",
+        "SLpM": "4.65",
+        "SApM": "3.78",
+        "TD_Avg": "0.71",
+        "Sub_Avg": "0.64",
+        "Fight_Time": "13:14",
+        "Fight_Time_Seconds": 794,
+        "Division": "Featherweight",
+        "Rank": "7",
+        "Selected_Date": "2026-11-23T15:44:00.365063Z"
     },
     "past_fighters": [
-        "Mario Pinto",
         "Shavkat Rakhmonov",
         "Khamzat Chimaev",
         "Steve Erceg",
         "Giga Chikadze",
         "Iwo Baraniewski",
-        "Sergei Pavlovich"
+        "Sergei Pavlovich",
+        "Nikita Krylov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -736,7 +736,7 @@
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
             "Rank": "7",
-            "Selected_Date": "2026-02-07T05:50:33.102348Z"
+            "Selected_Date": "2026-11-23T15:44:00.365063Z"
         },
         "Lerone Murphy": {
             "Name": "Lerone Murphy",
