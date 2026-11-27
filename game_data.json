@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gregory Rodrigues",
-        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
-        "Record": "18-6-0 (W-L-D)",
-        "SLpM": "5.60",
-        "SApM": "4.84",
-        "TD_Avg": "1.93",
-        "Sub_Avg": "0.39",
-        "Fight_Time": "08:59",
-        "Fight_Time_Seconds": 539,
-        "Division": "Middleweight",
-        "Rank": "7",
-        "Selected_Date": "2026-11-26T14:47:05.393144Z"
+        "Name": "Aleksandar Raki\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
+        "Record": "14-6-0 (W-L-D)",
+        "SLpM": "4.13",
+        "SApM": "2.86",
+        "TD_Avg": "0.64",
+        "Sub_Avg": "0.13",
+        "Fight_Time": "10:41",
+        "Fight_Time_Seconds": 641,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-11-27T14:46:03.030556Z"
     },
     "past_fighters": [
-        "Giga Chikadze",
         "Iwo Baraniewski",
         "Sergei Pavlovich",
         "Nikita Krylov",
         "Yair Rodriguez",
         "Navajo Stirling",
-        "Magomed Ankalaev"
+        "Magomed Ankalaev",
+        "Gregory Rodrigues"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -322,7 +322,7 @@
         },
         "Manel Kape": {
             "Name": "Manel Kape",
-            "Profile_URL": "https://www.ufc.com/athlete/manel-kape",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/manel-kape",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KAPE_MANEL_03-01.png?itok=tvtp-zUJ",
             "Record": "21-7-0 (W-L-D)",
             "SLpM": "5.04",
@@ -1127,7 +1127,7 @@
         },
         "Michael Morales": {
             "Name": "Michael Morales",
-            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/michael-morales",
+            "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
             "Record": "19-0-0 (W-L-D)",
             "SLpM": "5.68",
@@ -1623,7 +1623,7 @@
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-02-22T05:57:47.969000Z"
+            "Selected_Date": "2026-11-27T14:46:03.030556Z"
         },
         "Bogdan Guskov": {
             "Name": "Bogdan Guskov",
@@ -1697,7 +1697,7 @@
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
-            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ciryl-gane",
+            "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
             "Record": "13-2-0 (W-L-D)",
             "SLpM": "5.29",
@@ -2333,7 +2333,7 @@
         },
         "Bo Nickal": {
             "Name": "Bo Nickal",
-            "Profile_URL": "https://www.ufc.com/athlete/bo-nickal",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/bo-nickal",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NICKAL_BO_06-14.png?itok=sc2JlKnj",
             "Record": "9-1-0 (W-L-D)",
             "SLpM": "3.35",
@@ -2681,7 +2681,7 @@
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
-            "Profile_URL": "https://www.ufc.com/athlete/rei-tsuruya",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/rei-tsuruya",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TSURUYA_REI_08-29.png?itok=Dd_qmDP3",
             "Record": "12-1-0 (W-L-D)",
             "SLpM": "2.85",
